@@ -10,7 +10,7 @@ JOIN category ON review.category_id = category.category_id
 ORDER By reviews DESC
 LIMIT 100;
 
--- to 100 chain restaurant
+-- top 100 chain restaurant
 SELECT restaurant.name,
        review.reviews_nr as reviews,
        review.rating,

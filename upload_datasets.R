@@ -9,7 +9,7 @@ conn <- dbConnect(Postgres(),
                   port = 5432,
                   dbname = "christget",
                   user = "christgett",
-                  password = "MAO3Zl7NsWTe",
+                  password = "",
                   sslmode = "require")
 
 # import csv file

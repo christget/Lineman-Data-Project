@@ -1,0 +1,1263 @@
+,region,province,district,sub_district,province_eng,location,location_id
+0,Southern,นราธิวาส,เมืองนราธิวาส,บางนาค,Narathiwat,Southern/นราธิวาส/เมืองนราธิวาส/บางนาค/Narathiwat,0
+1,Southern,นราธิวาส,เมืองนราธิวาส,ลำภู,Narathiwat,Southern/นราธิวาส/เมืองนราธิวาส/ลำภู/Narathiwat,1
+2,Southern,นราธิวาส,เมืองนราธิวาส,โคกเคียน,Narathiwat,Southern/นราธิวาส/เมืองนราธิวาส/โคกเคียน/Narathiwat,2
+3,Southern,นราธิวาส,เมืองนราธิวาส,กะลุวอเหนือ,Narathiwat,Southern/นราธิวาส/เมืองนราธิวาส/กะลุวอเหนือ/Narathiwat,3
+4,Southern,นราธิวาส,เมืองนราธิวาส,Not Sated,Narathiwat,Southern/นราธิวาส/เมืองนราธิวาส/Not Sated/Narathiwat,4
+5,Southern,ยะลา,เมืองยะลา,สะเตง,Yala,Southern/ยะลา/เมืองยะลา/สะเตง/Yala,5
+6,Southern,ยะลา,เมืองยะลา,สะเตงนอก,Yala,Southern/ยะลา/เมืองยะลา/สะเตงนอก/Yala,6
+7,Southern,ยะลา,เมืองยะลา,ยะลา,Yala,Southern/ยะลา/เมืองยะลา/ยะลา/Yala,7
+8,Southern,ยะลา,เมืองยะลา,ท่าสาป,Yala,Southern/ยะลา/เมืองยะลา/ท่าสาป/Yala,8
+9,Southern,ปัตตานี,ยะรัง,เขาตูม,Pattani,Southern/ปัตตานี/ยะรัง/เขาตูม/Pattani,9
+10,Southern,ยะลา,Not Sated,Not Sated,Yala,Southern/ยะลา/Not Sated/Not Sated/Yala,10
+11,Southern,ปัตตานี,เมืองปัตตานี,บานา,Pattani,Southern/ปัตตานี/เมืองปัตตานี/บานา/Pattani,11
+12,Southern,ปัตตานี,เมืองปัตตานี,สะบารัง,Pattani,Southern/ปัตตานี/เมืองปัตตานี/สะบารัง/Pattani,12
+13,Southern,ปัตตานี,เมืองปัตตานี,รูสะมิแล,Pattani,Southern/ปัตตานี/เมืองปัตตานี/รูสะมิแล/Pattani,13
+14,Southern,ปัตตานี,เมืองปัตตานี,จะบังติกอ,Pattani,Southern/ปัตตานี/เมืองปัตตานี/จะบังติกอ/Pattani,14
+15,Southern,ปัตตานี,เมืองปัตตานี,อาเนาะรู,Pattani,Southern/ปัตตานี/เมืองปัตตานี/อาเนาะรู/Pattani,15
+16,Southern,ปัตตานี,เมืองปัตตานี,ตะลุโบะ,Pattani,Southern/ปัตตานี/เมืองปัตตานี/ตะลุโบะ/Pattani,16
+17,Southern,ปัตตานี,หนองจิก,ตุยง,Pattani,Southern/ปัตตานี/หนองจิก/ตุยง/Pattani,17
+18,Southern,ปัตตานี,หนองจิก,ดอนรัก,Pattani,Southern/ปัตตานี/หนองจิก/ดอนรัก/Pattani,18
+19,Southern,ปัตตานี,ยะหริ่ง,แหลมโพธิ์,Pattani,Southern/ปัตตานี/ยะหริ่ง/แหลมโพธิ์/Pattani,19
+20,Southern,ปัตตานี,เมืองปัตตานี,ตันหยงลุโละ,Pattani,Southern/ปัตตานี/เมืองปัตตานี/ตันหยงลุโละ/Pattani,20
+21,Southern,ปัตตานี,ยะหริ่ง,บางปู,Pattani,Southern/ปัตตานี/ยะหริ่ง/บางปู/Pattani,21
+22,Southern,ปัตตานี,เมืองปัตตานี,บาราโหม,Pattani,Southern/ปัตตานี/เมืองปัตตานี/บาราโหม/Pattani,22
+23,Southern,ปัตตานี,ยะรัง,ยะรัง,Pattani,Southern/ปัตตานี/ยะรัง/ยะรัง/Pattani,23
+24,Southern,ปัตตานี,หนองจิก,บางตาวา,Pattani,Southern/ปัตตานี/หนองจิก/บางตาวา/Pattani,24
+25,Eastern,สุรินทร์,บัวเชด,สะเดา,Surin,Eastern/สุรินทร์/บัวเชด/สะเดา/Surin,25
+26,Southern,ปัตตานี,Not Sated,Not Sated,Pattani,Southern/ปัตตานี/Not Sated/Not Sated/Pattani,26
+27,Southern,สงขลา,หาดใหญ่,หาดใหญ่,Songkhla,Southern/สงขลา/หาดใหญ่/หาดใหญ่/Songkhla,27
+28,Southern,สงขลา,หาดใหญ่,ควนลัง,Songkhla,Southern/สงขลา/หาดใหญ่/ควนลัง/Songkhla,28
+29,Southern,สงขลา,เมืองสงขลา,บ่อยาง,Songkhla,Southern/สงขลา/เมืองสงขลา/บ่อยาง/Songkhla,29
+30,Southern,สงขลา,หาดใหญ่,คลองแห,Songkhla,Southern/สงขลา/หาดใหญ่/คลองแห/Songkhla,30
+31,Southern,สงขลา,หาดใหญ่,คอหงส์,Songkhla,Southern/สงขลา/หาดใหญ่/คอหงส์/Songkhla,31
+32,Southern,สงขลา,เมืองสงขลา,เขารูปช้าง,Songkhla,Southern/สงขลา/เมืองสงขลา/เขารูปช้าง/Songkhla,32
+33,Southern,สงขลา,หาดใหญ่,บ้านพรุ,Songkhla,Southern/สงขลา/หาดใหญ่/บ้านพรุ/Songkhla,33
+34,Southern,สงขลา,หาดใหญ่,คลองอู่ตะเภา,Songkhla,Southern/สงขลา/หาดใหญ่/คลองอู่ตะเภา/Songkhla,34
+35,Southern,สงขลา,เมืองสงขลา,พะวง,Songkhla,Southern/สงขลา/เมืองสงขลา/พะวง/Songkhla,35
+36,Southern,สงขลา,สิงหนคร,หัวเขา,Songkhla,Southern/สงขลา/สิงหนคร/หัวเขา/Songkhla,36
+37,Bangkok,กรุงเทพมหานคร,พระนคร,บวรนิเวศ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/บวรนิเวศ/Bangkok Metropolis,37
+38,Bangkok,กรุงเทพมหานคร,บึงกุ่ม,นวลจันทร์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บึงกุ่ม/นวลจันทร์/Bangkok Metropolis,38
+39,Central,สมุทรปราการ,พระสมุทรเจดีย์,บ้านคลองสวน,Samut Prakan,Central/สมุทรปราการ/พระสมุทรเจดีย์/บ้านคลองสวน/Samut Prakan,39
+40,Southern,สงขลา,บางกล่ำ,ท่าช้าง,Songkhla,Southern/สงขลา/บางกล่ำ/ท่าช้าง/Songkhla,40
+41,Southern,สงขลา,หาดใหญ่,น้ำน้อย,Songkhla,Southern/สงขลา/หาดใหญ่/น้ำน้อย/Songkhla,41
+42,Southern,สงขลา,เมืองสงขลา,เกาะยอ,Songkhla,Southern/สงขลา/เมืองสงขลา/เกาะยอ/Songkhla,42
+43,Southern,สงขลา,คลองหอยโข่ง,คลองหลา,Songkhla,Southern/สงขลา/คลองหอยโข่ง/คลองหลา/Songkhla,43
+44,Southern,สงขลา,หาดใหญ่,ท่าข้าม,Songkhla,Southern/สงขลา/หาดใหญ่/ท่าข้าม/Songkhla,44
+45,Southern,สงขลา,หาดใหญ่,คูเต่า,Songkhla,Southern/สงขลา/หาดใหญ่/คูเต่า/Songkhla,45
+46,Southern,สงขลา,หาดใหญ่,Not Sated,Songkhla,Southern/สงขลา/หาดใหญ่/Not Sated/Songkhla,46
+47,Southern,สงขลา,บางกล่ำ,บ้านหาร,Songkhla,Southern/สงขลา/บางกล่ำ/บ้านหาร/Songkhla,47
+48,Southern,สงขลา,เมืองสงขลา,Not Sated,Songkhla,Southern/สงขลา/เมืองสงขลา/Not Sated/Songkhla,48
+49,Southern,สงขลา,นาหม่อม,นาหม่อม,Songkhla,Southern/สงขลา/นาหม่อม/นาหม่อม/Songkhla,49
+50,Bangkok,กรุงเทพมหานคร,สาทร,ทุ่งวัดดอน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สาทร/ทุ่งวัดดอน/Bangkok Metropolis,50
+51,Southern,สงขลา,เมืองสงขลา,ทุ่งหวัง,Songkhla,Southern/สงขลา/เมืองสงขลา/ทุ่งหวัง/Songkhla,51
+52,Southern,สงขลา,Not Sated,Not Sated,Songkhla,Southern/สงขลา/Not Sated/Not Sated/Songkhla,52
+53,Southern,สงขลา,หาดใหญ่,ทุ่งใหญ่,Songkhla,Southern/สงขลา/หาดใหญ่/ทุ่งใหญ่/Songkhla,53
+54,Southern,สงขลา,เมืองสงขลา,เกาะแต้ว,Songkhla,Southern/สงขลา/เมืองสงขลา/เกาะแต้ว/Songkhla,54
+55,Southern,พัทลุง,เมืองพัทลุง,ท่ามิหรำ,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/ท่ามิหรำ/Phatthalung,55
+56,Southern,พัทลุง,เมืองพัทลุง,คูหาสวรรค์,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/คูหาสวรรค์/Phatthalung,56
+57,Southern,พัทลุง,เมืองพัทลุง,ท่าแค,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/ท่าแค/Phatthalung,57
+58,Central,นครปฐม,สามพราน,ท่าตลาด,Nakhon Pathom,Central/นครปฐม/สามพราน/ท่าตลาด/Nakhon Pathom,58
+59,Southern,สงขลา,บางกล่ำ,แม่ทอม,Songkhla,Southern/สงขลา/บางกล่ำ/แม่ทอม/Songkhla,59
+60,Southern,ตรัง,เมืองตรัง,ตรัง,Trang,Southern/ตรัง/เมืองตรัง/ตรัง/Trang,60
+61,Southern,ตรัง,เมืองตรัง,บ้านควน,Trang,Southern/ตรัง/เมืองตรัง/บ้านควน/Trang,61
+62,Southern,ตรัง,เมืองตรัง,ทับเที่ยง,Trang,Southern/ตรัง/เมืองตรัง/ทับเที่ยง/Trang,62
+63,Southern,ตรัง,เมืองตรัง,Not Sated,Trang,Southern/ตรัง/เมืองตรัง/Not Sated/Trang,63
+64,Southern,ตรัง,เมืองตรัง,นาตาล่วง,Trang,Southern/ตรัง/เมืองตรัง/นาตาล่วง/Trang,64
+65,Southern,ตรัง,เมืองตรัง,บ้านโพธิ์,Trang,Southern/ตรัง/เมืองตรัง/บ้านโพธิ์/Trang,65
+66,Southern,ตรัง,เมืองตรัง,ควนปริง,Trang,Southern/ตรัง/เมืองตรัง/ควนปริง/Trang,66
+67,Bangkok,กรุงเทพมหานคร,บางกอกน้อย,บางขุนนนท์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกอกน้อย/บางขุนนนท์/Bangkok Metropolis,67
+68,Southern,ตรัง,Not Sated,Not Sated,Trang,Southern/ตรัง/Not Sated/Not Sated/Trang,68
+69,Bangkok,กรุงเทพมหานคร,บางรัก,บางรัก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางรัก/บางรัก/Bangkok Metropolis,69
+70,Southern,พัทลุง,เมืองพัทลุง,เขาเจียก,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/เขาเจียก/Phatthalung,70
+71,Southern,พัทลุง,เมืองพัทลุง,โคกชะงาย,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/โคกชะงาย/Phatthalung,71
+72,Southern,พัทลุง,เมืองพัทลุง,ตำนาน,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/ตำนาน/Phatthalung,72
+73,Southern,พัทลุง,เมืองพัทลุง,ควนมะพร้าว,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/ควนมะพร้าว/Phatthalung,73
+74,Southern,พัทลุง,เมืองพัทลุง,นาท่อม,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/นาท่อม/Phatthalung,74
+75,Southern,พัทลุง,เมืองพัทลุง,พญาขัน,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/พญาขัน/Phatthalung,75
+76,Southern,พัทลุง,ควนขนุน,พนมวังก์,Phatthalung,Southern/พัทลุง/ควนขนุน/พนมวังก์/Phatthalung,76
+77,Southern,พัทลุง,เมืองพัทลุง,ปรางหมู่,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/ปรางหมู่/Phatthalung,77
+78,Southern,พัทลุง,เมืองพัทลุง,ลำปำ,Phatthalung,Southern/พัทลุง/เมืองพัทลุง/ลำปำ/Phatthalung,78
+79,Southern,พัทลุง,ควนขนุน,ควนขนุน,Phatthalung,Southern/พัทลุง/ควนขนุน/ควนขนุน/Phatthalung,79
+80,Central,นครปฐม,นครชัยศรี,ศีรษะทอง,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ศีรษะทอง/Nakhon Pathom,80
+81,Southern,ภูเก็ต,เมืองภูเก็ต,ราไวย์,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/ราไวย์/Phuket,81
+82,Southern,ภูเก็ต,เมืองภูเก็ต,วิชิต,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/วิชิต/Phuket,82
+83,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,คลัง,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/คลัง/Nakhon Si Thammarat,83
+84,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าวัง,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ท่าวัง/Nakhon Si Thammarat,84
+85,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,โพธิ์เสด็จ,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/โพธิ์เสด็จ/Nakhon Si Thammarat,85
+86,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ในเมือง,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ในเมือง/Nakhon Si Thammarat,86
+87,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,มะม่วงสองต้น,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/มะม่วงสองต้น/Nakhon Si Thammarat,87
+88,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่างิ้ว,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ท่างิ้ว/Nakhon Si Thammarat,88
+89,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากนคร,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ปากนคร/Nakhon Si Thammarat,89
+90,Southern,นครศรีธรรมราช,พระพรหม,นาสาร,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/พระพรหม/นาสาร/Nakhon Si Thammarat,90
+91,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าเรือ,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ท่าเรือ/Nakhon Si Thammarat,91
+92,Southern,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/พระพรหม/ช้างซ้าย/Nakhon Si Thammarat,92
+93,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากพูน,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ปากพูน/Nakhon Si Thammarat,93
+94,Eastern,นครราชสีมา,เมืองนครราชสีมา,หัวทะเล,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/หัวทะเล/Nakhon Ratchasima,94
+95,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ไชยมนตรี,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ไชยมนตรี/Nakhon Si Thammarat,95
+96,Southern,นครศรีธรรมราช,พระพรหม,นาพรุ,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/พระพรหม/นาพรุ/Nakhon Si Thammarat,96
+97,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าไร่,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ท่าไร่/Nakhon Si Thammarat,97
+98,Bangkok,กรุงเทพมหานคร,หนองจอก,หนองจอก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองจอก/หนองจอก/Bangkok Metropolis,98
+99,Southern,นครศรีธรรมราช,ทุ่งสง,เขาขาว,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/ทุ่งสง/เขาขาว/Nakhon Si Thammarat,99
+100,Southern,นครศรีธรรมราช,ร่อนพิบูลย์,ร่อนพิบูลย์,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/ร่อนพิบูลย์/ร่อนพิบูลย์/Nakhon Si Thammarat,100
+101,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,บางจาก,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/บางจาก/Nakhon Si Thammarat,101
+102,Southern,นครศรีธรรมราช,Not Sated,Not Sated,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/Not Sated/Not Sated/Nakhon Si Thammarat,102
+103,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,นาเคียน,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/นาเคียน/Nakhon Si Thammarat,103
+104,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าซัก,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/ท่าซัก/Nakhon Si Thammarat,104
+105,Central,นนทบุรี,ปากเกร็ด,บ้านใหม่,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/บ้านใหม่/Nonthaburi,105
+106,Southern,นครศรีธรรมราช,เมืองนครศรีธรรมราช,Not Sated,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/เมืองนครศรีธรรมราช/Not Sated/Nakhon Si Thammarat,106
+107,Southern,ภูเก็ต,กะทู้,กะทู้,Phuket,Southern/ภูเก็ต/กะทู้/กะทู้/Phuket,107
+108,Southern,ภูเก็ต,เมืองภูเก็ต,ตลาดเหนือ,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/ตลาดเหนือ/Phuket,108
+109,Southern,ภูเก็ต,เมืองภูเก็ต,รัษฎา,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/รัษฎา/Phuket,109
+110,Southern,ภูเก็ต,เมืองภูเก็ต,ตลาดใหญ่,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/ตลาดใหญ่/Phuket,110
+111,Bangkok,กรุงเทพมหานคร,ประเวศ,หนองบอน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ประเวศ/หนองบอน/Bangkok Metropolis,111
+112,Southern,ภูเก็ต,ถลาง,ศรีสุนทร,Phuket,Southern/ภูเก็ต/ถลาง/ศรีสุนทร/Phuket,112
+113,Southern,ภูเก็ต,กะทู้,ป่าตอง,Phuket,Southern/ภูเก็ต/กะทู้/ป่าตอง/Phuket,113
+114,Southern,ภูเก็ต,เมืองภูเก็ต,เกาะแก้ว,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/เกาะแก้ว/Phuket,114
+115,Bangkok,กรุงเทพมหานคร,พระนคร,บ้านพานถม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/บ้านพานถม/Bangkok Metropolis,115
+116,Bangkok,กรุงเทพมหานคร,วังทองหลาง,พลับพลา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วังทองหลาง/พลับพลา/Bangkok Metropolis,116
+117,Southern,ภูเก็ต,เมืองภูเก็ต,Not Sated,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/Not Sated/Phuket,117
+118,Bangkok,กรุงเทพมหานคร,สาทร,ทุ่งมหาเมฆ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สาทร/ทุ่งมหาเมฆ/Bangkok Metropolis,118
+119,Bangkok,กรุงเทพมหานคร,คลองเตย,พระโขนง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองเตย/พระโขนง/Bangkok Metropolis,119
+120,Southern,ภูเก็ต,เมืองภูเก็ต,ฉลอง,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/ฉลอง/Phuket,120
+121,Southern,ภูเก็ต,ถลาง,เชิงทะเล,Phuket,Southern/ภูเก็ต/ถลาง/เชิงทะเล/Phuket,121
+122,Southern,ภูเก็ต,เมืองภูเก็ต,กะรน,Phuket,Southern/ภูเก็ต/เมืองภูเก็ต/กะรน/Phuket,122
+123,Bangkok,กรุงเทพมหานคร,คลองสามวา,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสามวา/Not Sated/Bangkok Metropolis,123
+124,Northern,น่าน,เมืองน่าน,ในเวียง,Nan,Northern/น่าน/เมืองน่าน/ในเวียง/Nan,124
+125,Bangkok,กรุงเทพมหานคร,ภาษีเจริญ,บางด้วน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ภาษีเจริญ/บางด้วน/Bangkok Metropolis,125
+126,Bangkok,กรุงเทพมหานคร,พระนคร,พระบรมมหาราชวัง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/พระบรมมหาราชวัง/Bangkok Metropolis,126
+127,Southern,ภูเก็ต,ถลาง,สาคู,Phuket,Southern/ภูเก็ต/ถลาง/สาคู/Phuket,127
+128,Southern,ภูเก็ต,ถลาง,เทพกระษัตรี,Phuket,Southern/ภูเก็ต/ถลาง/เทพกระษัตรี/Phuket,128
+129,Southern,กระบี่,เมืองกระบี่,อ่าวนาง,Krabi,Southern/กระบี่/เมืองกระบี่/อ่าวนาง/Krabi,129
+130,Southern,ภูเก็ต,ถลาง,ป่าคลอก,Phuket,Southern/ภูเก็ต/ถลาง/ป่าคลอก/Phuket,130
+131,Central,ชลบุรี,พนัสนิคม,พนัสนิคม,Chon buri,Central/ชลบุรี/พนัสนิคม/พนัสนิคม/Chon buri,131
+132,Southern,นครศรีธรรมราช,พรหมคีรี,อินคีรี,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/พรหมคีรี/อินคีรี/Nakhon Si Thammarat,132
+133,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,มะขามเตี้ย,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/มะขามเตี้ย/Surat Thani,133
+134,Southern,สุราษฎร์ธานี,พุนพิน,ท่าข้าม,Surat Thani,Southern/สุราษฎร์ธานี/พุนพิน/ท่าข้าม/Surat Thani,134
+135,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,วัดประดู่,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/วัดประดู่/Surat Thani,135
+136,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,บางกุ้ง,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/บางกุ้ง/Surat Thani,136
+137,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,ขุนทะเล,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/ขุนทะเล/Surat Thani,137
+138,Southern,สุราษฎร์ธานี,กาญจนดิษฐ์,ทุ่งกง,Surat Thani,Southern/สุราษฎร์ธานี/กาญจนดิษฐ์/ทุ่งกง/Surat Thani,138
+139,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,ตลาด,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/ตลาด/Surat Thani,139
+140,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,บางชนะ,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/บางชนะ/Surat Thani,140
+141,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,บางโพธิ์,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/บางโพธิ์/Surat Thani,141
+142,Southern,สุราษฎร์ธานี,กาญจนดิษฐ์,ท่าทองใหม่,Surat Thani,Southern/สุราษฎร์ธานี/กาญจนดิษฐ์/ท่าทองใหม่/Surat Thani,142
+143,Southern,สุราษฎร์ธานี,พุนพิน,พุนพิน,Surat Thani,Southern/สุราษฎร์ธานี/พุนพิน/พุนพิน/Surat Thani,143
+144,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,Not Sated,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/Not Sated/Surat Thani,144
+145,Southern,สุราษฎร์ธานี,เมืองสุราษฎร์ธานี,คลองน้อย,Surat Thani,Southern/สุราษฎร์ธานี/เมืองสุราษฎร์ธานี/คลองน้อย/Surat Thani,145
+146,Southern,นครศรีธรรมราช,ลานสกา,กำโลน,Nakhon Si Thammarat,Southern/นครศรีธรรมราช/ลานสกา/กำโลน/Nakhon Si Thammarat,146
+147,Bangkok,กรุงเทพมหานคร,บางกะปิ,คลองจั่น,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกะปิ/คลองจั่น/Bangkok Metropolis,147
+148,Central,สมุทรสาคร,เมืองสมุทรสาคร,ท่าทราย,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/ท่าทราย/Samut Sakhon,148
+149,Southern,สุราษฎร์ธานี,พุนพิน,หัวเตย,Surat Thani,Southern/สุราษฎร์ธานี/พุนพิน/หัวเตย/Surat Thani,149
+150,Southern,สุราษฎร์ธานี,ท่าฉาง,คลองไทร,Surat Thani,Southern/สุราษฎร์ธานี/ท่าฉาง/คลองไทร/Surat Thani,150
+151,Southern,สุราษฎร์ธานี,พุนพิน,มะลวน,Surat Thani,Southern/สุราษฎร์ธานี/พุนพิน/มะลวน/Surat Thani,151
+152,Southern,สุราษฎร์ธานี,พุนพิน,หนองไทร,Surat Thani,Southern/สุราษฎร์ธานี/พุนพิน/หนองไทร/Surat Thani,152
+153,Southern,สุราษฎร์ธานี,พุนพิน,ศรีวิชัย,Surat Thani,Southern/สุราษฎร์ธานี/พุนพิน/ศรีวิชัย/Surat Thani,153
+154,Southern,สุราษฎร์ธานี,เกาะสมุย,บ่อผุด,Surat Thani,Southern/สุราษฎร์ธานี/เกาะสมุย/บ่อผุด/Surat Thani,154
+155,Southern,ระนอง,เมืองระนอง,เขานิเวศน์,Ranong,Southern/ระนอง/เมืองระนอง/เขานิเวศน์/Ranong,155
+156,Southern,ระนอง,เมืองระนอง,บางริ้น,Ranong,Southern/ระนอง/เมืองระนอง/บางริ้น/Ranong,156
+157,Southern,ระนอง,เมืองระนอง,บางนอน,Ranong,Southern/ระนอง/เมืองระนอง/บางนอน/Ranong,157
+158,Southern,ชุมพร,เมืองชุมพร,ท่าตะเภา,Chumphon,Southern/ชุมพร/เมืองชุมพร/ท่าตะเภา/Chumphon,158
+159,Southern,ชุมพร,เมืองชุมพร,นาทุ่ง,Chumphon,Southern/ชุมพร/เมืองชุมพร/นาทุ่ง/Chumphon,159
+160,Southern,ชุมพร,เมืองชุมพร,วังไผ่,Chumphon,Southern/ชุมพร/เมืองชุมพร/วังไผ่/Chumphon,160
+161,Southern,ชุมพร,เมืองชุมพร,ตากแดด,Chumphon,Southern/ชุมพร/เมืองชุมพร/ตากแดด/Chumphon,161
+162,Southern,ชุมพร,เมืองชุมพร,บางลึก,Chumphon,Southern/ชุมพร/เมืองชุมพร/บางลึก/Chumphon,162
+163,Southern,ชุมพร,เมืองชุมพร,บางหมาก,Chumphon,Southern/ชุมพร/เมืองชุมพร/บางหมาก/Chumphon,163
+164,Central,ตราด,เมืองตราด,วังกระแจะ,Trat,Central/ตราด/เมืองตราด/วังกระแจะ/Trat,164
+165,Central,ตราด,เมืองตราด,บางพระ,Trat,Central/ตราด/เมืองตราด/บางพระ/Trat,165
+166,Central,ตราด,เมืองตราด,หนองเสม็ด,Trat,Central/ตราด/เมืองตราด/หนองเสม็ด/Trat,166
+167,Central,ตราด,เมืองตราด,เนินทราย,Trat,Central/ตราด/เมืองตราด/เนินทราย/Trat,167
+168,Central,ตราด,Not Sated,Not Sated,Trat,Central/ตราด/Not Sated/Not Sated/Trat,168
+169,Central,ระยอง,เมืองระยอง,ตะพง,Rayong,Central/ระยอง/เมืองระยอง/ตะพง/Rayong,169
+170,Central,ระยอง,เมืองระยอง,บ้านเพ,Rayong,Central/ระยอง/เมืองระยอง/บ้านเพ/Rayong,170
+171,Central,ระยอง,เมืองระยอง,เพ,Rayong,Central/ระยอง/เมืองระยอง/เพ/Rayong,171
+172,Central,สมุทรปราการ,พระประแดง,บางครุ,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางครุ/Samut Prakan,172
+173,Central,ระยอง,เมืองระยอง,เชิงเนิน,Rayong,Central/ระยอง/เมืองระยอง/เชิงเนิน/Rayong,173
+174,Central,ระยอง,เมืองระยอง,เนินพระ,Rayong,Central/ระยอง/เมืองระยอง/เนินพระ/Rayong,174
+175,Central,ระยอง,เมืองระยอง,ท่าประดู่,Rayong,Central/ระยอง/เมืองระยอง/ท่าประดู่/Rayong,175
+176,Central,ระยอง,บ้านค่าย,ตาขัน,Rayong,Central/ระยอง/บ้านค่าย/ตาขัน/Rayong,176
+177,Central,ระยอง,เมืองระยอง,กะเฉด,Rayong,Central/ระยอง/เมืองระยอง/กะเฉด/Rayong,177
+178,Central,ระยอง,เมืองระยอง,ทับมา,Rayong,Central/ระยอง/เมืองระยอง/ทับมา/Rayong,178
+179,Central,ระยอง,เมืองระยอง,บ้านแลง,Rayong,Central/ระยอง/เมืองระยอง/บ้านแลง/Rayong,179
+180,Central,ระยอง,เมืองระยอง,ปากน้ำ,Rayong,Central/ระยอง/เมืองระยอง/ปากน้ำ/Rayong,180
+181,Central,ระยอง,เมืองระยอง,ห้วยโป่ง,Rayong,Central/ระยอง/เมืองระยอง/ห้วยโป่ง/Rayong,181
+182,Northern,เพชรบูรณ์,เมืองเพชรบูรณ์,ในเมือง,Phetchabun,Northern/เพชรบูรณ์/เมืองเพชรบูรณ์/ในเมือง/Phetchabun,182
+183,Central,ระยอง,แกลง,ทางเกวียน,Rayong,Central/ระยอง/แกลง/ทางเกวียน/Rayong,183
+184,Bangkok,กรุงเทพมหานคร,วังทองหลาง,คลองเจ้าคุณสิงห์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วังทองหลาง/คลองเจ้าคุณสิงห์/Bangkok Metropolis,184
+185,Central,จันทบุรี,เมืองจันทบุรี,วัดใหม่,Chanthaburi,Central/จันทบุรี/เมืองจันทบุรี/วัดใหม่/Chanthaburi,185
+186,Bangkok,กรุงเทพมหานคร,ลาดกระบัง,คลองสามประเวศ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดกระบัง/คลองสามประเวศ/Bangkok Metropolis,186
+187,Central,ระยอง,บ้านค่าย,บ้านค่าย,Rayong,Central/ระยอง/บ้านค่าย/บ้านค่าย/Rayong,187
+188,Bangkok,กรุงเทพมหานคร,บางขุนเทียน,แสมดำ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางขุนเทียน/แสมดำ/Bangkok Metropolis,188
+189,Central,ระยอง,บ้านค่าย,หนองตะพาน,Rayong,Central/ระยอง/บ้านค่าย/หนองตะพาน/Rayong,189
+190,Central,ระยอง,เมืองระยอง,มาบตาพุด,Rayong,Central/ระยอง/เมืองระยอง/มาบตาพุด/Rayong,190
+191,Central,ระยอง,นิคมพัฒนา,มาบข่า,Rayong,Central/ระยอง/นิคมพัฒนา/มาบข่า/Rayong,191
+192,Central,ชลบุรี,ศรีราชา,สุรศักดิ์,Chon buri,Central/ชลบุรี/ศรีราชา/สุรศักดิ์/Chon buri,192
+193,Bangkok,กรุงเทพมหานคร,พระนคร,วัดราชบพิธ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/วัดราชบพิธ/Bangkok Metropolis,193
+194,Central,ระยอง,บ้านฉาง,บ้านฉาง,Rayong,Central/ระยอง/บ้านฉาง/บ้านฉาง/Rayong,194
+195,Central,ชลบุรี,ศรีราชา,ทุ่งสุขลา,Chon buri,Central/ชลบุรี/ศรีราชา/ทุ่งสุขลา/Chon buri,195
+196,Central,ชลบุรี,ศรีราชา,ศรีราชา,Chon buri,Central/ชลบุรี/ศรีราชา/ศรีราชา/Chon buri,196
+197,Central,ชลบุรี,เมืองชลบุรี,แสนสุข,Chon buri,Central/ชลบุรี/เมืองชลบุรี/แสนสุข/Chon buri,197
+198,Central,ชลบุรี,ศรีราชา,หนองขาม,Chon buri,Central/ชลบุรี/ศรีราชา/หนองขาม/Chon buri,198
+199,Central,ชลบุรี,ศรีราชา,บึง,Chon buri,Central/ชลบุรี/ศรีราชา/บึง/Chon buri,199
+200,Central,ชลบุรี,ศรีราชา,เทศบาลนครแหลมฉบัง,Chon buri,Central/ชลบุรี/ศรีราชา/เทศบาลนครแหลมฉบัง/Chon buri,200
+201,Central,ชลบุรี,บางละมุง,เมืองพัทยา,Chon buri,Central/ชลบุรี/บางละมุง/เมืองพัทยา/Chon buri,201
+202,Central,ชลบุรี,บางละมุง,บางละมุง,Chon buri,Central/ชลบุรี/บางละมุง/บางละมุง/Chon buri,202
+203,Central,ชลบุรี,บางละมุง,หนองปรือ,Chon buri,Central/ชลบุรี/บางละมุง/หนองปรือ/Chon buri,203
+204,Central,ระยอง,บ้านฉาง,สำนักท้อน,Rayong,Central/ระยอง/บ้านฉาง/สำนักท้อน/Rayong,204
+205,Central,ชลบุรี,Not Sated,Not Sated,Chon buri,Central/ชลบุรี/Not Sated/Not Sated/Chon buri,205
+206,Central,ชลบุรี,ศรีราชา,บางพระ,Chon buri,Central/ชลบุรี/ศรีราชา/บางพระ/Chon buri,206
+207,Central,ชลบุรี,บางละมุง,นาเกลือ,Chon buri,Central/ชลบุรี/บางละมุง/นาเกลือ/Chon buri,207
+208,Central,ชลบุรี,เมืองชลบุรี,ห้วยกะปิ,Chon buri,Central/ชลบุรี/เมืองชลบุรี/ห้วยกะปิ/Chon buri,208
+209,Central,ชลบุรี,เมืองชลบุรี,เหมือง,Chon buri,Central/ชลบุรี/เมืองชลบุรี/เหมือง/Chon buri,209
+210,Central,ชลบุรี,เมืองชลบุรี,หนองรี,Chon buri,Central/ชลบุรี/เมืองชลบุรี/หนองรี/Chon buri,210
+211,Central,ชลบุรี,บ้านบึง,บ้านบึง,Chon buri,Central/ชลบุรี/บ้านบึง/บ้านบึง/Chon buri,211
+212,Central,ชลบุรี,บางละมุง,ตะเคียนเตี้ย,Chon buri,Central/ชลบุรี/บางละมุง/ตะเคียนเตี้ย/Chon buri,212
+213,Central,ระยอง,บ้านฉาง,พลา,Rayong,Central/ระยอง/บ้านฉาง/พลา/Rayong,213
+214,Central,ชลบุรี,เมืองชลบุรี,บ้านปึก,Chon buri,Central/ชลบุรี/เมืองชลบุรี/บ้านปึก/Chon buri,214
+215,Central,ชลบุรี,บางละมุง,โป่ง,Chon buri,Central/ชลบุรี/บางละมุง/โป่ง/Chon buri,215
+216,Central,ชลบุรี,ศรีราชา,บ่อวิน,Chon buri,Central/ชลบุรี/ศรีราชา/บ่อวิน/Chon buri,216
+217,Central,ชลบุรี,บางละมุง,ห้วยใหญ่,Chon buri,Central/ชลบุรี/บางละมุง/ห้วยใหญ่/Chon buri,217
+218,Central,ชลบุรี,เมืองชลบุรี,Not Sated,Chon buri,Central/ชลบุรี/เมืองชลบุรี/Not Sated/Chon buri,218
+219,Central,ชลบุรี,สัตหีบ,นาจอมเทียน,Chon buri,Central/ชลบุรี/สัตหีบ/นาจอมเทียน/Chon buri,219
+220,Central,ชลบุรี,เมืองชลบุรี,เสม็ด,Chon buri,Central/ชลบุรี/เมืองชลบุรี/เสม็ด/Chon buri,220
+221,Central,ชลบุรี,บางละมุง,หนองปลาไหล,Chon buri,Central/ชลบุรี/บางละมุง/หนองปลาไหล/Chon buri,221
+222,Central,ชลบุรี,ศรีราชา,เขาคันทรง,Chon buri,Central/ชลบุรี/ศรีราชา/เขาคันทรง/Chon buri,222
+223,Central,ชลบุรี,สัตหีบ,สัตหีบ,Chon buri,Central/ชลบุรี/สัตหีบ/สัตหีบ/Chon buri,223
+224,Central,ชลบุรี,สัตหีบ,Not Sated,Chon buri,Central/ชลบุรี/สัตหีบ/Not Sated/Chon buri,224
+225,Central,ชลบุรี,สัตหีบ,พลูตาหลวง,Chon buri,Central/ชลบุรี/สัตหีบ/พลูตาหลวง/Chon buri,225
+226,Central,ชลบุรี,สัตหีบ,บางเสร่,Chon buri,Central/ชลบุรี/สัตหีบ/บางเสร่/Chon buri,226
+227,Central,นนทบุรี,บางกรวย,บางสีทอง,Nonthaburi,Central/นนทบุรี/บางกรวย/บางสีทอง/Nonthaburi,227
+228,Bangkok,กรุงเทพมหานคร,มีนบุรี,มีนบุรี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/มีนบุรี/มีนบุรี/Bangkok Metropolis,228
+229,Central,ชลบุรี,เมืองชลบุรี,บ้านสวน,Chon buri,Central/ชลบุรี/เมืองชลบุรี/บ้านสวน/Chon buri,229
+230,Central,ชลบุรี,เมืองชลบุรี,อ่างศิลา,Chon buri,Central/ชลบุรี/เมืองชลบุรี/อ่างศิลา/Chon buri,230
+231,Central,ชลบุรี,เมืองชลบุรี,บางปลาสร้อย,Chon buri,Central/ชลบุรี/เมืองชลบุรี/บางปลาสร้อย/Chon buri,231
+232,Central,ชลบุรี,เมืองชลบุรี,มะขามหย่ง,Chon buri,Central/ชลบุรี/เมืองชลบุรี/มะขามหย่ง/Chon buri,232
+233,Central,ชลบุรี,เมืองชลบุรี,บ้านโขด,Chon buri,Central/ชลบุรี/เมืองชลบุรี/บ้านโขด/Chon buri,233
+234,Central,ชลบุรี,เมืองชลบุรี,คลองตำหรุ,Chon buri,Central/ชลบุรี/เมืองชลบุรี/คลองตำหรุ/Chon buri,234
+235,Central,ชลบุรี,เมืองชลบุรี,หนองไม้แดง,Chon buri,Central/ชลบุรี/เมืองชลบุรี/หนองไม้แดง/Chon buri,235
+236,Central,ชลบุรี,เมืองชลบุรี,สำนักบก,Chon buri,Central/ชลบุรี/เมืองชลบุรี/สำนักบก/Chon buri,236
+237,Central,ชลบุรี,เมืองชลบุรี,นาป่า,Chon buri,Central/ชลบุรี/เมืองชลบุรี/นาป่า/Chon buri,237
+238,Central,ชลบุรี,เมืองชลบุรี,บางทราย,Chon buri,Central/ชลบุรี/เมืองชลบุรี/บางทราย/Chon buri,238
+239,Central,ชลบุรี,เมืองชลบุรี,หนองข้างคอก,Chon buri,Central/ชลบุรี/เมืองชลบุรี/หนองข้างคอก/Chon buri,239
+240,Bangkok,กรุงเทพมหานคร,บางกะปิ,หัวหมาก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกะปิ/หัวหมาก/Bangkok Metropolis,240
+241,Bangkok,กรุงเทพมหานคร,คลองสามวา,บางชัน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสามวา/บางชัน/Bangkok Metropolis,241
+242,Central,ชลบุรี,บ้านบึง,หนองชาก,Chon buri,Central/ชลบุรี/บ้านบึง/หนองชาก/Chon buri,242
+243,Central,ปทุมธานี,ลำลูกกา,คูคต,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/คูคต/Pathum Thani,243
+244,Central,สมุทรปราการ,บางพลี,บางแก้ว,Samut Prakan,Central/สมุทรปราการ/บางพลี/บางแก้ว/Samut Prakan,244
+245,Central,ชลบุรี,เมืองชลบุรี,ดอนหัวฬ่อ,Chon buri,Central/ชลบุรี/เมืองชลบุรี/ดอนหัวฬ่อ/Chon buri,245
+246,Central,ชลบุรี,พานทอง,หนองกะขะ,Chon buri,Central/ชลบุรี/พานทอง/หนองกะขะ/Chon buri,246
+247,Central,ชลบุรี,พานทอง,หนองตำลึง,Chon buri,Central/ชลบุรี/พานทอง/หนองตำลึง/Chon buri,247
+248,Central,ชลบุรี,พานทอง,บ้านเก่า,Chon buri,Central/ชลบุรี/พานทอง/บ้านเก่า/Chon buri,248
+249,Central,ชลบุรี,พานทอง,Not Sated,Chon buri,Central/ชลบุรี/พานทอง/Not Sated/Chon buri,249
+250,Central,ชลบุรี,พานทอง,มาบโป่ง,Chon buri,Central/ชลบุรี/พานทอง/มาบโป่ง/Chon buri,250
+251,Central,ชลบุรี,บางละมุง,เขาไม้แก้ว,Chon buri,Central/ชลบุรี/บางละมุง/เขาไม้แก้ว/Chon buri,251
+252,Central,ระยอง,ปลวกแดง,มาบยางพร,Rayong,Central/ระยอง/ปลวกแดง/มาบยางพร/Rayong,252
+253,Bangkok,กรุงเทพมหานคร,คันนายาว,รามอินทรา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คันนายาว/รามอินทรา/Bangkok Metropolis,253
+254,Bangkok,กรุงเทพมหานคร,ปทุมวัน,ลุมพินี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ปทุมวัน/ลุมพินี/Bangkok Metropolis,254
+255,Central,ชลบุรี,พานทอง,พานทอง,Chon buri,Central/ชลบุรี/พานทอง/พานทอง/Chon buri,255
+256,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,บางแก้ว,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/บางแก้ว/Samut Songkhram,256
+257,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,แม่กลอง,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/แม่กลอง/Samut Songkhram,257
+258,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,แหลมใหญ่,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/แหลมใหญ่/Samut Songkhram,258
+259,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,บ้านปรก,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/บ้านปรก/Samut Songkhram,259
+260,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,ท้ายหาด,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/ท้ายหาด/Samut Songkhram,260
+261,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,บางจะเกร็ง,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/บางจะเกร็ง/Samut Songkhram,261
+262,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,ลาดใหญ่,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/ลาดใหญ่/Samut Songkhram,262
+263,Central,สมุทรสงคราม,อัมพวา,บางช้าง,Samut Songkhram,Central/สมุทรสงคราม/อัมพวา/บางช้าง/Samut Songkhram,263
+264,Central,สมุทรสงคราม,อัมพวา,อัมพวา,Samut Songkhram,Central/สมุทรสงคราม/อัมพวา/อัมพวา/Samut Songkhram,264
+265,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,บางขันแตก,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/บางขันแตก/Samut Songkhram,265
+266,Central,สมุทรสงคราม,เมืองสมุทรสงคราม,คลองเขิน,Samut Songkhram,Central/สมุทรสงคราม/เมืองสมุทรสงคราม/คลองเขิน/Samut Songkhram,266
+267,Central,นครปฐม,สามพราน,บางเตย,Nakhon Pathom,Central/นครปฐม/สามพราน/บางเตย/Nakhon Pathom,267
+268,Central,สมุทรสงคราม,อัมพวา,ปลายโพงพาง,Samut Songkhram,Central/สมุทรสงคราม/อัมพวา/ปลายโพงพาง/Samut Songkhram,268
+269,Central,สมุทรสาคร,เมืองสมุทรสาคร,นาโคก,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/นาโคก/Samut Sakhon,269
+270,Central,สมุทรสงคราม,อัมพวา,สวนหลวง,Samut Songkhram,Central/สมุทรสงคราม/อัมพวา/สวนหลวง/Samut Songkhram,270
+271,Central,สมุทรสงคราม,อัมพวา,แควอ้อม,Samut Songkhram,Central/สมุทรสงคราม/อัมพวา/แควอ้อม/Samut Songkhram,271
+272,Central,สมุทรสาคร,เมืองสมุทรสาคร,บ้านบ่อ,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/บ้านบ่อ/Samut Sakhon,272
+273,Central,สมุทรสงคราม,อัมพวา,บางแค,Samut Songkhram,Central/สมุทรสงคราม/อัมพวา/บางแค/Samut Songkhram,273
+274,Bangkok,กรุงเทพมหานคร,Not Sated,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/Not Sated/Not Sated/Bangkok Metropolis,274
+275,Central,สมุทรสาคร,เมืองสมุทรสาคร,กาหลง,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/กาหลง/Samut Sakhon,275
+276,Central,ราชบุรี,เมืองราชบุรี,หน้าเมือง,Ratchaburi,Central/ราชบุรี/เมืองราชบุรี/หน้าเมือง/Ratchaburi,276
+277,Central,สมุทรสงคราม,Not Sated,Not Sated,Samut Songkhram,Central/สมุทรสงคราม/Not Sated/Not Sated/Samut Songkhram,277
+278,Central,สมุทรสาคร,เมืองสมุทรสาคร,บางโทรัด,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/บางโทรัด/Samut Sakhon,278
+279,Central,สมุทรสาคร,เมืองสมุทรสาคร,บางกระเจ้า,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/บางกระเจ้า/Samut Sakhon,279
+280,Central,พระนครศรีอยุธยา,บางบาล,บางบาล,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางบาล/บางบาล/Phra Nakhon Si Ayutthaya,280
+281,Central,นครปฐม,สามพราน,บ้านใหม่,Nakhon Pathom,Central/นครปฐม/สามพราน/บ้านใหม่/Nakhon Pathom,281
+282,Bangkok,กรุงเทพมหานคร,คลองสาน,คลองต้นไทร,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสาน/คลองต้นไทร/Bangkok Metropolis,282
+283,Bangkok,กรุงเทพมหานคร,ดุสิต,สวนจิตรลดา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดุสิต/สวนจิตรลดา/Bangkok Metropolis,283
+284,Bangkok,กรุงเทพมหานคร,หนองจอก,โคกแฝด,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองจอก/โคกแฝด/Bangkok Metropolis,284
+285,Central,ชลบุรี,บ้านบึง,หนองซ้ำซาก,Chon buri,Central/ชลบุรี/บ้านบึง/หนองซ้ำซาก/Chon buri,285
+286,Central,สมุทรปราการ,บางบ่อ,บางบ่อ,Samut Prakan,Central/สมุทรปราการ/บางบ่อ/บางบ่อ/Samut Prakan,286
+287,Central,สมุทรปราการ,เมืองสมุทรปราการ,แพรกษา,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/แพรกษา/Samut Prakan,287
+288,Central,สมุทรปราการ,บางเสาธง,บางเสาธง,Samut Prakan,Central/สมุทรปราการ/บางเสาธง/บางเสาธง/Samut Prakan,288
+289,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,โสธร,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/โสธร/Chachoengsao,289
+290,Central,สมุทรปราการ,เมืองสมุทรปราการ,บางปู,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/บางปู/Samut Prakan,290
+291,Central,สมุทรปราการ,บางบ่อ,บางเพรียง,Samut Prakan,Central/สมุทรปราการ/บางบ่อ/บางเพรียง/Samut Prakan,291
+292,Central,สมุทรปราการ,บางพลี,บางปลา,Samut Prakan,Central/สมุทรปราการ/บางพลี/บางปลา/Samut Prakan,292
+293,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,บางพระ,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/บางพระ/Chachoengsao,293
+294,Central,สมุทรปราการ,เมืองสมุทรปราการ,สำโรงเหนือ,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/สำโรงเหนือ/Samut Prakan,294
+295,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,หน้าเมือง,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/หน้าเมือง/Chachoengsao,295
+296,Central,สมุทรปราการ,Not Sated,Not Sated,Samut Prakan,Central/สมุทรปราการ/Not Sated/Not Sated/Samut Prakan,296
+297,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,บางตีนเป็ด,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/บางตีนเป็ด/Chachoengsao,297
+298,Central,สมุทรปราการ,เมืองสมุทรปราการ,เทพารักษ์,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/เทพารักษ์/Samut Prakan,298
+299,Bangkok,กรุงเทพมหานคร,ประเวศ,ประเวศ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ประเวศ/ประเวศ/Bangkok Metropolis,299
+300,Central,ชลบุรี,บ่อทอง,บ่อทอง,Chon buri,Central/ชลบุรี/บ่อทอง/บ่อทอง/Chon buri,300
+301,Central,ฉะเชิงเทรา,บ้านโพธิ์,คลองประเวศ,Chachoengsao,Central/ฉะเชิงเทรา/บ้านโพธิ์/คลองประเวศ/Chachoengsao,301
+302,Central,ฉะเชิงเทรา,บ้านโพธิ์,ลาดขวาง,Chachoengsao,Central/ฉะเชิงเทรา/บ้านโพธิ์/ลาดขวาง/Chachoengsao,302
+303,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,คลองนา,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/คลองนา/Chachoengsao,303
+304,Central,สมุทรปราการ,บางบ่อ,คลองด่าน,Samut Prakan,Central/สมุทรปราการ/บางบ่อ/คลองด่าน/Samut Prakan,304
+305,Central,สมุทรปราการ,บางพลี,บางพลี,Samut Prakan,Central/สมุทรปราการ/บางพลี/บางพลี/Samut Prakan,305
+306,Central,ฉะเชิงเทรา,บางปะกง,บางวัว,Chachoengsao,Central/ฉะเชิงเทรา/บางปะกง/บางวัว/Chachoengsao,306
+307,Central,ฉะเชิงเทรา,บางปะกง,ท่าข้าม,Chachoengsao,Central/ฉะเชิงเทรา/บางปะกง/ท่าข้าม/Chachoengsao,307
+308,Central,ฉะเชิงเทรา,บางปะกง,บางปะกง,Chachoengsao,Central/ฉะเชิงเทรา/บางปะกง/บางปะกง/Chachoengsao,308
+309,Central,ฉะเชิงเทรา,บางปะกง,ท่าสะอ้าน,Chachoengsao,Central/ฉะเชิงเทรา/บางปะกง/ท่าสะอ้าน/Chachoengsao,309
+310,Bangkok,กรุงเทพมหานคร,พระนคร,บางขุนพรหม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/บางขุนพรหม/Bangkok Metropolis,310
+311,Central,ชลบุรี,บางละมุง,Not Sated,Chon buri,Central/ชลบุรี/บางละมุง/Not Sated/Chon buri,311
+312,Bangkok,กรุงเทพมหานคร,จอมทอง,บางขุนเทียน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จอมทอง/บางขุนเทียน/Bangkok Metropolis,312
+313,Bangkok,กรุงเทพมหานคร,ดอนเมือง,สนามบิน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดอนเมือง/สนามบิน/Bangkok Metropolis,313
+314,Bangkok,กรุงเทพมหานคร,ปทุมวัน,ปทุมวัน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ปทุมวัน/ปทุมวัน/Bangkok Metropolis,314
+315,Central,สมุทรปราการ,บางเสาธง,ศีรษะจรเข้น้อย,Samut Prakan,Central/สมุทรปราการ/บางเสาธง/ศีรษะจรเข้น้อย/Samut Prakan,315
+316,Central,สมุทรปราการ,เมืองสมุทรปราการ,บางเมืองใหม่,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/บางเมืองใหม่/Samut Prakan,316
+317,Bangkok,กรุงเทพมหานคร,ราชเทวี,มักกะสัน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ราชเทวี/มักกะสัน/Bangkok Metropolis,317
+318,Bangkok,กรุงเทพมหานคร,ลาดกระบัง,คลองสองต้นนุ่น,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดกระบัง/คลองสองต้นนุ่น/Bangkok Metropolis,318
+319,Central,สมุทรสาคร,เมืองสมุทรสาคร,คอกกระบือ,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/คอกกระบือ/Samut Sakhon,319
+320,Central,สมุทรสาคร,กระทุ่มแบน,คลองมะเดื่อ,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/คลองมะเดื่อ/Samut Sakhon,320
+321,Central,สมุทรสาคร,เมืองสมุทรสาคร,นาดี,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/นาดี/Samut Sakhon,321
+322,Bangkok,กรุงเทพมหานคร,บางบอน,บางบอน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางบอน/บางบอน/Bangkok Metropolis,322
+323,Central,สมุทรสาคร,เมืองสมุทรสาคร,มหาชัย,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/มหาชัย/Samut Sakhon,323
+324,Central,สมุทรสาคร,เมืองสมุทรสาคร,บางน้ำจืด,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/บางน้ำจืด/Samut Sakhon,324
+325,Central,สมุทรสาคร,เมืองสมุทรสาคร,พันท้ายนรสิงห์,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/พันท้ายนรสิงห์/Samut Sakhon,325
+326,Central,สมุทรสาคร,เมืองสมุทรสาคร,โคกขาม,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/โคกขาม/Samut Sakhon,326
+327,Central,สมุทรสาคร,เมืองสมุทรสาคร,ท่าจีน,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/ท่าจีน/Samut Sakhon,327
+328,Central,สมุทรสาคร,กระทุ่มแบน,กระทุ่มแบน,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/กระทุ่มแบน/Samut Sakhon,328
+329,Central,สมุทรสาคร,กระทุ่มแบน,ท่าไม้,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/ท่าไม้/Samut Sakhon,329
+330,Central,สมุทรสาคร,เมืองสมุทรสาคร,Not Sated,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/Not Sated/Samut Sakhon,330
+331,Central,สมุทรสาคร,กระทุ่มแบน,ตลาดกระทุ่มแบน,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/ตลาดกระทุ่มแบน/Samut Sakhon,331
+332,Bangkok,กรุงเทพมหานคร,บางแค,หลักสอง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางแค/หลักสอง/Bangkok Metropolis,332
+333,Central,สมุทรสาคร,Not Sated,Not Sated,Samut Sakhon,Central/สมุทรสาคร/Not Sated/Not Sated/Samut Sakhon,333
+334,Bangkok,กรุงเทพมหานคร,บางบอน,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางบอน/Not Sated/Bangkok Metropolis,334
+335,Bangkok,กรุงเทพมหานคร,บางขุนเทียน,ท่าข้าม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางขุนเทียน/ท่าข้าม/Bangkok Metropolis,335
+336,Central,นครปฐม,สามพราน,ท่าข้าม,Nakhon Pathom,Central/นครปฐม/สามพราน/ท่าข้าม/Nakhon Pathom,336
+337,Central,สมุทรสาคร,เมืองสมุทรสาคร,บางหญ้าแพรก,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/บางหญ้าแพรก/Samut Sakhon,337
+338,Central,สมุทรสาคร,เมืองสมุทรสาคร,บ้านเกาะ,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/บ้านเกาะ/Samut Sakhon,338
+339,Bangkok,กรุงเทพมหานคร,บางแค,บางไผ่,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางแค/บางไผ่/Bangkok Metropolis,339
+340,Bangkok,กรุงเทพมหานคร,บางแค,บางแคเหนือ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางแค/บางแคเหนือ/Bangkok Metropolis,340
+341,Central,สมุทรสาคร,กระทุ่มแบน,สวนหลวง,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/สวนหลวง/Samut Sakhon,341
+342,Central,สมุทรสาคร,กระทุ่มแบน,ท่าเสา,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/ท่าเสา/Samut Sakhon,342
+343,Bangkok,กรุงเทพมหานคร,วัฒนา,คลองตันเหนือ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วัฒนา/คลองตันเหนือ/Bangkok Metropolis,343
+344,Central,นครปฐม,สามพราน,อ้อมใหญ่,Nakhon Pathom,Central/นครปฐม/สามพราน/อ้อมใหญ่/Nakhon Pathom,344
+345,Bangkok,กรุงเทพมหานคร,ดินแดง,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดินแดง/Not Sated/Bangkok Metropolis,345
+346,Central,สมุทรสาคร,เมืองสมุทรสาคร,ท่าฉลอม,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/ท่าฉลอม/Samut Sakhon,346
+347,Central,สมุทรสาคร,กระทุ่มแบน,ดอนไก่ดี,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/ดอนไก่ดี/Samut Sakhon,347
+348,Central,นครปฐม,สามพราน,บางช้าง,Nakhon Pathom,Central/นครปฐม/สามพราน/บางช้าง/Nakhon Pathom,348
+349,Bangkok,กรุงเทพมหานคร,ดินแดง,ดินแดง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดินแดง/ดินแดง/Bangkok Metropolis,349
+350,Bangkok,กรุงเทพมหานคร,จตุจักร,เสนานิคม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จตุจักร/เสนานิคม/Bangkok Metropolis,350
+351,Central,สมุทรสาคร,บ้านแพ้ว,หลักสาม,Samut Sakhon,Central/สมุทรสาคร/บ้านแพ้ว/หลักสาม/Samut Sakhon,351
+352,Bangkok,กรุงเทพมหานคร,จตุจักร,จตุจักร,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จตุจักร/จตุจักร/Bangkok Metropolis,352
+353,Central,เพชรบุรี,เมืองเพชรบุรี,ท่าราบ,Phetchaburi,Central/เพชรบุรี/เมืองเพชรบุรี/ท่าราบ/Phetchaburi,353
+354,Central,สมุทรสาคร,เมืองสมุทรสาคร,ชัยมงคล,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/ชัยมงคล/Samut Sakhon,354
+355,Central,สมุทรสาคร,เมืองสมุทรสาคร,โกรกกราก,Samut Sakhon,Central/สมุทรสาคร/เมืองสมุทรสาคร/โกรกกราก/Samut Sakhon,355
+356,Bangkok,กรุงเทพมหานคร,บางรัก,สุริยวงศ์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางรัก/สุริยวงศ์/Bangkok Metropolis,356
+357,Central,นครปฐม,Not Sated,Not Sated,Nakhon Pathom,Central/นครปฐม/Not Sated/Not Sated/Nakhon Pathom,357
+358,Central,ราชบุรี,โพธาราม,โพธาราม,Ratchaburi,Central/ราชบุรี/โพธาราม/โพธาราม/Ratchaburi,358
+359,Central,สมุทรสาคร,บ้านแพ้ว,บ้านแพ้ว,Samut Sakhon,Central/สมุทรสาคร/บ้านแพ้ว/บ้านแพ้ว/Samut Sakhon,359
+360,Central,สมุทรสาคร,กระทุ่มแบน,อ้อมน้อย,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/อ้อมน้อย/Samut Sakhon,360
+361,Central,ราชบุรี,โพธาราม,บ้านฆ้อง,Ratchaburi,Central/ราชบุรี/โพธาราม/บ้านฆ้อง/Ratchaburi,361
+362,Central,ราชบุรี,โพธาราม,คลองตาคต,Ratchaburi,Central/ราชบุรี/โพธาราม/คลองตาคต/Ratchaburi,362
+363,Central,นนทบุรี,บางใหญ่,บางม่วง,Nonthaburi,Central/นนทบุรี/บางใหญ่/บางม่วง/Nonthaburi,363
+364,Central,นครปฐม,เมืองนครปฐม,สวนป่าน,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/สวนป่าน/Nakhon Pathom,364
+365,Bangkok,กรุงเทพมหานคร,สะพานสูง,สะพานสูง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สะพานสูง/สะพานสูง/Bangkok Metropolis,365
+366,Bangkok,กรุงเทพมหานคร,บางขุนเทียน,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางขุนเทียน/Not Sated/Bangkok Metropolis,366
+367,Bangkok,กรุงเทพมหานคร,บางรัก,สีลม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางรัก/สีลม/Bangkok Metropolis,367
+368,Central,นครปฐม,พุทธมณฑล,ศาลายา,Nakhon Pathom,Central/นครปฐม/พุทธมณฑล/ศาลายา/Nakhon Pathom,368
+369,Central,สมุทรสาคร,กระทุ่มแบน,Not Sated,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/Not Sated/Samut Sakhon,369
+370,Central,ราชบุรี,โพธาราม,บ้านเลือก,Ratchaburi,Central/ราชบุรี/โพธาราม/บ้านเลือก/Ratchaburi,370
+371,Bangkok,กรุงเทพมหานคร,ธนบุรี,ตลาดพลู,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ธนบุรี/ตลาดพลู/Bangkok Metropolis,371
+372,Central,ปทุมธานี,ธัญบุรี,รังสิต,Pathum Thani,Central/ปทุมธานี/ธัญบุรี/รังสิต/Pathum Thani,372
+373,Bangkok,กรุงเทพมหานคร,บางกอกใหญ่,วัดท่าพระ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกอกใหญ่/วัดท่าพระ/Bangkok Metropolis,373
+374,Central,สมุทรสงคราม,อัมพวา,แพรกหนามแดง,Samut Songkhram,Central/สมุทรสงคราม/อัมพวา/แพรกหนามแดง/Samut Songkhram,374
+375,Bangkok,กรุงเทพมหานคร,ลาดพร้าว,ลาดพร้าว,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดพร้าว/ลาดพร้าว/Bangkok Metropolis,375
+376,Eastern,มหาสารคาม,เมืองมหาสารคาม,ตลาด,Maha Sarakham,Eastern/มหาสารคาม/เมืองมหาสารคาม/ตลาด/Maha Sarakham,376
+377,Central,นนทบุรี,บางใหญ่,บางแม่นาง,Nonthaburi,Central/นนทบุรี/บางใหญ่/บางแม่นาง/Nonthaburi,377
+378,Bangkok,กรุงเทพมหานคร,บางคอแหลม,บางโคล่,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางคอแหลม/บางโคล่/Bangkok Metropolis,378
+379,Bangkok,กรุงเทพมหานคร,บางพลัด,บางอ้อ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางพลัด/บางอ้อ/Bangkok Metropolis,379
+380,Bangkok,กรุงเทพมหานคร,หนองแขม,หนองแขม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองแขม/หนองแขม/Bangkok Metropolis,380
+381,Central,สมุทรปราการ,พระสมุทรเจดีย์,ในคลองบางปลากด,Samut Prakan,Central/สมุทรปราการ/พระสมุทรเจดีย์/ในคลองบางปลากด/Samut Prakan,381
+382,Central,นครปฐม,นครชัยศรี,ท่าพระยา,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ท่าพระยา/Nakhon Pathom,382
+383,Central,สมุทรสาคร,บ้านแพ้ว,ยกกระบัตร,Samut Sakhon,Central/สมุทรสาคร/บ้านแพ้ว/ยกกระบัตร/Samut Sakhon,383
+384,Central,ราชบุรี,โพธาราม,คลองข่อย,Ratchaburi,Central/ราชบุรี/โพธาราม/คลองข่อย/Ratchaburi,384
+385,Bangkok,กรุงเทพมหานคร,ยานนาวา,บางโพงพาง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ยานนาวา/บางโพงพาง/Bangkok Metropolis,385
+386,Central,ชลบุรี,พนัสนิคม,นามะตูม,Chon buri,Central/ชลบุรี/พนัสนิคม/นามะตูม/Chon buri,386
+387,Central,ชลบุรี,ศรีราชา,Not Sated,Chon buri,Central/ชลบุรี/ศรีราชา/Not Sated/Chon buri,387
+388,Bangkok,กรุงเทพมหานคร,พระนคร,เสาชิงช้า,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/เสาชิงช้า/Bangkok Metropolis,388
+389,Central,สมุทรปราการ,บางพลี,ราชาเทวะ,Samut Prakan,Central/สมุทรปราการ/บางพลี/ราชาเทวะ/Samut Prakan,389
+390,Bangkok,กรุงเทพมหานคร,หนองแขม,หนองค้างพลู,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองแขม/หนองค้างพลู/Bangkok Metropolis,390
+391,Bangkok,กรุงเทพมหานคร,ทุ่งครุ,ทุ่งครุ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ทุ่งครุ/ทุ่งครุ/Bangkok Metropolis,391
+392,Bangkok,กรุงเทพมหานคร,ทุ่งครุ,บางมด,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ทุ่งครุ/บางมด/Bangkok Metropolis,392
+393,Central,สมุทรปราการ,พระสมุทรเจดีย์,Not Sated,Samut Prakan,Central/สมุทรปราการ/พระสมุทรเจดีย์/Not Sated/Samut Prakan,393
+394,Central,นครปฐม,สามพราน,ยายชา,Nakhon Pathom,Central/นครปฐม/สามพราน/ยายชา/Nakhon Pathom,394
+395,Central,นครปฐม,สามพราน,ไร่ขิง,Nakhon Pathom,Central/นครปฐม/สามพราน/ไร่ขิง/Nakhon Pathom,395
+396,Bangkok,กรุงเทพมหานคร,บางแค,บางแค,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางแค/บางแค/Bangkok Metropolis,396
+397,Central,นครปฐม,สามพราน,กระทุ่มล้ม,Nakhon Pathom,Central/นครปฐม/สามพราน/กระทุ่มล้ม/Nakhon Pathom,397
+398,Bangkok,กรุงเทพมหานคร,จอมทอง,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จอมทอง/Not Sated/Bangkok Metropolis,398
+399,Central,นครปฐม,นครชัยศรี,ท่าตำหนัก,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ท่าตำหนัก/Nakhon Pathom,399
+400,Central,สมุทรปราการ,พระประแดง,บางจาก,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางจาก/Samut Prakan,400
+401,Central,นครปฐม,สามพราน,หอมเกร็ด,Nakhon Pathom,Central/นครปฐม/สามพราน/หอมเกร็ด/Nakhon Pathom,401
+402,Bangkok,กรุงเทพมหานคร,ตลิ่งชัน,ฉิมพลี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ตลิ่งชัน/ฉิมพลี/Bangkok Metropolis,402
+403,Bangkok,กรุงเทพมหานคร,ภาษีเจริญ,บางหว้า,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ภาษีเจริญ/บางหว้า/Bangkok Metropolis,403
+404,Central,นครปฐม,นครชัยศรี,ขุนแก้ว,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ขุนแก้ว/Nakhon Pathom,404
+405,Central,นนทบุรี,เมืองนนทบุรี,ตลาดขวัญ,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/ตลาดขวัญ/Nonthaburi,405
+406,Central,นครปฐม,สามพราน,คลองใหม่,Nakhon Pathom,Central/นครปฐม/สามพราน/คลองใหม่/Nakhon Pathom,406
+407,Bangkok,กรุงเทพมหานคร,ธนบุรี,สำเหร่,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ธนบุรี/สำเหร่/Bangkok Metropolis,407
+408,Bangkok,กรุงเทพมหานคร,ทวีวัฒนา,ศาลาธรรมสพน์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ทวีวัฒนา/ศาลาธรรมสพน์/Bangkok Metropolis,408
+409,Bangkok,กรุงเทพมหานคร,หนองแขม,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองแขม/Not Sated/Bangkok Metropolis,409
+410,Northern,แพร่,เมืองแพร่,ในเวียง,Phrae,Northern/แพร่/เมืองแพร่/ในเวียง/Phrae,410
+411,Central,ปทุมธานี,ลำลูกกา,บึงคำพร้อย,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/บึงคำพร้อย/Pathum Thani,411
+412,Bangkok,กรุงเทพมหานคร,ตลิ่งชัน,คลองชักพระ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ตลิ่งชัน/คลองชักพระ/Bangkok Metropolis,412
+413,Bangkok,กรุงเทพมหานคร,จอมทอง,จอมทอง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จอมทอง/จอมทอง/Bangkok Metropolis,413
+414,Bangkok,กรุงเทพมหานคร,สายไหม,ออเงิน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สายไหม/ออเงิน/Bangkok Metropolis,414
+415,Bangkok,กรุงเทพมหานคร,ทุ่งครุ,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ทุ่งครุ/Not Sated/Bangkok Metropolis,415
+416,Bangkok,กรุงเทพมหานคร,บางกอกน้อย,บ้านช่างหล่อ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกอกน้อย/บ้านช่างหล่อ/Bangkok Metropolis,416
+417,Central,นนทบุรี,เมืองนนทบุรี,ท่าทราย,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/ท่าทราย/Nonthaburi,417
+418,Bangkok,กรุงเทพมหานคร,จอมทอง,บางมด,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จอมทอง/บางมด/Bangkok Metropolis,418
+419,Bangkok,กรุงเทพมหานคร,ธนบุรี,วัดกัลยาณ์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ธนบุรี/วัดกัลยาณ์/Bangkok Metropolis,419
+420,Central,นครปฐม,เมืองนครปฐม,พระปฐมเจดีย์,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/พระปฐมเจดีย์/Nakhon Pathom,420
+421,Bangkok,กรุงเทพมหานคร,บางนา,บางนา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางนา/บางนา/Bangkok Metropolis,421
+422,Central,สมุทรปราการ,เมืองสมุทรปราการ,ท้ายบ้าน,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/ท้ายบ้าน/Samut Prakan,422
+423,Central,นนทบุรี,ไทรน้อย,ไทรน้อย,Nonthaburi,Central/นนทบุรี/ไทรน้อย/ไทรน้อย/Nonthaburi,423
+424,Bangkok,กรุงเทพมหานคร,ห้วยขวาง,บางกะปิ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ห้วยขวาง/บางกะปิ/Bangkok Metropolis,424
+425,Central,สมุทรปราการ,พระประแดง,บางน้ำผึ้ง,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางน้ำผึ้ง/Samut Prakan,425
+426,Central,สมุทรปราการ,เมืองสมุทรปราการ,สมุทรปราการ,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/สมุทรปราการ/Samut Prakan,426
+427,Central,นนทบุรี,บางกรวย,บางกรวย,Nonthaburi,Central/นนทบุรี/บางกรวย/บางกรวย/Nonthaburi,427
+428,Central,ปทุมธานี,ธัญบุรี,ลำผักกูด,Pathum Thani,Central/ปทุมธานี/ธัญบุรี/ลำผักกูด/Pathum Thani,428
+429,Bangkok,กรุงเทพมหานคร,หลักสี่,ตลาดบางเขน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หลักสี่/ตลาดบางเขน/Bangkok Metropolis,429
+430,Bangkok,กรุงเทพมหานคร,ป้อมปราบศัตรูพ่าย,คลองมหานาค,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ป้อมปราบศัตรูพ่าย/คลองมหานาค/Bangkok Metropolis,430
+431,Bangkok,กรุงเทพมหานคร,ตลิ่งชัน,ตลิ่งชัน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ตลิ่งชัน/ตลิ่งชัน/Bangkok Metropolis,431
+432,Central,นนทบุรี,เมืองนนทบุรี,บางกระสอ,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/บางกระสอ/Nonthaburi,432
+433,Bangkok,กรุงเทพมหานคร,ตลิ่งชัน,บางระมาด,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ตลิ่งชัน/บางระมาด/Bangkok Metropolis,433
+434,Bangkok,กรุงเทพมหานคร,หลักสี่,ทุ่งสองห้อง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หลักสี่/ทุ่งสองห้อง/Bangkok Metropolis,434
+435,Central,นนทบุรี,บางกรวย,มหาสวัสดิ์,Nonthaburi,Central/นนทบุรี/บางกรวย/มหาสวัสดิ์/Nonthaburi,435
+436,Central,นครปฐม,นครชัยศรี,บางกระเบา,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/บางกระเบา/Nakhon Pathom,436
+437,Bangkok,กรุงเทพมหานคร,ประเวศ,ดอกไม้,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ประเวศ/ดอกไม้/Bangkok Metropolis,437
+438,Central,นนทบุรี,เมืองนนทบุรี,ไทรม้า,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/ไทรม้า/Nonthaburi,438
+439,Central,นครปฐม,เมืองนครปฐม,บางแขม,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/บางแขม/Nakhon Pathom,439
+440,Central,นครปฐม,เมืองนครปฐม,ถนนขาด,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/ถนนขาด/Nakhon Pathom,440
+441,Central,นครปฐม,นครชัยศรี,นครชัยศรี,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/นครชัยศรี/Nakhon Pathom,441
+442,Bangkok,กรุงเทพมหานคร,บางแค,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางแค/Not Sated/Bangkok Metropolis,442
+443,Central,นครปฐม,นครชัยศรี,บางแก้ว,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/บางแก้ว/Nakhon Pathom,443
+444,Central,นครปฐม,เมืองนครปฐม,ลำพยา,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/ลำพยา/Nakhon Pathom,444
+445,Bangkok,กรุงเทพมหานคร,บางกอกน้อย,บางขุนศรี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกอกน้อย/บางขุนศรี/Bangkok Metropolis,445
+446,Central,นครปฐม,เมืองนครปฐม,นครปฐม,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/นครปฐม/Nakhon Pathom,446
+447,Central,สมุทรปราการ,พระสมุทรเจดีย์,แหลมฟ้าผ่า,Samut Prakan,Central/สมุทรปราการ/พระสมุทรเจดีย์/แหลมฟ้าผ่า/Samut Prakan,447
+448,Bangkok,กรุงเทพมหานคร,บางกอกน้อย,ศิริราช,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกอกน้อย/ศิริราช/Bangkok Metropolis,448
+449,Central,นครปฐม,เมืองนครปฐม,หนองดินแดง,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/หนองดินแดง/Nakhon Pathom,449
+450,Central,ราชบุรี,บ้านโป่ง,ปากแรต,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/ปากแรต/Ratchaburi,450
+451,Central,ราชบุรี,บ้านโป่ง,บ้านโป่ง,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/บ้านโป่ง/Ratchaburi,451
+452,Central,ราชบุรี,บ้านโป่ง,หนองอ้อ,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/หนองอ้อ/Ratchaburi,452
+453,Central,ราชบุรี,บ้านโป่ง,Not Sated,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/Not Sated/Ratchaburi,453
+454,Central,นครปฐม,เมืองนครปฐม,สระกะเทียม,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/สระกะเทียม/Nakhon Pathom,454
+455,Central,ราชบุรี,บ้านโป่ง,ท่าผา,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/ท่าผา/Ratchaburi,455
+456,Central,ราชบุรี,บ้านโป่ง,หนองกบ,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/หนองกบ/Ratchaburi,456
+457,Bangkok,กรุงเทพมหานคร,ภาษีเจริญ,ปากคลองภาษีเจริญ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ภาษีเจริญ/ปากคลองภาษีเจริญ/Bangkok Metropolis,457
+458,Central,สมุทรสาคร,กระทุ่มแบน,บางยาง,Samut Sakhon,Central/สมุทรสาคร/กระทุ่มแบน/บางยาง/Samut Sakhon,458
+459,Central,สมุทรสาคร,บ้านแพ้ว,Kaset Pattana,Samut Sakhon,Central/สมุทรสาคร/บ้านแพ้ว/Kaset Pattana/Samut Sakhon,459
+460,Bangkok,กรุงเทพมหานคร,บางเขน,ท่าแร้ง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางเขน/ท่าแร้ง/Bangkok Metropolis,460
+461,Central,สมุทรปราการ,บางเสาธง,ศีรษะจรเข้ใหญ่,Samut Prakan,Central/สมุทรปราการ/บางเสาธง/ศีรษะจรเข้ใหญ่/Samut Prakan,461
+462,Bangkok,กรุงเทพมหานคร,ราษฎร์บูรณะ,ราษฎร์บูรณะ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ราษฎร์บูรณะ/ราษฎร์บูรณะ/Bangkok Metropolis,462
+463,Central,สมุทรปราการ,เมืองสมุทรปราการ,ปากน้ำ,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/ปากน้ำ/Samut Prakan,463
+464,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,บ้านใหม่,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/บ้านใหม่/Chachoengsao,464
+465,Bangkok,กรุงเทพมหานคร,พระโขนง,บางจาก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระโขนง/บางจาก/Bangkok Metropolis,465
+466,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,ท่าไข่,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/ท่าไข่/Chachoengsao,466
+467,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,วังตะเคียน,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/วังตะเคียน/Chachoengsao,467
+468,Central,ชลบุรี,บ้านบึง,มาบไผ่,Chon buri,Central/ชลบุรี/บ้านบึง/มาบไผ่/Chon buri,468
+469,Bangkok,กรุงเทพมหานคร,ลาดกระบัง,ลาดกระบัง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดกระบัง/ลาดกระบัง/Bangkok Metropolis,469
+470,Central,สมุทรปราการ,บางพลี,บางโฉลง,Samut Prakan,Central/สมุทรปราการ/บางพลี/บางโฉลง/Samut Prakan,470
+471,Central,สมุทรปราการ,เมืองสมุทรปราการ,ท้ายบ้านใหม่,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/ท้ายบ้านใหม่/Samut Prakan,471
+472,Bangkok,กรุงเทพมหานคร,ลาดกระบัง,ลำปลาทิว,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดกระบัง/ลำปลาทิว/Bangkok Metropolis,472
+473,Central,สมุทรปราการ,บางพลี,บางพลีใหญ่,Samut Prakan,Central/สมุทรปราการ/บางพลี/บางพลีใหญ่/Samut Prakan,473
+474,Bangkok,กรุงเทพมหานคร,มีนบุรี,แสนแสบ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/มีนบุรี/แสนแสบ/Bangkok Metropolis,474
+475,Bangkok,กรุงเทพมหานคร,สวนหลวง,สวนหลวง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สวนหลวง/สวนหลวง/Bangkok Metropolis,475
+476,Bangkok,กรุงเทพมหานคร,ลาดกระบัง,ทับยาว,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดกระบัง/ทับยาว/Bangkok Metropolis,476
+477,Bangkok,กรุงเทพมหานคร,หนองจอก,ลำผักชี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองจอก/ลำผักชี/Bangkok Metropolis,477
+478,Central,สมุทรปราการ,เมืองสมุทรปราการ,บางเมือง,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/บางเมือง/Samut Prakan,478
+479,Central,สมุทรปราการ,พระสมุทรเจดีย์,ปากคลองบางปลากด,Samut Prakan,Central/สมุทรปราการ/พระสมุทรเจดีย์/ปากคลองบางปลากด/Samut Prakan,479
+480,Central,สมุทรปราการ,เมืองสมุทรปราการ,แพรกษาใหม่,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/แพรกษาใหม่/Samut Prakan,480
+481,Central,สมุทรปราการ,เมืองสมุทรปราการ,บางปูใหม่,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/บางปูใหม่/Samut Prakan,481
+482,Central,สมุทรปราการ,เมืองสมุทรปราการ,บางด้วน,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/บางด้วน/Samut Prakan,482
+483,Central,สมุทรปราการ,บางพลี,หนองปรือ,Samut Prakan,Central/สมุทรปราการ/บางพลี/หนองปรือ/Samut Prakan,483
+484,Bangkok,กรุงเทพมหานคร,คลองสาน,คลองสาน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสาน/คลองสาน/Bangkok Metropolis,484
+485,Central,สมุทรปราการ,พระประแดง,สำโรง,Samut Prakan,Central/สมุทรปราการ/พระประแดง/สำโรง/Samut Prakan,485
+486,Central,สมุทรปราการ,บางพลี,Not Sated,Samut Prakan,Central/สมุทรปราการ/บางพลี/Not Sated/Samut Prakan,486
+487,Central,นนทบุรี,บางบัวทอง,บางคูรัด,Nonthaburi,Central/นนทบุรี/บางบัวทอง/บางคูรัด/Nonthaburi,487
+488,Central,สมุทรปราการ,พระประแดง,บางพึ่ง,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางพึ่ง/Samut Prakan,488
+489,Bangkok,กรุงเทพมหานคร,บางคอแหลม,วัดพระยาไกร,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางคอแหลม/วัดพระยาไกร/Bangkok Metropolis,489
+490,Bangkok,กรุงเทพมหานคร,ราษฎร์บูรณะ,บางปะกอก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ราษฎร์บูรณะ/บางปะกอก/Bangkok Metropolis,490
+491,Bangkok,กรุงเทพมหานคร,ทวีวัฒนา,ทวีวัฒนา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ทวีวัฒนา/ทวีวัฒนา/Bangkok Metropolis,491
+492,Bangkok,กรุงเทพมหานคร,ธนบุรี,บุคคโล,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ธนบุรี/บุคคโล/Bangkok Metropolis,492
+493,Bangkok,กรุงเทพมหานคร,ธนบุรี,หิรัญรูจี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ธนบุรี/หิรัญรูจี/Bangkok Metropolis,493
+494,Central,นครปฐม,สามพราน,บางกระทึก,Nakhon Pathom,Central/นครปฐม/สามพราน/บางกระทึก/Nakhon Pathom,494
+495,Bangkok,กรุงเทพมหานคร,ธนบุรี,บางยี่เรือ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ธนบุรี/บางยี่เรือ/Bangkok Metropolis,495
+496,Bangkok,กรุงเทพมหานคร,ภาษีเจริญ,บางแวก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ภาษีเจริญ/บางแวก/Bangkok Metropolis,496
+497,Central,นครปฐม,เมืองนครปฐม,วังตะกู,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/วังตะกู/Nakhon Pathom,497
+498,Bangkok,กรุงเทพมหานคร,บางพลัด,บางพลัด,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางพลัด/บางพลัด/Bangkok Metropolis,498
+499,Bangkok,กรุงเทพมหานคร,ตลิ่งชัน,บางพรม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ตลิ่งชัน/บางพรม/Bangkok Metropolis,499
+500,Bangkok,กรุงเทพมหานคร,ภาษีเจริญ,คูหาสวรรค์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ภาษีเจริญ/คูหาสวรรค์/Bangkok Metropolis,500
+501,Bangkok,กรุงเทพมหานคร,ธนบุรี,ดาวคะนอง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ธนบุรี/ดาวคะนอง/Bangkok Metropolis,501
+502,Bangkok,กรุงเทพมหานคร,คลองสาน,บางลำภูล่าง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสาน/บางลำภูล่าง/Bangkok Metropolis,502
+503,Bangkok,กรุงเทพมหานคร,ราษฎร์บูรณะ,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ราษฎร์บูรณะ/Not Sated/Bangkok Metropolis,503
+504,Bangkok,กรุงเทพมหานคร,คลองสาน,สมเด็จเจ้าพระยา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสาน/สมเด็จเจ้าพระยา/Bangkok Metropolis,504
+505,Central,นนทบุรี,บางกรวย,ศาลากลาง,Nonthaburi,Central/นนทบุรี/บางกรวย/ศาลากลาง/Nonthaburi,505
+506,Bangkok,กรุงเทพมหานคร,จอมทอง,บางค้อ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จอมทอง/บางค้อ/Bangkok Metropolis,506
+507,Central,สมุทรปราการ,พระประแดง,ตลาด,Samut Prakan,Central/สมุทรปราการ/พระประแดง/ตลาด/Samut Prakan,507
+508,Central,นครปฐม,เมืองนครปฐม,บ่อพลับ,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/บ่อพลับ/Nakhon Pathom,508
+509,Bangkok,กรุงเทพมหานคร,ราชเทวี,ถนนพญาไท,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ราชเทวี/ถนนพญาไท/Bangkok Metropolis,509
+510,Bangkok,กรุงเทพมหานคร,บางนา,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางนา/Not Sated/Bangkok Metropolis,510
+511,Central,นนทบุรี,บางกรวย,ปลายบาง,Nonthaburi,Central/นนทบุรี/บางกรวย/ปลายบาง/Nonthaburi,511
+512,Bangkok,กรุงเทพมหานคร,บางคอแหลม,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางคอแหลม/Not Sated/Bangkok Metropolis,512
+513,Central,สมุทรปราการ,พระประแดง,ทรงคนอง,Samut Prakan,Central/สมุทรปราการ/พระประแดง/ทรงคนอง/Samut Prakan,513
+514,Bangkok,กรุงเทพมหานคร,ภาษีเจริญ,บางจาก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ภาษีเจริญ/บางจาก/Bangkok Metropolis,514
+515,Bangkok,กรุงเทพมหานคร,บางกอกใหญ่,วัดอรุณ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกอกใหญ่/วัดอรุณ/Bangkok Metropolis,515
+516,Central,นนทบุรี,บางใหญ่,บางใหญ่,Nonthaburi,Central/นนทบุรี/บางใหญ่/บางใหญ่/Nonthaburi,516
+517,Central,สมุทรปราการ,เมืองสมุทรปราการ,บางโปรง,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/บางโปรง/Samut Prakan,517
+518,Central,นครปฐม,สามพราน,ทรงคนอง,Nakhon Pathom,Central/นครปฐม/สามพราน/ทรงคนอง/Nakhon Pathom,518
+519,Bangkok,กรุงเทพมหานคร,บางคอแหลม,บางคอแหลม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางคอแหลม/บางคอแหลม/Bangkok Metropolis,519
+520,Bangkok,กรุงเทพมหานคร,ภาษีเจริญ,คลองขวาง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ภาษีเจริญ/คลองขวาง/Bangkok Metropolis,520
+521,Central,นครปฐม,พุทธมณฑล,มหาสวัสดิ์,Nakhon Pathom,Central/นครปฐม/พุทธมณฑล/มหาสวัสดิ์/Nakhon Pathom,521
+522,Central,นนทบุรี,บางบัวทอง,Not Sated,Nonthaburi,Central/นนทบุรี/บางบัวทอง/Not Sated/Nonthaburi,522
+523,Bangkok,กรุงเทพมหานคร,ตลิ่งชัน,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ตลิ่งชัน/Not Sated/Bangkok Metropolis,523
+524,Bangkok,กรุงเทพมหานคร,พระนคร,วัดสามพระยา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/วัดสามพระยา/Bangkok Metropolis,524
+525,Bangkok,กรุงเทพมหานคร,ป้อมปราบศัตรูพ่าย,บ้านบาตร,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ป้อมปราบศัตรูพ่าย/บ้านบาตร/Bangkok Metropolis,525
+526,Bangkok,กรุงเทพมหานคร,ตลิ่งชัน,บางเชือกหนัง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ตลิ่งชัน/บางเชือกหนัง/Bangkok Metropolis,526
+527,Bangkok,กรุงเทพมหานคร,ยานนาวา,ช่องนนทรี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ยานนาวา/ช่องนนทรี/Bangkok Metropolis,527
+528,Central,นครปฐม,พุทธมณฑล,Not Sated,Nakhon Pathom,Central/นครปฐม/พุทธมณฑล/Not Sated/Nakhon Pathom,528
+529,Central,นนทบุรี,เมืองนนทบุรี,บางกร่าง,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/บางกร่าง/Nonthaburi,529
+530,Bangkok,กรุงเทพมหานคร,พระนคร,ตลาดยอด,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/ตลาดยอด/Bangkok Metropolis,530
+531,Central,นนทบุรี,เมืองนนทบุรี,บางไผ่,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/บางไผ่/Nonthaburi,531
+532,Central,สมุทรปราการ,พระประแดง,สำโรงใต้,Samut Prakan,Central/สมุทรปราการ/พระประแดง/สำโรงใต้/Samut Prakan,532
+533,Bangkok,กรุงเทพมหานคร,สาทร,ยานนาวา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สาทร/ยานนาวา/Bangkok Metropolis,533
+534,Central,สมุทรปราการ,พระประแดง,สำโรงกลาง,Samut Prakan,Central/สมุทรปราการ/พระประแดง/สำโรงกลาง/Samut Prakan,534
+535,Bangkok,กรุงเทพมหานคร,ลาดพร้าว,จรเข้บัว,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดพร้าว/จรเข้บัว/Bangkok Metropolis,535
+536,Bangkok,กรุงเทพมหานคร,บางกอกน้อย,อรุณอมรินทร์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกอกน้อย/อรุณอมรินทร์/Bangkok Metropolis,536
+537,Central,นครปฐม,เมืองนครปฐม,ธรรมศาลา,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/ธรรมศาลา/Nakhon Pathom,537
+538,Central,นนทบุรี,บางใหญ่,บ้านใหม่,Nonthaburi,Central/นนทบุรี/บางใหญ่/บ้านใหม่/Nonthaburi,538
+539,Central,นครปฐม,เมืองนครปฐม,สนามจันทร์,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/สนามจันทร์/Nakhon Pathom,539
+540,Bangkok,กรุงเทพมหานคร,คลองเตย,คลองเตย,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองเตย/คลองเตย/Bangkok Metropolis,540
+541,Bangkok,กรุงเทพมหานคร,วังทองหลาง,วังทองหลาง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วังทองหลาง/วังทองหลาง/Bangkok Metropolis,541
+542,Central,นนทบุรี,เมืองนนทบุรี,บางศรีเมือง,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/บางศรีเมือง/Nonthaburi,542
+543,Central,นครปฐม,สามพราน,คลองจินดา,Nakhon Pathom,Central/นครปฐม/สามพราน/คลองจินดา/Nakhon Pathom,543
+544,Central,นครปฐม,นครชัยศรี,วัดละมุด,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/วัดละมุด/Nakhon Pathom,544
+545,Central,นครปฐม,เมืองนครปฐม,มาบแค,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/มาบแค/Nakhon Pathom,545
+546,Bangkok,กรุงเทพมหานคร,คลองสาน,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสาน/Not Sated/Bangkok Metropolis,546
+547,Central,นครปฐม,นครชัยศรี,วัดแค,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/วัดแค/Nakhon Pathom,547
+548,Central,นครปฐม,เมืองนครปฐม,Not Sated,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/Not Sated/Nakhon Pathom,548
+549,Central,นครปฐม,กำแพงแสน,ห้วยขวาง,Nakhon Pathom,Central/นครปฐม/กำแพงแสน/ห้วยขวาง/Nakhon Pathom,549
+550,Central,นครปฐม,เมืองนครปฐม,ทัพหลวง,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/ทัพหลวง/Nakhon Pathom,550
+551,Central,นครปฐม,นครชัยศรี,แหลมบัว,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/แหลมบัว/Nakhon Pathom,551
+552,Central,นครปฐม,นครชัยศรี,ลานตากฟ้า,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ลานตากฟ้า/Nakhon Pathom,552
+553,Central,นนทบุรี,Not Sated,Not Sated,Nonthaburi,Central/นนทบุรี/Not Sated/Not Sated/Nonthaburi,553
+554,Central,นครปฐม,เมืองนครปฐม,ตาก้อง,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/ตาก้อง/Nakhon Pathom,554
+555,Central,นครปฐม,นครชัยศรี,งิ้วราย,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/งิ้วราย/Nakhon Pathom,555
+556,Bangkok,กรุงเทพมหานคร,ลาดกระบัง,ขุมทอง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดกระบัง/ขุมทอง/Bangkok Metropolis,556
+557,Central,ปราจีนบุรี,ศรีมหาโพธิ,ท่าตูม,Prachin Buri,Central/ปราจีนบุรี/ศรีมหาโพธิ/ท่าตูม/Prachin Buri,557
+558,Central,นนทบุรี,บางใหญ่,เสาธงหิน,Nonthaburi,Central/นนทบุรี/บางใหญ่/เสาธงหิน/Nonthaburi,558
+559,Central,นนทบุรี,บางกรวย,บางคูเวียง,Nonthaburi,Central/นนทบุรี/บางกรวย/บางคูเวียง/Nonthaburi,559
+560,Central,นนทบุรี,เมืองนนทบุรี,สวนใหญ่,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/สวนใหญ่/Nonthaburi,560
+561,Central,นครปฐม,กำแพงแสน,กำแพงแสน,Nakhon Pathom,Central/นครปฐม/กำแพงแสน/กำแพงแสน/Nakhon Pathom,561
+562,Central,นนทบุรี,บางกรวย,บางขุนกอง,Nonthaburi,Central/นนทบุรี/บางกรวย/บางขุนกอง/Nonthaburi,562
+563,Central,นครปฐม,พุทธมณฑล,คลองโยง,Nakhon Pathom,Central/นครปฐม/พุทธมณฑล/คลองโยง/Nakhon Pathom,563
+564,Central,นครปฐม,กำแพงแสน,ทุ่งกระพังโหม,Nakhon Pathom,Central/นครปฐม/กำแพงแสน/ทุ่งกระพังโหม/Nakhon Pathom,564
+565,Bangkok,กรุงเทพมหานคร,ราชเทวี,ถนนเพชรบุรี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ราชเทวี/ถนนเพชรบุรี/Bangkok Metropolis,565
+566,Bangkok,กรุงเทพมหานคร,ปทุมวัน,วังใหม่,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ปทุมวัน/วังใหม่/Bangkok Metropolis,566
+567,Central,นนทบุรี,บางบัวทอง,บางรักใหญ่,Nonthaburi,Central/นนทบุรี/บางบัวทอง/บางรักใหญ่/Nonthaburi,567
+568,Bangkok,กรุงเทพมหานคร,ดุสิต,ถนนนครไชยศรี,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดุสิต/ถนนนครไชยศรี/Bangkok Metropolis,568
+569,Central,นนทบุรี,เมืองนนทบุรี,บางรักน้อย,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/บางรักน้อย/Nonthaburi,569
+570,Central,นนทบุรี,บางบัวทอง,บางรักพัฒนา,Nonthaburi,Central/นนทบุรี/บางบัวทอง/บางรักพัฒนา/Nonthaburi,570
+571,Central,นนทบุรี,บางบัวทอง,พิมลราช,Nonthaburi,Central/นนทบุรี/บางบัวทอง/พิมลราช/Nonthaburi,571
+572,Bangkok,กรุงเทพมหานคร,บางพลัด,บางบำหรุ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางพลัด/บางบำหรุ/Bangkok Metropolis,572
+573,Bangkok,กรุงเทพมหานคร,ปทุมวัน,รองเมือง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ปทุมวัน/รองเมือง/Bangkok Metropolis,573
+574,Bangkok,กรุงเทพมหานคร,ป้อมปราบศัตรูพ่าย,ป้อมปราบ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ป้อมปราบศัตรูพ่าย/ป้อมปราบ/Bangkok Metropolis,574
+575,Bangkok,กรุงเทพมหานคร,ห้วยขวาง,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ห้วยขวาง/Not Sated/Bangkok Metropolis,575
+576,Bangkok,กรุงเทพมหานคร,ห้วยขวาง,สามเสนนอก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ห้วยขวาง/สามเสนนอก/Bangkok Metropolis,576
+577,Central,นนทบุรี,ปากเกร็ด,บางตลาด,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/บางตลาด/Nonthaburi,577
+578,Central,นนทบุรี,บางบัวทอง,บางบัวทอง,Nonthaburi,Central/นนทบุรี/บางบัวทอง/บางบัวทอง/Nonthaburi,578
+579,Bangkok,กรุงเทพมหานคร,จตุจักร,ลาดยาว,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จตุจักร/ลาดยาว/Bangkok Metropolis,579
+580,Bangkok,กรุงเทพมหานคร,จตุจักร,จอมพล,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จตุจักร/จอมพล/Bangkok Metropolis,580
+581,Bangkok,กรุงเทพมหานคร,บางซื่อ,บางซื่อ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางซื่อ/บางซื่อ/Bangkok Metropolis,581
+582,Bangkok,กรุงเทพมหานคร,ราชเทวี,ทุ่งพญาไท,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ราชเทวี/ทุ่งพญาไท/Bangkok Metropolis,582
+583,Bangkok,กรุงเทพมหานคร,วัฒนา,คลองเตยเหนือ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วัฒนา/คลองเตยเหนือ/Bangkok Metropolis,583
+584,Bangkok,กรุงเทพมหานคร,คลองเตย,คลองตัน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองเตย/คลองตัน/Bangkok Metropolis,584
+585,Central,นนทบุรี,บางใหญ่,บางเลน,Nonthaburi,Central/นนทบุรี/บางใหญ่/บางเลน/Nonthaburi,585
+586,Bangkok,กรุงเทพมหานคร,วังทองหลาง,สะพานสอง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วังทองหลาง/สะพานสอง/Bangkok Metropolis,586
+587,Central,นนทบุรี,ปากเกร็ด,ปากเกร็ด,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/ปากเกร็ด/Nonthaburi,587
+588,Central,นนทบุรี,ปากเกร็ด,อ้อมเกร็ด,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/อ้อมเกร็ด/Nonthaburi,588
+589,Bangkok,กรุงเทพมหานคร,พญาไท,สามเสนใน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พญาไท/สามเสนใน/Bangkok Metropolis,589
+590,Central,นนทบุรี,ไทรน้อย,ทวีวัฒนา,Nonthaburi,Central/นนทบุรี/ไทรน้อย/ทวีวัฒนา/Nonthaburi,590
+591,Central,นนทบุรี,บางบัวทอง,ละหาร,Nonthaburi,Central/นนทบุรี/บางบัวทอง/ละหาร/Nonthaburi,591
+592,Bangkok,กรุงเทพมหานคร,จตุจักร,จันทรเกษม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จตุจักร/จันทรเกษม/Bangkok Metropolis,592
+593,Central,นนทบุรี,บางบัวทอง,ลำโพ,Nonthaburi,Central/นนทบุรี/บางบัวทอง/ลำโพ/Nonthaburi,593
+594,Bangkok,กรุงเทพมหานคร,ดุสิต,ดุสิต,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดุสิต/ดุสิต/Bangkok Metropolis,594
+595,Bangkok,กรุงเทพมหานคร,วัฒนา,พระโขนงเหนือ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วัฒนา/พระโขนงเหนือ/Bangkok Metropolis,595
+596,Bangkok,กรุงเทพมหานคร,ป้อมปราบศัตรูพ่าย,วัดโสมนัส,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ป้อมปราบศัตรูพ่าย/วัดโสมนัส/Bangkok Metropolis,596
+597,Bangkok,กรุงเทพมหานคร,พระนคร,วังบูรพาภิรมย์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/วังบูรพาภิรมย์/Bangkok Metropolis,597
+598,Bangkok,กรุงเทพมหานคร,พระนคร,สำราญราษฎร์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/สำราญราษฎร์/Bangkok Metropolis,598
+599,Bangkok,กรุงเทพมหานคร,บางพลัด,บางยี่ขัน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางพลัด/บางยี่ขัน/Bangkok Metropolis,599
+600,Bangkok,กรุงเทพมหานคร,บางรัก,มหาพฤฒาราม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางรัก/มหาพฤฒาราม/Bangkok Metropolis,600
+601,Bangkok,กรุงเทพมหานคร,ดุสิต,วชิรพยาบาล,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดุสิต/วชิรพยาบาล/Bangkok Metropolis,601
+602,Bangkok,กรุงเทพมหานคร,บางซื่อ,วงศ์สว่าง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางซื่อ/วงศ์สว่าง/Bangkok Metropolis,602
+603,Bangkok,กรุงเทพมหานคร,ห้วยขวาง,ห้วยขวาง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ห้วยขวาง/ห้วยขวาง/Bangkok Metropolis,603
+604,Central,นนทบุรี,เมืองนนทบุรี,Not Sated,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/Not Sated/Nonthaburi,604
+605,Bangkok,กรุงเทพมหานคร,ป้อมปราบศัตรูพ่าย,วัดเทพศิรินทร์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ป้อมปราบศัตรูพ่าย/วัดเทพศิรินทร์/Bangkok Metropolis,605
+606,Central,นนทบุรี,ปากเกร็ด,คลองข่อย,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/คลองข่อย/Nonthaburi,606
+607,Bangkok,กรุงเทพมหานคร,จตุจักร,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/จตุจักร/Not Sated/Bangkok Metropolis,607
+608,Bangkok,กรุงเทพมหานคร,บางรัก,สี่พระยา,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางรัก/สี่พระยา/Bangkok Metropolis,608
+609,Bangkok,กรุงเทพมหานคร,ดุสิต,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดุสิต/Not Sated/Bangkok Metropolis,609
+610,Bangkok,กรุงเทพมหานคร,สวนหลวง,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สวนหลวง/Not Sated/Bangkok Metropolis,610
+611,Bangkok,กรุงเทพมหานคร,สัมพันธวงศ์,ตลาดน้อย,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สัมพันธวงศ์/ตลาดน้อย/Bangkok Metropolis,611
+612,Central,นนทบุรี,ปากเกร็ด,คลองพระอุดม,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/คลองพระอุดม/Nonthaburi,612
+613,Central,นนทบุรี,เมืองนนทบุรี,บางเขน,Nonthaburi,Central/นนทบุรี/เมืองนนทบุรี/บางเขน/Nonthaburi,613
+614,Bangkok,กรุงเทพมหานคร,สัมพันธวงศ์,จักรวรรดิ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สัมพันธวงศ์/จักรวรรดิ/Bangkok Metropolis,614
+615,Central,นนทบุรี,ปากเกร็ด,บางตะไนย์,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/บางตะไนย์/Nonthaburi,615
+616,Central,นนทบุรี,ปากเกร็ด,ท่าอิฐ,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/ท่าอิฐ/Nonthaburi,616
+617,Bangkok,กรุงเทพมหานคร,สัมพันธวงศ์,สัมพันธวงศ์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สัมพันธวงศ์/สัมพันธวงศ์/Bangkok Metropolis,617
+618,Central,นนทบุรี,ปากเกร็ด,บางพูด,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/บางพูด/Nonthaburi,618
+619,Central,นนทบุรี,บางกรวย,วัดชลอ,Nonthaburi,Central/นนทบุรี/บางกรวย/วัดชลอ/Nonthaburi,619
+620,Bangkok,กรุงเทพมหานคร,บึงกุ่ม,นวมินทร์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บึงกุ่ม/นวมินทร์/Bangkok Metropolis,620
+621,Central,นนทบุรี,ไทรน้อย,คลองขวาง,Nonthaburi,Central/นนทบุรี/ไทรน้อย/คลองขวาง/Nonthaburi,621
+622,Central,นนทบุรี,ปากเกร็ด,บางพลับ,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/บางพลับ/Nonthaburi,622
+623,Central,ปทุมธานี,คลองหลวง,คลองหนึ่ง,Pathum Thani,Central/ปทุมธานี/คลองหลวง/คลองหนึ่ง/Pathum Thani,623
+624,Central,สมุทรปราการ,เมืองสมุทรปราการ,Not Sated,Samut Prakan,Central/สมุทรปราการ/เมืองสมุทรปราการ/Not Sated/Samut Prakan,624
+625,Central,ชลบุรี,พานทอง,หนองหงษ์,Chon buri,Central/ชลบุรี/พานทอง/หนองหงษ์/Chon buri,625
+626,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,คลองสวนพลู,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/คลองสวนพลู/Phra Nakhon Si Ayutthaya,626
+627,Central,ฉะเชิงเทรา,บางปะกง,Not Sated,Chachoengsao,Central/ฉะเชิงเทรา/บางปะกง/Not Sated/Chachoengsao,627
+628,Bangkok,กรุงเทพมหานคร,บึงกุ่ม,คลองกุ่ม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บึงกุ่ม/คลองกุ่ม/Bangkok Metropolis,628
+629,Bangkok,กรุงเทพมหานคร,สายไหม,คลองถนน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สายไหม/คลองถนน/Bangkok Metropolis,629
+630,Bangkok,กรุงเทพมหานคร,บางเขน,อนุสาวรีย์,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางเขน/อนุสาวรีย์/Bangkok Metropolis,630
+631,Central,ปทุมธานี,ลำลูกกา,ลำลูกกา,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/ลำลูกกา/Pathum Thani,631
+632,Bangkok,กรุงเทพมหานคร,สายไหม,สายไหม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สายไหม/สายไหม/Bangkok Metropolis,632
+633,Central,ปทุมธานี,ลำลูกกา,ลาดสวาย,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/ลาดสวาย/Pathum Thani,633
+634,Bangkok,กรุงเทพมหานคร,คันนายาว,คันนายาว,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คันนายาว/คันนายาว/Bangkok Metropolis,634
+635,Bangkok,กรุงเทพมหานคร,หนองจอก,กระทุ่มราย,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองจอก/กระทุ่มราย/Bangkok Metropolis,635
+636,Central,ปราจีนบุรี,เมืองปราจีนบุรี,รอบเมือง,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/รอบเมือง/Prachin Buri,636
+637,Central,ปราจีนบุรี,เมืองปราจีนบุรี,ดงพระราม,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/ดงพระราม/Prachin Buri,637
+638,Bangkok,กรุงเทพมหานคร,คลองสามวา,สามวาตะวันตก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสามวา/สามวาตะวันตก/Bangkok Metropolis,638
+639,Bangkok,กรุงเทพมหานคร,ดอนเมือง,ดอนเมือง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดอนเมือง/ดอนเมือง/Bangkok Metropolis,639
+640,Central,ปทุมธานี,ลำลูกกา,Not Sated,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/Not Sated/Pathum Thani,640
+641,Central,ปราจีนบุรี,เมืองปราจีนบุรี,บ้านพระ,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/บ้านพระ/Prachin Buri,641
+642,Central,ปราจีนบุรี,เมืองปราจีนบุรี,หน้าเมือง,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/หน้าเมือง/Prachin Buri,642
+643,Bangkok,กรุงเทพมหานคร,หนองจอก,คู้ฝั่งเหนือ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองจอก/คู้ฝั่งเหนือ/Bangkok Metropolis,643
+644,Central,ปทุมธานี,Not Sated,Not Sated,Pathum Thani,Central/ปทุมธานี/Not Sated/Not Sated/Pathum Thani,644
+645,Bangkok,กรุงเทพมหานคร,คลองสามวา,สามวาตะวันออก,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสามวา/สามวาตะวันออก/Bangkok Metropolis,645
+646,Bangkok,กรุงเทพมหานคร,คลองสามวา,ทรายกองดิน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสามวา/ทรายกองดิน/Bangkok Metropolis,646
+647,Central,ปทุมธานี,ธัญบุรี,บึงยี่โถ,Pathum Thani,Central/ปทุมธานี/ธัญบุรี/บึงยี่โถ/Pathum Thani,647
+648,Central,ปทุมธานี,คลองหลวง,คลองหก,Pathum Thani,Central/ปทุมธานี/คลองหลวง/คลองหก/Pathum Thani,648
+649,Central,ปทุมธานี,ลาดหลุมแก้ว,ลาดหลุมแก้ว,Pathum Thani,Central/ปทุมธานี/ลาดหลุมแก้ว/ลาดหลุมแก้ว/Pathum Thani,649
+650,Central,ฉะเชิงเทรา,บางปะกง,เขาดิน,Chachoengsao,Central/ฉะเชิงเทรา/บางปะกง/เขาดิน/Chachoengsao,650
+651,Central,ฉะเชิงเทรา,บางปะกง,บางสมัคร,Chachoengsao,Central/ฉะเชิงเทรา/บางปะกง/บางสมัคร/Chachoengsao,651
+652,Central,ชลบุรี,พนัสนิคม,กุฎโง้ง,Chon buri,Central/ชลบุรี/พนัสนิคม/กุฎโง้ง/Chon buri,652
+653,Central,ฉะเชิงเทรา,บ้านโพธิ์,สนามจันทร์,Chachoengsao,Central/ฉะเชิงเทรา/บ้านโพธิ์/สนามจันทร์/Chachoengsao,653
+654,Central,ฉะเชิงเทรา,บ้านโพธิ์,บางกรูด,Chachoengsao,Central/ฉะเชิงเทรา/บ้านโพธิ์/บางกรูด/Chachoengsao,654
+655,Central,ฉะเชิงเทรา,บ้านโพธิ์,ท่าพลับ,Chachoengsao,Central/ฉะเชิงเทรา/บ้านโพธิ์/ท่าพลับ/Chachoengsao,655
+656,Central,ปทุมธานี,คลองหลวง,คลองสอง,Pathum Thani,Central/ปทุมธานี/คลองหลวง/คลองสอง/Pathum Thani,656
+657,Central,ปทุมธานี,ธัญบุรี,ประชาธิปัตย์,Pathum Thani,Central/ปทุมธานี/ธัญบุรี/ประชาธิปัตย์/Pathum Thani,657
+658,Central,ปทุมธานี,เมืองปทุมธานี,หลักหก,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/หลักหก/Pathum Thani,658
+659,Bangkok,กรุงเทพมหานคร,ดอนเมือง,สีกัน,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดอนเมือง/สีกัน/Bangkok Metropolis,659
+660,Central,ปทุมธานี,ธัญบุรี,Not Sated,Pathum Thani,Central/ปทุมธานี/ธัญบุรี/Not Sated/Pathum Thani,660
+661,Central,นนทบุรี,ปากเกร็ด,คลองเกลือ,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/คลองเกลือ/Nonthaburi,661
+662,Central,ปทุมธานี,เมืองปทุมธานี,บางคูวัด,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บางคูวัด/Pathum Thani,662
+663,Central,ปทุมธานี,เมืองปทุมธานี,บางขะแยง,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บางขะแยง/Pathum Thani,663
+664,Central,กาญจนบุรี,ท่าม่วง,ท่าม่วง,Kanchanaburi,Central/กาญจนบุรี/ท่าม่วง/ท่าม่วง/Kanchanaburi,664
+665,Central,กาญจนบุรี,ท่าม่วง,วังขนาย,Kanchanaburi,Central/กาญจนบุรี/ท่าม่วง/วังขนาย/Kanchanaburi,665
+666,Central,นครปฐม,เมืองนครปฐม,หนองงูเหลือม,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/หนองงูเหลือม/Nakhon Pathom,666
+667,Central,นครปฐม,เมืองนครปฐม,โพรงมะเดื่อ,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/โพรงมะเดื่อ/Nakhon Pathom,667
+668,Central,นครปฐม,เมืองนครปฐม,บ้านยาง,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/บ้านยาง/Nakhon Pathom,668
+669,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,บางกะไห,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/บางกะไห/Chachoengsao,669
+670,Central,ฉะเชิงเทรา,บ้านโพธิ์,เทพราช,Chachoengsao,Central/ฉะเชิงเทรา/บ้านโพธิ์/เทพราช/Chachoengsao,670
+671,Central,ฉะเชิงเทรา,Not Sated,Not Sated,Chachoengsao,Central/ฉะเชิงเทรา/Not Sated/Not Sated/Chachoengsao,671
+672,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,บางไผ่,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/บางไผ่/Chachoengsao,672
+673,Central,สมุทรปราการ,บางบ่อ,เปร็ง,Samut Prakan,Central/สมุทรปราการ/บางบ่อ/เปร็ง/Samut Prakan,673
+674,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,คลองนครเนื่องเขต,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/คลองนครเนื่องเขต/Chachoengsao,674
+675,Central,ฉะเชิงเทรา,บ้านโพธิ์,แสนภูดาษ,Chachoengsao,Central/ฉะเชิงเทรา/บ้านโพธิ์/แสนภูดาษ/Chachoengsao,675
+676,Central,สมุทรปราการ,บางบ่อ,บ้านระกาศ,Samut Prakan,Central/สมุทรปราการ/บางบ่อ/บ้านระกาศ/Samut Prakan,676
+677,Central,ปทุมธานี,คลองหลวง,คลองสาม,Pathum Thani,Central/ปทุมธานี/คลองหลวง/คลองสาม/Pathum Thani,677
+678,Central,ฉะเชิงเทรา,พนมสารคาม,เมืองเก่า,Chachoengsao,Central/ฉะเชิงเทรา/พนมสารคาม/เมืองเก่า/Chachoengsao,678
+679,Central,ฉะเชิงเทรา,บางปะกง,สองคลอง,Chachoengsao,Central/ฉะเชิงเทรา/บางปะกง/สองคลอง/Chachoengsao,679
+680,Northern,เชียงใหม่,สันกำแพง,ต้นเปา,Chiang Mai,Northern/เชียงใหม่/สันกำแพง/ต้นเปา/Chiang Mai,680
+681,Central,นครปฐม,นครชัยศรี,บางระกำ,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/บางระกำ/Nakhon Pathom,681
+682,Central,ปทุมธานี,เมืองปทุมธานี,บางพูน,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บางพูน/Pathum Thani,682
+683,Central,ปทุมธานี,เมืองปทุมธานี,บ้านฉาง,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บ้านฉาง/Pathum Thani,683
+684,Central,ปทุมธานี,เมืองปทุมธานี,บางปรอก,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บางปรอก/Pathum Thani,684
+685,Central,นนทบุรี,บางกรวย,บางขนุน,Nonthaburi,Central/นนทบุรี/บางกรวย/บางขนุน/Nonthaburi,685
+686,Bangkok,กรุงเทพมหานคร,พระนคร,ชนะสงคราม,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/ชนะสงคราม/Bangkok Metropolis,686
+687,Bangkok,กรุงเทพมหานคร,พระนคร,ศาลเจ้าพ่อเสือ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/ศาลเจ้าพ่อเสือ/Bangkok Metropolis,687
+688,Central,สระบุรี,เมืองสระบุรี,ปากเพรียว,Saraburi,Central/สระบุรี/เมืองสระบุรี/ปากเพรียว/Saraburi,688
+689,Central,สมุทรปราการ,พระประแดง,บางหัวเสือ,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางหัวเสือ/Samut Prakan,689
+690,Northern,พิจิตร,โพทะเล,Not Sated,Phichit,Northern/พิจิตร/โพทะเล/Not Sated/Phichit,690
+691,Central,ปทุมธานี,สามโคก,บ้านปทุม,Pathum Thani,Central/ปทุมธานี/สามโคก/บ้านปทุม/Pathum Thani,691
+692,Central,สมุทรสาคร,บ้านแพ้ว,หนองบัว,Samut Sakhon,Central/สมุทรสาคร/บ้านแพ้ว/หนองบัว/Samut Sakhon,692
+693,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,บางขวัญ,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/บางขวัญ/Chachoengsao,693
+694,Central,ปราจีนบุรี,เมืองปราจีนบุรี,เนินหอม,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/เนินหอม/Prachin Buri,694
+695,Central,ปทุมธานี,เมืองปทุมธานี,บางกะดี,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บางกะดี/Pathum Thani,695
+696,Central,ปทุมธานี,คลองหลวง,Not Sated,Pathum Thani,Central/ปทุมธานี/คลองหลวง/Not Sated/Pathum Thani,696
+697,Central,ปทุมธานี,เมืองปทุมธานี,บ้านกลาง,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บ้านกลาง/Pathum Thani,697
+698,Central,ปทุมธานี,เมืองปทุมธานี,บางเดื่อ,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บางเดื่อ/Pathum Thani,698
+699,Central,นครปฐม,ดอนตูม,ลำเหย,Nakhon Pathom,Central/นครปฐม/ดอนตูม/ลำเหย/Nakhon Pathom,699
+700,Central,นครปฐม,บางเลน,บางระกำ,Nakhon Pathom,Central/นครปฐม/บางเลน/บางระกำ/Nakhon Pathom,700
+701,Central,นครปฐม,นครชัยศรี,ดอนแฝก,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ดอนแฝก/Nakhon Pathom,701
+702,Central,นครปฐม,สามพราน,Not Sated,Nakhon Pathom,Central/นครปฐม/สามพราน/Not Sated/Nakhon Pathom,702
+703,Central,นครปฐม,ดอนตูม,สามง่าม,Nakhon Pathom,Central/นครปฐม/ดอนตูม/สามง่าม/Nakhon Pathom,703
+704,Central,นครปฐม,นครชัยศรี,ห้วยพลู,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ห้วยพลู/Nakhon Pathom,704
+705,Central,นครปฐม,นครชัยศรี,สัมปทวน,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/สัมปทวน/Nakhon Pathom,705
+706,Central,นครปฐม,นครชัยศรี,ไทยาวาส,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ไทยาวาส/Nakhon Pathom,706
+707,Central,ปราจีนบุรี,เมืองปราจีนบุรี,ไม้เค็ด,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/ไม้เค็ด/Prachin Buri,707
+708,Central,ปราจีนบุรี,เมืองปราจีนบุรี,ท่างาม,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/ท่างาม/Prachin Buri,708
+709,Bangkok,กรุงเทพมหานคร,คลองสามวา,ทรายกองดินใต้,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองสามวา/ทรายกองดินใต้/Bangkok Metropolis,709
+710,Central,ปราจีนบุรี,เมืองปราจีนบุรี,บางบริบูรณ์,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/บางบริบูรณ์/Prachin Buri,710
+711,Central,ปราจีนบุรี,เมืองปราจีนบุรี,โคกไม้ลาย,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/โคกไม้ลาย/Prachin Buri,711
+712,Central,ปทุมธานี,ลำลูกกา,บึงทองหลาง,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/บึงทองหลาง/Pathum Thani,712
+713,Bangkok,กรุงเทพมหานคร,หนองจอก,คลองสิบสอง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองจอก/คลองสิบสอง/Bangkok Metropolis,713
+714,Central,นครนายก,เมืองนครนายก,นครนายก,Nakhon Nayok,Central/นครนายก/เมืองนครนายก/นครนายก/Nakhon Nayok,714
+715,Central,นครนายก,เมืองนครนายก,บ้านใหญ่,Nakhon Nayok,Central/นครนายก/เมืองนครนายก/บ้านใหญ่/Nakhon Nayok,715
+716,Central,สระแก้ว,เมืองสระแก้ว,สระแก้ว,Sa Kaeo,Central/สระแก้ว/เมืองสระแก้ว/สระแก้ว/Sa Kaeo,716
+717,Central,ปทุมธานี,ธัญบุรี,บึงน้ำรักษ์,Pathum Thani,Central/ปทุมธานี/ธัญบุรี/บึงน้ำรักษ์/Pathum Thani,717
+718,Central,นครนายก,เมืองนครนายก,ท่าช้าง,Nakhon Nayok,Central/นครนายก/เมืองนครนายก/ท่าช้าง/Nakhon Nayok,718
+719,Central,สมุทรปราการ,พระประแดง,บางหญ้าแพรก,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางหญ้าแพรก/Samut Prakan,719
+720,Central,สมุทรปราการ,พระประแดง,บางกอบัว,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางกอบัว/Samut Prakan,720
+721,Central,สมุทรปราการ,พระประแดง,บางกระสอบ,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางกระสอบ/Samut Prakan,721
+722,Central,สมุทรปราการ,พระประแดง,บางยอ,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางยอ/Samut Prakan,722
+723,Central,สมุทรปราการ,พระประแดง,บางกะเจ้า,Samut Prakan,Central/สมุทรปราการ/พระประแดง/บางกะเจ้า/Samut Prakan,723
+724,Central,ปทุมธานี,สามโคก,บางโพธิ์เหนือ,Pathum Thani,Central/ปทุมธานี/สามโคก/บางโพธิ์เหนือ/Pathum Thani,724
+725,Bangkok,กรุงเทพมหานคร,ยานนาวา,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ยานนาวา/Not Sated/Bangkok Metropolis,725
+726,Central,ประจวบคีรีขันธ์,เมืองประจวบคีรีขันธ์,ประจวบคีรีขันธ์,Prachuap Khiri Khan,Central/ประจวบคีรีขันธ์/เมืองประจวบคีรีขันธ์/ประจวบคีรีขันธ์/Prachuap Khiri Khan,726
+727,Northern,เชียงใหม่,เมืองเชียงใหม่,แม่เหียะ,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/แม่เหียะ/Chiang Mai,727
+728,Northern,ตาก,เมืองตาก,ระแหง,Tak,Northern/ตาก/เมืองตาก/ระแหง/Tak,728
+729,Central,สระบุรี,มวกเหล็ก,มวกเหล็ก,Saraburi,Central/สระบุรี/มวกเหล็ก/มวกเหล็ก/Saraburi,729
+730,Central,สระแก้ว,อรัญประเทศ,บ้านใหม่หนองไทร,Sa Kaeo,Central/สระแก้ว/อรัญประเทศ/บ้านใหม่หนองไทร/Sa Kaeo,730
+731,Central,สระแก้ว,อรัญประเทศ,อรัญประเทศ,Sa Kaeo,Central/สระแก้ว/อรัญประเทศ/อรัญประเทศ/Sa Kaeo,731
+732,Central,ปราจีนบุรี,กบินทร์บุรี,บ้านนา,Prachin Buri,Central/ปราจีนบุรี/กบินทร์บุรี/บ้านนา/Prachin Buri,732
+733,Central,สระแก้ว,อรัญประเทศ,ท่าข้าม,Sa Kaeo,Central/สระแก้ว/อรัญประเทศ/ท่าข้าม/Sa Kaeo,733
+734,Central,สระแก้ว,อรัญประเทศ,ป่าไร่,Sa Kaeo,Central/สระแก้ว/อรัญประเทศ/ป่าไร่/Sa Kaeo,734
+735,Central,สระแก้ว,Not Sated,Not Sated,Sa Kaeo,Central/สระแก้ว/Not Sated/Not Sated/Sa Kaeo,735
+736,Central,ปทุมธานี,เมืองปทุมธานี,บางหลวง,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บางหลวง/Pathum Thani,736
+737,Central,นนทบุรี,ปากเกร็ด,Not Sated,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/Not Sated/Nonthaburi,737
+738,Central,พระนครศรีอยุธยา,วังน้อย,วังน้อย,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/วังน้อย/วังน้อย/Phra Nakhon Si Ayutthaya,738
+739,Central,พระนครศรีอยุธยา,วังน้อย,ลำตาเสา,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/วังน้อย/ลำตาเสา/Phra Nakhon Si Ayutthaya,739
+740,Central,ปทุมธานี,เมืองปทุมธานี,บ้านใหม่,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บ้านใหม่/Pathum Thani,740
+741,Bangkok,กรุงเทพมหานคร,ดอนเมือง,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดอนเมือง/Not Sated/Bangkok Metropolis,741
+742,Central,ระยอง,Not Sated,Not Sated,Rayong,Central/ระยอง/Not Sated/Not Sated/Rayong,742
+743,Central,ประจวบคีรีขันธ์,หัวหิน,หัวหิน,Prachuap Khiri Khan,Central/ประจวบคีรีขันธ์/หัวหิน/หัวหิน/Prachuap Khiri Khan,743
+744,Bangkok,กรุงเทพมหานคร,วัฒนา,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วัฒนา/Not Sated/Bangkok Metropolis,744
+745,Bangkok,กรุงเทพมหานคร,พระโขนง,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระโขนง/Not Sated/Bangkok Metropolis,745
+746,Central,ราชบุรี,บ้านโป่ง,คุ้งพยอม,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/คุ้งพยอม/Ratchaburi,746
+747,Central,ราชบุรี,บ้านโป่ง,เบิกไพร,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/เบิกไพร/Ratchaburi,747
+748,Central,ราชบุรี,บ้านโป่ง,ลาดบัวขาว,Ratchaburi,Central/ราชบุรี/บ้านโป่ง/ลาดบัวขาว/Ratchaburi,748
+749,Bangkok,กรุงเทพมหานคร,ภาษีเจริญ,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ภาษีเจริญ/Not Sated/Bangkok Metropolis,749
+750,Eastern,นครราชสีมา,ปากช่อง,ปากช่อง,Nakhon Ratchasima,Eastern/นครราชสีมา/ปากช่อง/ปากช่อง/Nakhon Ratchasima,750
+751,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,คลองหลวงแพ่ง,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/คลองหลวงแพ่ง/Chachoengsao,751
+752,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,หัวรอ,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/หัวรอ/Phra Nakhon Si Ayutthaya,752
+753,Bangkok,กรุงเทพมหานคร,พระนคร,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/พระนคร/Not Sated/Bangkok Metropolis,753
+754,Bangkok,กรุงเทพมหานคร,สัมพันธวงศ์,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สัมพันธวงศ์/Not Sated/Bangkok Metropolis,754
+755,Bangkok,กรุงเทพมหานคร,บางรัก,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางรัก/Not Sated/Bangkok Metropolis,755
+756,Bangkok,กรุงเทพมหานคร,สาทร,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สาทร/Not Sated/Bangkok Metropolis,756
+757,Bangkok,กรุงเทพมหานคร,Pathum Wan,Lumphini,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/Pathum Wan/Lumphini/Bangkok Metropolis,757
+758,Bangkok,กรุงเทพมหานคร,ปทุมวัน,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ปทุมวัน/Not Sated/Bangkok Metropolis,758
+759,Bangkok,กรุงเทพมหานคร,ดุสิต,สี่แยกมหานาค,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ดุสิต/สี่แยกมหานาค/Bangkok Metropolis,759
+760,Northern,พิษณุโลก,พรหมพิราม,ท่าช้าง,Phitsanulok,Northern/พิษณุโลก/พรหมพิราม/ท่าช้าง/Phitsanulok,760
+761,Bangkok,กรุงเทพมหานคร,ป้อมปราบศัตรูพ่าย,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ป้อมปราบศัตรูพ่าย/Not Sated/Bangkok Metropolis,761
+762,Bangkok,กรุงเทพมหานคร,บางกอกน้อย,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกอกน้อย/Not Sated/Bangkok Metropolis,762
+763,Central,ปทุมธานี,คลองหลวง,คลองสี่,Pathum Thani,Central/ปทุมธานี/คลองหลวง/คลองสี่/Pathum Thani,763
+764,Central,ปทุมธานี,ธัญบุรี,บึงสนั่น,Pathum Thani,Central/ปทุมธานี/ธัญบุรี/บึงสนั่น/Pathum Thani,764
+765,Central,นครนายก,องครักษ์,คลองใหญ่,Nakhon Nayok,Central/นครนายก/องครักษ์/คลองใหญ่/Nakhon Nayok,765
+766,Northern,เชียงใหม่,เมืองเชียงใหม่,วัดเกต,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/วัดเกต/Chiang Mai,766
+767,Bangkok,กรุงเทพมหานคร,ราชเทวี,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ราชเทวี/Not Sated/Bangkok Metropolis,767
+768,Northern,เชียงราย,เมืองเชียงราย,นางแล,Chiang Rai,Northern/เชียงราย/เมืองเชียงราย/นางแล/Chiang Rai,768
+769,Northern,พิษณุโลก,เมืองพิษณุโลก,ในเมือง,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/ในเมือง/Phitsanulok,769
+770,Bangkok,กรุงเทพมหานคร,บึงกุ่ม,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บึงกุ่ม/Not Sated/Bangkok Metropolis,770
+771,Bangkok,กรุงเทพมหานคร,บางกะปิ,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางกะปิ/Not Sated/Bangkok Metropolis,771
+772,Bangkok,กรุงเทพมหานคร,บางพลัด,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางพลัด/Not Sated/Bangkok Metropolis,772
+773,Central,ชลบุรี,พนัสนิคม,บ้านเซิด,Chon buri,Central/ชลบุรี/พนัสนิคม/บ้านเซิด/Chon buri,773
+774,Central,จันทบุรี,ท่าใหม่,คลองขุด,Chanthaburi,Central/จันทบุรี/ท่าใหม่/คลองขุด/Chanthaburi,774
+775,Bangkok,กรุงเทพมหานคร,มีนบุรี,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/มีนบุรี/Not Sated/Bangkok Metropolis,775
+776,Central,ชัยนาท,เมืองชัยนาท,บ้านกล้วย,Chai Nat,Central/ชัยนาท/เมืองชัยนาท/บ้านกล้วย/Chai Nat,776
+777,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,ท่าพี่เลี้ยง,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/ท่าพี่เลี้ยง/Suphan Buri,777
+778,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,ท่าระหัด,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/ท่าระหัด/Suphan Buri,778
+779,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,รั้วใหญ่,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/รั้วใหญ่/Suphan Buri,779
+780,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,สนามชัย,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/สนามชัย/Suphan Buri,780
+781,Central,ฉะเชิงเทรา,บางน้ำเปรี้ยว,บึงน้ำรักษ์,Chachoengsao,Central/ฉะเชิงเทรา/บางน้ำเปรี้ยว/บึงน้ำรักษ์/Chachoengsao,781
+782,Central,ฉะเชิงเทรา,บางน้ำเปรี้ยว,ศาลาแดง,Chachoengsao,Central/ฉะเชิงเทรา/บางน้ำเปรี้ยว/ศาลาแดง/Chachoengsao,782
+783,Bangkok,กรุงเทพมหานคร,หนองจอก,ลำต้อยติ่ง,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองจอก/ลำต้อยติ่ง/Bangkok Metropolis,783
+784,Bangkok,กรุงเทพมหานคร,หนองจอก,คลองสิบ,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/หนองจอก/คลองสิบ/Bangkok Metropolis,784
+785,Central,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,คลองอุดมชลจร,Chachoengsao,Central/ฉะเชิงเทรา/เมืองฉะเชิงเทรา/คลองอุดมชลจร/Chachoengsao,785
+786,Central,ปทุมธานี,ลำลูกกา,ลำไทร,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/ลำไทร/Pathum Thani,786
+787,Central,ปทุมธานี,ลำลูกกา,พืชอุดม,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/พืชอุดม/Pathum Thani,787
+788,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,ประตูชัย,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/ประตูชัย/Phra Nakhon Si Ayutthaya,788
+789,Central,พระนครศรีอยุธยา,บางปะอิน,บ้านเลน,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/บ้านเลน/Phra Nakhon Si Ayutthaya,789
+790,Central,พระนครศรีอยุธยา,อุทัย,คานหาม,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/อุทัย/คานหาม/Phra Nakhon Si Ayutthaya,790
+791,Central,พระนครศรีอยุธยา,บางปะอิน,บ้านกรด,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/บ้านกรด/Phra Nakhon Si Ayutthaya,791
+792,Central,พระนครศรีอยุธยา,อุทัย,ธนู,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/อุทัย/ธนู/Phra Nakhon Si Ayutthaya,792
+793,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,หอรัตนไชย,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/หอรัตนไชย/Phra Nakhon Si Ayutthaya,793
+794,Central,พระนครศรีอยุธยา,บางปะอิน,สามเรือน,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/สามเรือน/Phra Nakhon Si Ayutthaya,794
+795,Central,พระนครศรีอยุธยา,บางปะอิน,คลองจิก,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/คลองจิก/Phra Nakhon Si Ayutthaya,795
+796,Central,พระนครศรีอยุธยา,วังน้อย,ชะแมบ,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/วังน้อย/ชะแมบ/Phra Nakhon Si Ayutthaya,796
+797,Central,พระนครศรีอยุธยา,บางปะอิน,คุ้งลาน,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/คุ้งลาน/Phra Nakhon Si Ayutthaya,797
+798,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,ไผ่ลิง,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/ไผ่ลิง/Phra Nakhon Si Ayutthaya,798
+799,Central,พระนครศรีอยุธยา,บางปะอิน,บ้านหว้า,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/บ้านหว้า/Phra Nakhon Si Ayutthaya,799
+800,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,หันตรา,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/หันตรา/Phra Nakhon Si Ayutthaya,800
+801,Central,พระนครศรีอยุธยา,อุทัย,อุทัย,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/อุทัย/อุทัย/Phra Nakhon Si Ayutthaya,801
+802,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,สำเภาล่ม,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/สำเภาล่ม/Phra Nakhon Si Ayutthaya,802
+803,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,ท่าวาสุกรี,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/ท่าวาสุกรี/Phra Nakhon Si Ayutthaya,803
+804,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,กะมัง,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/กะมัง/Phra Nakhon Si Ayutthaya,804
+805,Central,พระนครศรีอยุธยา,นครหลวง,บ่อโพง,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/นครหลวง/บ่อโพง/Phra Nakhon Si Ayutthaya,805
+806,Central,พระนครศรีอยุธยา,บางปะอิน,บ้านสร้าง,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/บ้านสร้าง/Phra Nakhon Si Ayutthaya,806
+807,Central,พระนครศรีอยุธยา,บางปะอิน,บางกระสั้น,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/บางกระสั้น/Phra Nakhon Si Ayutthaya,807
+808,Central,นครปฐม,เมืองนครปฐม,พระประโทน,Nakhon Pathom,Central/นครปฐม/เมืองนครปฐม/พระประโทน/Nakhon Pathom,808
+809,Central,นครปฐม,บางเลน,บางเลน,Nakhon Pathom,Central/นครปฐม/บางเลน/บางเลน/Nakhon Pathom,809
+810,Central,นครปฐม,กำแพงแสน,ดอนข่อย,Nakhon Pathom,Central/นครปฐม/กำแพงแสน/ดอนข่อย/Nakhon Pathom,810
+811,Central,นครปฐม,ดอนตูม,ห้วยพระ,Nakhon Pathom,Central/นครปฐม/ดอนตูม/ห้วยพระ/Nakhon Pathom,811
+812,Central,นครปฐม,กำแพงแสน,วังน้ำเขียว,Nakhon Pathom,Central/นครปฐม/กำแพงแสน/วังน้ำเขียว/Nakhon Pathom,812
+813,Central,นครปฐม,กำแพงแสน,สระสี่มุม,Nakhon Pathom,Central/นครปฐม/กำแพงแสน/สระสี่มุม/Nakhon Pathom,813
+814,Central,นครปฐม,กำแพงแสน,กระตีบ,Nakhon Pathom,Central/นครปฐม/กำแพงแสน/กระตีบ/Nakhon Pathom,814
+815,Northern,แม่ฮ่องสอน,ปาย,เวียงใต้,Mae Hong Son,Northern/แม่ฮ่องสอน/ปาย/เวียงใต้/Mae Hong Son,815
+816,Eastern,อุดรธานี,เมืองอุดรธานี,หมากแข้ง,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/หมากแข้ง/Udon Thani,816
+817,Central,สิงห์บุรี,เมืองสิงห์บุรี,ต้นโพธิ์,Sing Buri,Central/สิงห์บุรี/เมืองสิงห์บุรี/ต้นโพธิ์/Sing Buri,817
+818,Bangkok,กรุงเทพมหานคร,สายไหม,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/สายไหม/Not Sated/Bangkok Metropolis,818
+819,Bangkok,กรุงเทพมหานคร,ลาดพร้าว,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ลาดพร้าว/Not Sated/Bangkok Metropolis,819
+820,Central,นครปฐม,นครชัยศรี,ศรีมหาโพธิ์,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/ศรีมหาโพธิ์/Nakhon Pathom,820
+821,Central,นครปฐม,นครชัยศรี,วัดสำโรง,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/วัดสำโรง/Nakhon Pathom,821
+822,Central,นครปฐม,นครชัยศรี,Not Sated,Nakhon Pathom,Central/นครปฐม/นครชัยศรี/Not Sated/Nakhon Pathom,822
+823,Central,นนทบุรี,ไทรน้อย,หนองเพรางาย,Nonthaburi,Central/นนทบุรี/ไทรน้อย/หนองเพรางาย/Nonthaburi,823
+824,Bangkok,กรุงเทพมหานคร,ทวีวัฒนา,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ทวีวัฒนา/Not Sated/Bangkok Metropolis,824
+825,Bangkok,กรุงเทพมหานคร,ศาลาธรรมสพน์,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/ศาลาธรรมสพน์/Not Sated/Bangkok Metropolis,825
+826,Central,ปราจีนบุรี,ศรีมหาโพธิ,ศรีมหาโพธิ,Prachin Buri,Central/ปราจีนบุรี/ศรีมหาโพธิ/ศรีมหาโพธิ/Prachin Buri,826
+827,Central,ปทุมธานี,คลองหลวง,คลองห้า,Pathum Thani,Central/ปทุมธานี/คลองหลวง/คลองห้า/Pathum Thani,827
+828,Central,นนทบุรี,ปากเกร็ด,เกาะเกร็ด,Nonthaburi,Central/นนทบุรี/ปากเกร็ด/เกาะเกร็ด/Nonthaburi,828
+829,Central,ปทุมธานี,ลาดหลุมแก้ว,คูบางหลวง,Pathum Thani,Central/ปทุมธานี/ลาดหลุมแก้ว/คูบางหลวง/Pathum Thani,829
+830,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,ดอนกำยาน,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/ดอนกำยาน/Suphan Buri,830
+831,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,พิหารแดง,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/พิหารแดง/Suphan Buri,831
+832,Eastern,นครราชสีมา,สูงเนิน,สูงเนิน,Nakhon Ratchasima,Eastern/นครราชสีมา/สูงเนิน/สูงเนิน/Nakhon Ratchasima,832
+833,Northern,เชียงใหม่,Not Sated,Not Sated,Chiang Mai,Northern/เชียงใหม่/Not Sated/Not Sated/Chiang Mai,833
+834,Central,ปราจีนบุรี,ประจันตคาม,ประจันตคาม,Prachin Buri,Central/ปราจีนบุรี/ประจันตคาม/ประจันตคาม/Prachin Buri,834
+835,Central,ปราจีนบุรี,เมืองปราจีนบุรี,ดงขี้เหล็ก,Prachin Buri,Central/ปราจีนบุรี/เมืองปราจีนบุรี/ดงขี้เหล็ก/Prachin Buri,835
+836,Northern,สุโขทัย,สวรรคโลก,เมืองสวรรคโลก,Sukhothai,Northern/สุโขทัย/สวรรคโลก/เมืองสวรรคโลก/Sukhothai,836
+837,Central,ปทุมธานี,คลองหลวง,คลองเจ็ด,Pathum Thani,Central/ปทุมธานี/คลองหลวง/คลองเจ็ด/Pathum Thani,837
+838,Central,ปทุมธานี,สามโคก,ท้ายเกาะ,Pathum Thani,Central/ปทุมธานี/สามโคก/ท้ายเกาะ/Pathum Thani,838
+839,Central,ปทุมธานี,ลาดหลุมแก้ว,หน้าไม้,Pathum Thani,Central/ปทุมธานี/ลาดหลุมแก้ว/หน้าไม้/Pathum Thani,839
+840,Central,นนทบุรี,ไทรน้อย,ขุนศรี,Nonthaburi,Central/นนทบุรี/ไทรน้อย/ขุนศรี/Nonthaburi,840
+841,Central,นนทบุรี,ไทรน้อย,ราษฎร์นิยม,Nonthaburi,Central/นนทบุรี/ไทรน้อย/ราษฎร์นิยม/Nonthaburi,841
+842,Central,นครนายก,เมืองนครนายก,พรหมณี,Nakhon Nayok,Central/นครนายก/เมืองนครนายก/พรหมณี/Nakhon Nayok,842
+843,Central,สุพรรณบุรี,บางปลาม้า,โคกคราม,Suphan Buri,Central/สุพรรณบุรี/บางปลาม้า/โคกคราม/Suphan Buri,843
+844,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,ดอนโพธิ์ทอง,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/ดอนโพธิ์ทอง/Suphan Buri,844
+845,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,บ้านโพธิ์,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/บ้านโพธิ์/Suphan Buri,845
+846,Central,นครนายก,เมืองนครนายก,วังกระโจม,Nakhon Nayok,Central/นครนายก/เมืองนครนายก/วังกระโจม/Nakhon Nayok,846
+847,Central,พระนครศรีอยุธยา,บางปะอิน,เชียงรากน้อย,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/เชียงรากน้อย/Phra Nakhon Si Ayutthaya,847
+848,Central,ปทุมธานี,สามโคก,เชียงรากใหญ่,Pathum Thani,Central/ปทุมธานี/สามโคก/เชียงรากใหญ่/Pathum Thani,848
+849,Central,พระนครศรีอยุธยา,วังน้อย,พยอม,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/วังน้อย/พยอม/Phra Nakhon Si Ayutthaya,849
+850,Central,นนทบุรี,ไทรน้อย,ไทรใหญ่,Nonthaburi,Central/นนทบุรี/ไทรน้อย/ไทรใหญ่/Nonthaburi,850
+851,Central,อ่างทอง,เมืองอ่างทอง,บางแก้ว,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/บางแก้ว/Ang Thong,851
+852,Central,อ่างทอง,เมืองอ่างทอง,ตลาดหลวง,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/ตลาดหลวง/Ang Thong,852
+853,Central,อ่างทอง,เมืองอ่างทอง,ป่างิ้ว,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/ป่างิ้ว/Ang Thong,853
+854,Central,ปทุมธานี,ลาดหลุมแก้ว,ระแหง,Pathum Thani,Central/ปทุมธานี/ลาดหลุมแก้ว/ระแหง/Pathum Thani,854
+855,Central,ปทุมธานี,ลาดหลุมแก้ว,คูขวาง,Pathum Thani,Central/ปทุมธานี/ลาดหลุมแก้ว/คูขวาง/Pathum Thani,855
+856,Central,ปทุมธานี,สามโคก,สามโคก,Pathum Thani,Central/ปทุมธานี/สามโคก/สามโคก/Pathum Thani,856
+857,Central,ปทุมธานี,เมืองปทุมธานี,บ้านกระแชง,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บ้านกระแชง/Pathum Thani,857
+858,Central,ปทุมธานี,สามโคก,คลองควาย,Pathum Thani,Central/ปทุมธานี/สามโคก/คลองควาย/Pathum Thani,858
+859,Central,ปทุมธานี,สามโคก,กระแชง,Pathum Thani,Central/ปทุมธานี/สามโคก/กระแชง/Pathum Thani,859
+860,Central,ปทุมธานี,สามโคก,บางเตย,Pathum Thani,Central/ปทุมธานี/สามโคก/บางเตย/Pathum Thani,860
+861,Eastern,นครราชสีมา,เมืองนครราชสีมา,สุรนารี,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/สุรนารี/Nakhon Ratchasima,861
+862,Central,พระนครศรีอยุธยา,วังน้อย,สนับทึบ,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/วังน้อย/สนับทึบ/Phra Nakhon Si Ayutthaya,862
+863,Eastern,นครราชสีมา,เมืองนครราชสีมา,โคกกรวด,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/โคกกรวด/Nakhon Ratchasima,863
+864,Northern,เชียงใหม่,สันทราย,สันทรายหลวง,Chiang Mai,Northern/เชียงใหม่/สันทราย/สันทรายหลวง/Chiang Mai,864
+865,Eastern,นครราชสีมา,เมืองนครราชสีมา,บ้านใหม่,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/บ้านใหม่/Nakhon Ratchasima,865
+866,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,บ้านป้อม,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/บ้านป้อม/Phra Nakhon Si Ayutthaya,866
+867,Central,ปทุมธานี,เมืองปทุมธานี,บางพูด,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/บางพูด/Pathum Thani,867
+868,Central,ปทุมธานี,เมืองปทุมธานี,สวนพริกไทย,Pathum Thani,Central/ปทุมธานี/เมืองปทุมธานี/สวนพริกไทย/Pathum Thani,868
+869,Central,ปทุมธานี,สามโคก,บ้านงิ้ว,Pathum Thani,Central/ปทุมธานี/สามโคก/บ้านงิ้ว/Pathum Thani,869
+870,Central,ปทุมธานี,สามโคก,บางกระบือ,Pathum Thani,Central/ปทุมธานี/สามโคก/บางกระบือ/Pathum Thani,870
+871,Central,ปทุมธานี,สามโคก,เชียงรากน้อย,Pathum Thani,Central/ปทุมธานี/สามโคก/เชียงรากน้อย/Pathum Thani,871
+872,Central,สระบุรี,แก่งคอย,แก่งคอย,Saraburi,Central/สระบุรี/แก่งคอย/แก่งคอย/Saraburi,872
+873,Central,ปทุมธานี,ลำลูกกา,บึงคอไห,Pathum Thani,Central/ปทุมธานี/ลำลูกกา/บึงคอไห/Pathum Thani,873
+874,Central,สุพรรณบุรี,เมืองสุพรรณบุรี,โพธิ์พระยา,Suphan Buri,Central/สุพรรณบุรี/เมืองสุพรรณบุรี/โพธิ์พระยา/Suphan Buri,874
+875,Central,สุพรรณบุรี,บางปลาม้า,ตะค่า,Suphan Buri,Central/สุพรรณบุรี/บางปลาม้า/ตะค่า/Suphan Buri,875
+876,Central,สุพรรณบุรี,ด่านช้าง,วังคัน,Suphan Buri,Central/สุพรรณบุรี/ด่านช้าง/วังคัน/Suphan Buri,876
+877,Central,พระนครศรีอยุธยา,วังน้อย,ลำไทร,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/วังน้อย/ลำไทร/Phra Nakhon Si Ayutthaya,877
+878,Central,พระนครศรีอยุธยา,วังน้อย,บ่อตาโล่,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/วังน้อย/บ่อตาโล่/Phra Nakhon Si Ayutthaya,878
+879,Eastern,ขอนแก่น,เมืองขอนแก่น,ในเมือง,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/ในเมือง/Khon Kaen,879
+880,Central,ลพบุรี,เมืองลพบุรี,ท่าศาลา,Lop buri,Central/ลพบุรี/เมืองลพบุรี/ท่าศาลา/Lop buri,880
+881,Central,ลพบุรี,เมืองลพบุรี,ถนนใหญ่,Lop buri,Central/ลพบุรี/เมืองลพบุรี/ถนนใหญ่/Lop buri,881
+882,Central,ลพบุรี,เมืองลพบุรี,ท่าหิน,Lop buri,Central/ลพบุรี/เมืองลพบุรี/ท่าหิน/Lop buri,882
+883,Central,ลพบุรี,เมืองลพบุรี,พรหมมาสตร์,Lop buri,Central/ลพบุรี/เมืองลพบุรี/พรหมมาสตร์/Lop buri,883
+884,Central,ลพบุรี,เมืองลพบุรี,ป่าตาล,Lop buri,Central/ลพบุรี/เมืองลพบุรี/ป่าตาล/Lop buri,884
+885,Central,ลพบุรี,เมืองลพบุรี,เขาสามยอด,Lop buri,Central/ลพบุรี/เมืองลพบุรี/เขาสามยอด/Lop buri,885
+886,Central,ลพบุรี,เมืองลพบุรี,กกโก,Lop buri,Central/ลพบุรี/เมืองลพบุรี/กกโก/Lop buri,886
+887,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,คลองสระบัว,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/คลองสระบัว/Phra Nakhon Si Ayutthaya,887
+888,Central,พระนครศรีอยุธยา,อุทัย,บ้านช้าง,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/อุทัย/บ้านช้าง/Phra Nakhon Si Ayutthaya,888
+889,Central,พระนครศรีอยุธยา,บางปะอิน,บ้านโพธิ์,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/บ้านโพธิ์/Phra Nakhon Si Ayutthaya,889
+890,Central,พระนครศรีอยุธยา,Not Sated,Not Sated,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/Not Sated/Not Sated/Phra Nakhon Si Ayutthaya,890
+891,Central,พระนครศรีอยุธยา,บางปะหัน,บางเดื่อ,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะหัน/บางเดื่อ/Phra Nakhon Si Ayutthaya,891
+892,Central,สิงห์บุรี,เมืองสิงห์บุรี,บางพุทรา,Sing Buri,Central/สิงห์บุรี/เมืองสิงห์บุรี/บางพุทรา/Sing Buri,892
+893,Central,ลพบุรี,เมืองลพบุรี,ทะเลชุบศร,Lop buri,Central/ลพบุรี/เมืองลพบุรี/ทะเลชุบศร/Lop buri,893
+894,Eastern,สุรินทร์,เมืองสุรินทร์,ในเมือง,Surin,Eastern/สุรินทร์/เมืองสุรินทร์/ในเมือง/Surin,894
+895,Eastern,สุรินทร์,เมืองสุรินทร์,สลักได,Surin,Eastern/สุรินทร์/เมืองสุรินทร์/สลักได/Surin,895
+896,Eastern,สุรินทร์,เมืองสุรินทร์,นอกเมือง,Surin,Eastern/สุรินทร์/เมืองสุรินทร์/นอกเมือง/Surin,896
+897,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,ลุมพลี,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/ลุมพลี/Phra Nakhon Si Ayutthaya,897
+898,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/พระนครศรีอยุธยา/Phra Nakhon Si Ayutthaya,898
+899,Central,อ่างทอง,เมืองอ่างทอง,ย่านซื่อ,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/ย่านซื่อ/Ang Thong,899
+900,Central,พระนครศรีอยุธยา,อุทัย,ข้าวเม่า,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/อุทัย/ข้าวเม่า/Phra Nakhon Si Ayutthaya,900
+901,Central,พระนครศรีอยุธยา,บางปะอิน,ขนอนหลวง,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/ขนอนหลวง/Phra Nakhon Si Ayutthaya,901
+902,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,เกาะเรียน,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/เกาะเรียน/Phra Nakhon Si Ayutthaya,902
+903,Central,พระนครศรีอยุธยา,อุทัย,สามบัณฑิต,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/อุทัย/สามบัณฑิต/Phra Nakhon Si Ayutthaya,903
+904,Central,พระนครศรีอยุธยา,บางปะอิน,บางประแดง,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/บางประแดง/Phra Nakhon Si Ayutthaya,904
+905,Central,พระนครศรีอยุธยา,บางปะอิน,เกาะเกิด,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะอิน/เกาะเกิด/Phra Nakhon Si Ayutthaya,905
+906,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,คลองตะเคียน,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/คลองตะเคียน/Phra Nakhon Si Ayutthaya,906
+907,Central,พระนครศรีอยุธยา,บางไทร,บางไทร,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางไทร/บางไทร/Phra Nakhon Si Ayutthaya,907
+908,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,บ้านเกาะ,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/บ้านเกาะ/Phra Nakhon Si Ayutthaya,908
+909,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,สวนพริก,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/สวนพริก/Phra Nakhon Si Ayutthaya,909
+910,Central,พระนครศรีอยุธยา,เสนา,เสนา,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/เสนา/เสนา/Phra Nakhon Si Ayutthaya,910
+911,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,วัดตูม,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/วัดตูม/Phra Nakhon Si Ayutthaya,911
+912,Central,พระนครศรีอยุธยา,พระนครศรีอยุธยา,บ้านใหม่,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/พระนครศรีอยุธยา/บ้านใหม่/Phra Nakhon Si Ayutthaya,912
+913,Central,ลพบุรี,เมืองลพบุรี,Not Sated,Lop buri,Central/ลพบุรี/เมืองลพบุรี/Not Sated/Lop buri,913
+914,Central,อ่างทอง,เมืองอ่างทอง,โพสะ,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/โพสะ/Ang Thong,914
+915,Central,สุพรรณบุรี,ศรีประจันต์,ศรีประจันต์,Suphan Buri,Central/สุพรรณบุรี/ศรีประจันต์/ศรีประจันต์/Suphan Buri,915
+916,Central,สุพรรณบุรี,Not Sated,Not Sated,Suphan Buri,Central/สุพรรณบุรี/Not Sated/Not Sated/Suphan Buri,916
+917,Central,สุพรรณบุรี,บางปลาม้า,บางปลาม้า,Suphan Buri,Central/สุพรรณบุรี/บางปลาม้า/บางปลาม้า/Suphan Buri,917
+918,Central,พระนครศรีอยุธยา,มหาราช,บ้านขวาง,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/มหาราช/บ้านขวาง/Phra Nakhon Si Ayutthaya,918
+919,Central,อ่างทอง,เมืองอ่างทอง,บ้านแห,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/บ้านแห/Ang Thong,919
+920,Central,อ่างทอง,เมืองอ่างทอง,ศาลาแดง,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/ศาลาแดง/Ang Thong,920
+921,Central,อ่างทอง,เมืองอ่างทอง,บ้านอิฐ,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/บ้านอิฐ/Ang Thong,921
+922,Central,สระบุรี,เมืองสระบุรี,ปากข้าวสาร,Saraburi,Central/สระบุรี/เมืองสระบุรี/ปากข้าวสาร/Saraburi,922
+923,Central,สิงห์บุรี,เมืองสิงห์บุรี,ม่วงหมู่,Sing Buri,Central/สิงห์บุรี/เมืองสิงห์บุรี/ม่วงหมู่/Sing Buri,923
+924,Central,พระนครศรีอยุธยา,บางปะหัน,บางนางร้า,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะหัน/บางนางร้า/Phra Nakhon Si Ayutthaya,924
+925,Central,พระนครศรีอยุธยา,บางปะหัน,ขยาย,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะหัน/ขยาย/Phra Nakhon Si Ayutthaya,925
+926,Eastern,นครราชสีมา,เมืองนครราชสีมา,นครราชสีมา,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/นครราชสีมา/Nakhon Ratchasima,926
+927,Eastern,นครราชสีมา,เมืองนครราชสีมา,ในเมือง,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/ในเมือง/Nakhon Ratchasima,927
+928,Eastern,นครราชสีมา,เมืองนครราชสีมา,บ้านเกาะ,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/บ้านเกาะ/Nakhon Ratchasima,928
+929,Eastern,นครราชสีมา,เมืองนครราชสีมา,จอหอ,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/จอหอ/Nakhon Ratchasima,929
+930,Eastern,นครราชสีมา,เมืองนครราชสีมา,หนองกระทุ่ม,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/หนองกระทุ่ม/Nakhon Ratchasima,930
+931,Eastern,นครราชสีมา,เมืองนครราชสีมา,หมื่นไวย,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/หมื่นไวย/Nakhon Ratchasima,931
+932,Eastern,นครราชสีมา,เมืองนครราชสีมา,ตลาด,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/ตลาด/Nakhon Ratchasima,932
+933,Eastern,นครราชสีมา,เมืองนครราชสีมา,ปรุใหญ่,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/ปรุใหญ่/Nakhon Ratchasima,933
+934,Eastern,นครราชสีมา,เมืองนครราชสีมา,หนองไผ่ล้อม,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/หนองไผ่ล้อม/Nakhon Ratchasima,934
+935,Eastern,นครราชสีมา,เมืองนครราชสีมา,โพธิ์กลาง,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/โพธิ์กลาง/Nakhon Ratchasima,935
+936,Eastern,นครราชสีมา,เมืองนครราชสีมา,หนองบัวศาลา,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/หนองบัวศาลา/Nakhon Ratchasima,936
+937,Eastern,นครราชสีมา,เมืองนครราชสีมา,หนองจะบก,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/หนองจะบก/Nakhon Ratchasima,937
+938,Eastern,นครราชสีมา,เมืองนครราชสีมา,มะเริง,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/มะเริง/Nakhon Ratchasima,938
+939,Eastern,นครราชสีมา,เมืองนครราชสีมา,ไชยมงคล,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/ไชยมงคล/Nakhon Ratchasima,939
+940,Eastern,นครราชสีมา,ปากช่อง,หนองน้ำแดง,Nakhon Ratchasima,Eastern/นครราชสีมา/ปากช่อง/หนองน้ำแดง/Nakhon Ratchasima,940
+941,Eastern,นครราชสีมา,เมืองนครราชสีมา,บ้านโพธิ์,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/บ้านโพธิ์/Nakhon Ratchasima,941
+942,Eastern,นครราชสีมา,เมืองนครราชสีมา,พะเนา,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/พะเนา/Nakhon Ratchasima,942
+943,Eastern,นครราชสีมา,ขามทะเลสอ,ขามทะเลสอ,Nakhon Ratchasima,Eastern/นครราชสีมา/ขามทะเลสอ/ขามทะเลสอ/Nakhon Ratchasima,943
+944,Eastern,นครราชสีมา,ปักธงชัย,เมืองปัก,Nakhon Ratchasima,Eastern/นครราชสีมา/ปักธงชัย/เมืองปัก/Nakhon Ratchasima,944
+945,Eastern,นครราชสีมา,เมืองนครราชสีมา,หนองระเวียง,Nakhon Ratchasima,Eastern/นครราชสีมา/เมืองนครราชสีมา/หนองระเวียง/Nakhon Ratchasima,945
+946,Eastern,นครราชสีมา,Not Sated,Not Sated,Nakhon Ratchasima,Eastern/นครราชสีมา/Not Sated/Not Sated/Nakhon Ratchasima,946
+947,Central,พระนครศรีอยุธยา,มหาราช,บ้านใหม่,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/มหาราช/บ้านใหม่/Phra Nakhon Si Ayutthaya,947
+948,Central,อ่างทอง,เมืองอ่างทอง,หัวไผ่,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/หัวไผ่/Ang Thong,948
+949,Central,อ่างทอง,เมืองอ่างทอง,จำปาหล่อ,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/จำปาหล่อ/Ang Thong,949
+950,Central,อ่างทอง,ป่าโมก,บางปลากด,Ang Thong,Central/อ่างทอง/ป่าโมก/บางปลากด/Ang Thong,950
+951,Central,พระนครศรีอยุธยา,มหาราช,ท่าตอ,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/มหาราช/ท่าตอ/Phra Nakhon Si Ayutthaya,951
+952,Central,สิงห์บุรี,เมืองสิงห์บุรี,บางมัญ,Sing Buri,Central/สิงห์บุรี/เมืองสิงห์บุรี/บางมัญ/Sing Buri,952
+953,Central,อ่างทอง,เมืองอ่างทอง,ตลาดกรวด,Ang Thong,Central/อ่างทอง/เมืองอ่างทอง/ตลาดกรวด/Ang Thong,953
+954,Central,สระบุรี,เมืองสระบุรี,นาโฉง,Saraburi,Central/สระบุรี/เมืองสระบุรี/นาโฉง/Saraburi,954
+955,Central,สระบุรี,เมืองสระบุรี,ดาวเรือง,Saraburi,Central/สระบุรี/เมืองสระบุรี/ดาวเรือง/Saraburi,955
+956,Central,สระบุรี,เมืองสระบุรี,โคกสว่าง,Saraburi,Central/สระบุรี/เมืองสระบุรี/โคกสว่าง/Saraburi,956
+957,Central,สระบุรี,เมืองสระบุรี,ตลิ่งชัน,Saraburi,Central/สระบุรี/เมืองสระบุรี/ตลิ่งชัน/Saraburi,957
+958,Central,สระบุรี,เฉลิมพระเกียรติ,ผึ้งรวง,Saraburi,Central/สระบุรี/เฉลิมพระเกียรติ/ผึ้งรวง/Saraburi,958
+959,Eastern,นครราชสีมา,โนนไทย,โนนไทย,Nakhon Ratchasima,Eastern/นครราชสีมา/โนนไทย/โนนไทย/Nakhon Ratchasima,959
+960,Eastern,นครราชสีมา,ขามทะเลสอ,โป่งแดง,Nakhon Ratchasima,Eastern/นครราชสีมา/ขามทะเลสอ/โป่งแดง/Nakhon Ratchasima,960
+961,Central,ลพบุรี,เมืองลพบุรี,ท่าแค,Lop buri,Central/ลพบุรี/เมืองลพบุรี/ท่าแค/Lop buri,961
+962,Central,ชัยนาท,เมืองชัยนาท,ในเมือง,Chai Nat,Central/ชัยนาท/เมืองชัยนาท/ในเมือง/Chai Nat,962
+963,Central,ชัยนาท,เมืองชัยนาท,ชัยนาท,Chai Nat,Central/ชัยนาท/เมืองชัยนาท/ชัยนาท/Chai Nat,963
+964,Central,ชัยนาท,เมืองชัยนาท,เขาท่าพระ,Chai Nat,Central/ชัยนาท/เมืองชัยนาท/เขาท่าพระ/Chai Nat,964
+965,Central,ลพบุรี,เมืองลพบุรี,บางขันหมาก,Lop buri,Central/ลพบุรี/เมืองลพบุรี/บางขันหมาก/Lop buri,965
+966,Central,สิงห์บุรี,พรหมบุรี,พรหมบุรี,Sing Buri,Central/สิงห์บุรี/พรหมบุรี/พรหมบุรี/Sing Buri,966
+967,Central,ลพบุรี,ท่าวุ้ง,ท่าวุ้ง,Lop buri,Central/ลพบุรี/ท่าวุ้ง/ท่าวุ้ง/Lop buri,967
+968,Central,ลพบุรี,เมืองลพบุรี,นิคมสร้างตนเอง,Lop buri,Central/ลพบุรี/เมืองลพบุรี/นิคมสร้างตนเอง/Lop buri,968
+969,Central,ลพบุรี,เมืองลพบุรี,โพธิ์เก้าต้น,Lop buri,Central/ลพบุรี/เมืองลพบุรี/โพธิ์เก้าต้น/Lop buri,969
+970,Central,ลพบุรี,เมืองลพบุรี,เขาพระงาม,Lop buri,Central/ลพบุรี/เมืองลพบุรี/เขาพระงาม/Lop buri,970
+971,Central,ลพบุรี,Not Sated,Not Sated,Lop buri,Central/ลพบุรี/Not Sated/Not Sated/Lop buri,971
+972,Northern,นครสวรรค์,ไพศาลี,สำโรงชัย,Nakhon Sawan,Northern/นครสวรรค์/ไพศาลี/สำโรงชัย/Nakhon Sawan,972
+973,Eastern,ศรีสะเกษ,เมืองศรีสะเกษ,เมืองเหนือ,Si Sa Ket,Eastern/ศรีสะเกษ/เมืองศรีสะเกษ/เมืองเหนือ/Si Sa Ket,973
+974,Eastern,ศรีสะเกษ,เมืองศรีสะเกษ,เมืองใต้,Si Sa Ket,Eastern/ศรีสะเกษ/เมืองศรีสะเกษ/เมืองใต้/Si Sa Ket,974
+975,Eastern,ศรีสะเกษ,เมืองศรีสะเกษ,โพธิ์,Si Sa Ket,Eastern/ศรีสะเกษ/เมืองศรีสะเกษ/โพธิ์/Si Sa Ket,975
+976,Eastern,ศรีสะเกษ,เมืองศรีสะเกษ,น้ำคำ,Si Sa Ket,Eastern/ศรีสะเกษ/เมืองศรีสะเกษ/น้ำคำ/Si Sa Ket,976
+977,Eastern,ศรีสะเกษ,เมืองศรีสะเกษ,หนองครก,Si Sa Ket,Eastern/ศรีสะเกษ/เมืองศรีสะเกษ/หนองครก/Si Sa Ket,977
+978,Eastern,ศรีสะเกษ,เมืองศรีสะเกษ,หนองไผ่,Si Sa Ket,Eastern/ศรีสะเกษ/เมืองศรีสะเกษ/หนองไผ่/Si Sa Ket,978
+979,Eastern,ศรีสะเกษ,เมืองศรีสะเกษ,โพนข่า,Si Sa Ket,Eastern/ศรีสะเกษ/เมืองศรีสะเกษ/โพนข่า/Si Sa Ket,979
+980,Central,สิงห์บุรี,เมืองสิงห์บุรี,บางกระบือ,Sing Buri,Central/สิงห์บุรี/เมืองสิงห์บุรี/บางกระบือ/Sing Buri,980
+981,Northern,พิษณุโลก,เมืองพิษณุโลก,ท่าโพธิ์,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/ท่าโพธิ์/Phitsanulok,981
+982,Central,ชัยนาท,เมืองชัยนาท,ท่าชัย,Chai Nat,Central/ชัยนาท/เมืองชัยนาท/ท่าชัย/Chai Nat,982
+983,Central,ชัยนาท,สรรพยา,ตลุก,Chai Nat,Central/ชัยนาท/สรรพยา/ตลุก/Chai Nat,983
+984,Central,ลพบุรี,เมืองลพบุรี,โคกกะเทียม,Lop buri,Central/ลพบุรี/เมืองลพบุรี/โคกกะเทียม/Lop buri,984
+985,Eastern,ยโสธร,เมืองยโสธร,ในเมือง,Yasothon,Eastern/ยโสธร/เมืองยโสธร/ในเมือง/Yasothon,985
+986,Eastern,ยโสธร,เมืองยโสธร,ตาดทอง,Yasothon,Eastern/ยโสธร/เมืองยโสธร/ตาดทอง/Yasothon,986
+987,Eastern,ยโสธร,เมืองยโสธร,สำราญ,Yasothon,Eastern/ยโสธร/เมืองยโสธร/สำราญ/Yasothon,987
+988,Eastern,ยโสธร,เมืองยโสธร,น้ำคำใหญ่,Yasothon,Eastern/ยโสธร/เมืองยโสธร/น้ำคำใหญ่/Yasothon,988
+989,Eastern,ยโสธร,เมืองยโสธร,เขื่องคำ,Yasothon,Eastern/ยโสธร/เมืองยโสธร/เขื่องคำ/Yasothon,989
+990,Eastern,ยโสธร,เมืองยโสธร,Not Sated,Yasothon,Eastern/ยโสธร/เมืองยโสธร/Not Sated/Yasothon,990
+991,Eastern,ร้อยเอ็ด,พนมไพร,พนมไพร,Roi Et,Eastern/ร้อยเอ็ด/พนมไพร/พนมไพร/Roi Et,991
+992,Eastern,ชัยภูมิ,เมืองชัยภูมิ,รอบเมือง,Chaiyaphum,Eastern/ชัยภูมิ/เมืองชัยภูมิ/รอบเมือง/Chaiyaphum,992
+993,Eastern,ชัยภูมิ,เมืองชัยภูมิ,ในเมือง,Chaiyaphum,Eastern/ชัยภูมิ/เมืองชัยภูมิ/ในเมือง/Chaiyaphum,993
+994,Eastern,ชัยภูมิ,เมืองชัยภูมิ,โพนทอง,Chaiyaphum,Eastern/ชัยภูมิ/เมืองชัยภูมิ/โพนทอง/Chaiyaphum,994
+995,Eastern,ชัยภูมิ,เมืองชัยภูมิ,หนองนาแซง,Chaiyaphum,Eastern/ชัยภูมิ/เมืองชัยภูมิ/หนองนาแซง/Chaiyaphum,995
+996,Eastern,ชัยภูมิ,Not Sated,Not Sated,Chaiyaphum,Eastern/ชัยภูมิ/Not Sated/Not Sated/Chaiyaphum,996
+997,Eastern,อำนาจเจริญ,เมืองอำนาจเจริญ,บุ่ง,Amnat Charoen,Eastern/อำนาจเจริญ/เมืองอำนาจเจริญ/บุ่ง/Amnat Charoen,997
+998,Eastern,อำนาจเจริญ,เมืองอำนาจเจริญ,โนนหนามแท่ง,Amnat Charoen,Eastern/อำนาจเจริญ/เมืองอำนาจเจริญ/โนนหนามแท่ง/Amnat Charoen,998
+999,Eastern,ร้อยเอ็ด,เมืองร้อยเอ็ด,ในเมือง,Roi Et,Eastern/ร้อยเอ็ด/เมืองร้อยเอ็ด/ในเมือง/Roi Et,999
+1000,Eastern,ร้อยเอ็ด,เมืองร้อยเอ็ด,เหนือเมือง,Roi Et,Eastern/ร้อยเอ็ด/เมืองร้อยเอ็ด/เหนือเมือง/Roi Et,1000
+1001,Eastern,ร้อยเอ็ด,เมืองร้อยเอ็ด,ดงลาน,Roi Et,Eastern/ร้อยเอ็ด/เมืองร้อยเอ็ด/ดงลาน/Roi Et,1001
+1002,Eastern,ร้อยเอ็ด,เมืองร้อยเอ็ด,หนองแวง,Roi Et,Eastern/ร้อยเอ็ด/เมืองร้อยเอ็ด/หนองแวง/Roi Et,1002
+1003,Eastern,ร้อยเอ็ด,ธวัชบุรี,นิเวศน์,Roi Et,Eastern/ร้อยเอ็ด/ธวัชบุรี/นิเวศน์/Roi Et,1003
+1004,Eastern,ร้อยเอ็ด,เมืองร้อยเอ็ด,รอบเมือง,Roi Et,Eastern/ร้อยเอ็ด/เมืองร้อยเอ็ด/รอบเมือง/Roi Et,1004
+1005,Eastern,ร้อยเอ็ด,Not Sated,Not Sated,Roi Et,Eastern/ร้อยเอ็ด/Not Sated/Not Sated/Roi Et,1005
+1006,Eastern,ขอนแก่น,เมืองขอนแก่น,บ้านเป็ด,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/บ้านเป็ด/Khon Kaen,1006
+1007,Eastern,ขอนแก่น,เมืองขอนแก่น,พระลับ,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/พระลับ/Khon Kaen,1007
+1008,Eastern,ขอนแก่น,เมืองขอนแก่น,เมืองเก่า,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/เมืองเก่า/Khon Kaen,1008
+1009,Eastern,ขอนแก่น,Not Sated,Not Sated,Khon Kaen,Eastern/ขอนแก่น/Not Sated/Not Sated/Khon Kaen,1009
+1010,Eastern,ขอนแก่น,เมืองขอนแก่น,ศิลา,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/ศิลา/Khon Kaen,1010
+1011,Eastern,ขอนแก่น,เมืองขอนแก่น,บึงเนียม,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/บึงเนียม/Khon Kaen,1011
+1012,Eastern,ขอนแก่น,เมืองขอนแก่น,Not Sated,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/Not Sated/Khon Kaen,1012
+1013,Eastern,อุดรธานี,วังสามหมอ,วังสามหมอ,Udon Thani,Eastern/อุดรธานี/วังสามหมอ/วังสามหมอ/Udon Thani,1013
+1014,Northern,ลำพูน,เมืองลำพูน,ในเมือง,Lamphun,Northern/ลำพูน/เมืองลำพูน/ในเมือง/Lamphun,1014
+1015,Eastern,ขอนแก่น,บ้านแฮด,โนนสมบูรณ์,Khon Kaen,Eastern/ขอนแก่น/บ้านแฮด/โนนสมบูรณ์/Khon Kaen,1015
+1016,Eastern,ขอนแก่น,เมืองขอนแก่น,ท่าพระ,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/ท่าพระ/Khon Kaen,1016
+1017,Eastern,ขอนแก่น,เมืองขอนแก่น,บ้านทุ่ม,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/บ้านทุ่ม/Khon Kaen,1017
+1018,Eastern,นครราชสีมา,คง,เทพาลัย,Nakhon Ratchasima,Eastern/นครราชสีมา/คง/เทพาลัย/Nakhon Ratchasima,1018
+1019,Northern,เพชรบูรณ์,เมืองเพชรบูรณ์,สะเดียง,Phetchabun,Northern/เพชรบูรณ์/เมืองเพชรบูรณ์/สะเดียง/Phetchabun,1019
+1020,Northern,เพชรบูรณ์,เมืองเพชรบูรณ์,นางั่ว,Phetchabun,Northern/เพชรบูรณ์/เมืองเพชรบูรณ์/นางั่ว/Phetchabun,1020
+1021,Northern,เพชรบูรณ์,เมืองเพชรบูรณ์,ดงมูลเหล็ก,Phetchabun,Northern/เพชรบูรณ์/เมืองเพชรบูรณ์/ดงมูลเหล็ก/Phetchabun,1021
+1022,Northern,เพชรบูรณ์,เมืองเพชรบูรณ์,บ้านโตก,Phetchabun,Northern/เพชรบูรณ์/เมืองเพชรบูรณ์/บ้านโตก/Phetchabun,1022
+1023,Northern,เพชรบูรณ์,เมืองเพชรบูรณ์,ป่าเลา,Phetchabun,Northern/เพชรบูรณ์/เมืองเพชรบูรณ์/ป่าเลา/Phetchabun,1023
+1024,Northern,เพชรบูรณ์,เมืองเพชรบูรณ์,Not Sated,Phetchabun,Northern/เพชรบูรณ์/เมืองเพชรบูรณ์/Not Sated/Phetchabun,1024
+1025,Eastern,ขอนแก่น,เมืองขอนแก่น,แดงใหญ่,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/แดงใหญ่/Khon Kaen,1025
+1026,Eastern,กาฬสินธุ์,เมืองกาฬสินธุ์,หลุบ,Kalasin,Eastern/กาฬสินธุ์/เมืองกาฬสินธุ์/หลุบ/Kalasin,1026
+1027,Eastern,กาฬสินธุ์,เมืองกาฬสินธุ์,กาฬสินธุ์,Kalasin,Eastern/กาฬสินธุ์/เมืองกาฬสินธุ์/กาฬสินธุ์/Kalasin,1027
+1028,Eastern,กาฬสินธุ์,เมืองกาฬสินธุ์,ลำพาน,Kalasin,Eastern/กาฬสินธุ์/เมืองกาฬสินธุ์/ลำพาน/Kalasin,1028
+1029,Eastern,กาฬสินธุ์,เมืองกาฬสินธุ์,เหนือ,Kalasin,Eastern/กาฬสินธุ์/เมืองกาฬสินธุ์/เหนือ/Kalasin,1029
+1030,Eastern,กาฬสินธุ์,เมืองกาฬสินธุ์,Not Sated,Kalasin,Eastern/กาฬสินธุ์/เมืองกาฬสินธุ์/Not Sated/Kalasin,1030
+1031,Eastern,กาฬสินธุ์,เมืองกาฬสินธุ์,โพนทอง,Kalasin,Eastern/กาฬสินธุ์/เมืองกาฬสินธุ์/โพนทอง/Kalasin,1031
+1032,Northern,พิจิตร,เมืองพิจิตร,ในเมือง,Phichit,Northern/พิจิตร/เมืองพิจิตร/ในเมือง/Phichit,1032
+1033,Northern,พิจิตร,เมืองพิจิตร,ท่าหลวง,Phichit,Northern/พิจิตร/เมืองพิจิตร/ท่าหลวง/Phichit,1033
+1034,Northern,พิจิตร,เมืองพิจิตร,คลองคะเชนทร์,Phichit,Northern/พิจิตร/เมืองพิจิตร/คลองคะเชนทร์/Phichit,1034
+1035,Northern,พิจิตร,เมืองพิจิตร,Not Sated,Phichit,Northern/พิจิตร/เมืองพิจิตร/Not Sated/Phichit,1035
+1036,Northern,พิจิตร,เมืองพิจิตร,ปากทาง,Phichit,Northern/พิจิตร/เมืองพิจิตร/ปากทาง/Phichit,1036
+1037,Northern,พิจิตร,เมืองพิจิตร,บ้านบุ่ง,Phichit,Northern/พิจิตร/เมืองพิจิตร/บ้านบุ่ง/Phichit,1037
+1038,Northern,พิจิตร,เมืองพิจิตร,เมืองเก่า,Phichit,Northern/พิจิตร/เมืองพิจิตร/เมืองเก่า/Phichit,1038
+1039,Northern,พิจิตร,สากเหล็ก,คลองทราย,Phichit,Northern/พิจิตร/สากเหล็ก/คลองทราย/Phichit,1039
+1040,Northern,พิจิตร,เมืองพิจิตร,ท่าฬ่อ,Phichit,Northern/พิจิตร/เมืองพิจิตร/ท่าฬ่อ/Phichit,1040
+1041,Northern,พิจิตร,เมืองพิจิตร,โรงช้าง,Phichit,Northern/พิจิตร/เมืองพิจิตร/โรงช้าง/Phichit,1041
+1042,Eastern,ขอนแก่น,เมืองขอนแก่น,สำราญ,Khon Kaen,Eastern/ขอนแก่น/เมืองขอนแก่น/สำราญ/Khon Kaen,1042
+1043,Northern,กำแพงเพชร,เมืองกำแพงเพชร,ในเมือง,Kamphaeng Phet,Northern/กำแพงเพชร/เมืองกำแพงเพชร/ในเมือง/Kamphaeng Phet,1043
+1044,Northern,กำแพงเพชร,เมืองกำแพงเพชร,นครชุม,Kamphaeng Phet,Northern/กำแพงเพชร/เมืองกำแพงเพชร/นครชุม/Kamphaeng Phet,1044
+1045,Northern,กำแพงเพชร,เมืองกำแพงเพชร,หนองปลิง,Kamphaeng Phet,Northern/กำแพงเพชร/เมืองกำแพงเพชร/หนองปลิง/Kamphaeng Phet,1045
+1046,Northern,อุทัยธานี,บ้านไร่,บ้านไร่,Uthai Thani,Northern/อุทัยธานี/บ้านไร่/บ้านไร่/Uthai Thani,1046
+1047,Northern,เชียงราย,แม่สาย,โป่งงาม,Chiang Rai,Northern/เชียงราย/แม่สาย/โป่งงาม/Chiang Rai,1047
+1048,Northern,กำแพงเพชร,เมืองกำแพงเพชร,ท่าขุนราม,Kamphaeng Phet,Northern/กำแพงเพชร/เมืองกำแพงเพชร/ท่าขุนราม/Kamphaeng Phet,1048
+1049,Northern,กำแพงเพชร,Not Sated,Not Sated,Kamphaeng Phet,Northern/กำแพงเพชร/Not Sated/Not Sated/Kamphaeng Phet,1049
+1050,Northern,กำแพงเพชร,เมืองกำแพงเพชร,เทพนคร,Kamphaeng Phet,Northern/กำแพงเพชร/เมืองกำแพงเพชร/เทพนคร/Kamphaeng Phet,1050
+1051,Northern,ตาก,แม่สอด,พระธาตุผาแดง,Tak,Northern/ตาก/แม่สอด/พระธาตุผาแดง/Tak,1051
+1052,Northern,ตาก,แม่สอด,แม่ตาว,Tak,Northern/ตาก/แม่สอด/แม่ตาว/Tak,1052
+1053,Northern,พิษณุโลก,เมืองพิษณุโลก,บึงพระ,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/บึงพระ/Phitsanulok,1053
+1054,Eastern,มุกดาหาร,เมืองมุกดาหาร,มุกดาหาร,Mukdahan,Eastern/มุกดาหาร/เมืองมุกดาหาร/มุกดาหาร/Mukdahan,1054
+1055,Eastern,มุกดาหาร,เมืองมุกดาหาร,ศรีบุญเรือง,Mukdahan,Eastern/มุกดาหาร/เมืองมุกดาหาร/ศรีบุญเรือง/Mukdahan,1055
+1056,Eastern,สกลนคร,อากาศอำนวย,อากาศ,Sakon Nakhon,Eastern/สกลนคร/อากาศอำนวย/อากาศ/Sakon Nakhon,1056
+1057,Northern,พิษณุโลก,เมืองพิษณุโลก,วัดจันทร์,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/วัดจันทร์/Phitsanulok,1057
+1058,Northern,พิษณุโลก,เมืองพิษณุโลก,ท่าทอง,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/ท่าทอง/Phitsanulok,1058
+1059,Northern,พิษณุโลก,เมืองพิษณุโลก,อรัญญิก,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/อรัญญิก/Phitsanulok,1059
+1060,Northern,พิษณุโลก,วังทอง,วังทอง,Phitsanulok,Northern/พิษณุโลก/วังทอง/วังทอง/Phitsanulok,1060
+1061,Northern,พิษณุโลก,เมืองพิษณุโลก,บ้านคลอง,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/บ้านคลอง/Phitsanulok,1061
+1062,Northern,พิษณุโลก,เมืองพิษณุโลก,สมอแข,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/สมอแข/Phitsanulok,1062
+1063,Northern,พิษณุโลก,เมืองพิษณุโลก,วัดพริก,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/วัดพริก/Phitsanulok,1063
+1064,Northern,พิษณุโลก,เมืองพิษณุโลก,พิษณุโลก,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/พิษณุโลก/Phitsanulok,1064
+1065,Northern,พิษณุโลก,เมืองพิษณุโลก,หัวรอ,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/หัวรอ/Phitsanulok,1065
+1066,Northern,พิษณุโลก,เมืองพิษณุโลก,พลายชุมพล,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/พลายชุมพล/Phitsanulok,1066
+1067,Northern,พิษณุโลก,เมืองพิษณุโลก,บ้านกร่าง,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/บ้านกร่าง/Phitsanulok,1067
+1068,Northern,พิษณุโลก,วังทอง,บ้านกลาง,Phitsanulok,Northern/พิษณุโลก/วังทอง/บ้านกลาง/Phitsanulok,1068
+1069,Northern,พิษณุโลก,เมืองพิษณุโลก,ปากโทก,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/ปากโทก/Phitsanulok,1069
+1070,Northern,พิษณุโลก,เมืองพิษณุโลก,ไผ่ขอดอน,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/ไผ่ขอดอน/Phitsanulok,1070
+1071,Northern,พิษณุโลก,พรหมพิราม,มะตูม,Phitsanulok,Northern/พิษณุโลก/พรหมพิราม/มะตูม/Phitsanulok,1071
+1072,Northern,พิษณุโลก,Not Sated,Not Sated,Phitsanulok,Northern/พิษณุโลก/Not Sated/Not Sated/Phitsanulok,1072
+1073,Northern,สุโขทัย,เมืองสุโขทัย,ธานี,Sukhothai,Northern/สุโขทัย/เมืองสุโขทัย/ธานี/Sukhothai,1073
+1074,Northern,สุโขทัย,เมืองสุโขทัย,บ้านกล้วย,Sukhothai,Northern/สุโขทัย/เมืองสุโขทัย/บ้านกล้วย/Sukhothai,1074
+1075,Northern,สุโขทัย,เมืองสุโขทัย,ปากแคว,Sukhothai,Northern/สุโขทัย/เมืองสุโขทัย/ปากแคว/Sukhothai,1075
+1076,Northern,สุโขทัย,เมืองสุโขทัย,ยางซ้าย,Sukhothai,Northern/สุโขทัย/เมืองสุโขทัย/ยางซ้าย/Sukhothai,1076
+1077,Northern,สุโขทัย,เมืองสุโขทัย,Not Sated,Sukhothai,Northern/สุโขทัย/เมืองสุโขทัย/Not Sated/Sukhothai,1077
+1078,Northern,สุโขทัย,เมืองสุโขทัย,เมืองเก่า,Sukhothai,Northern/สุโขทัย/เมืองสุโขทัย/เมืองเก่า/Sukhothai,1078
+1079,Northern,สุโขทัย,ศรีสำโรง,เกาะตาเลี้ยง,Sukhothai,Northern/สุโขทัย/ศรีสำโรง/เกาะตาเลี้ยง/Sukhothai,1079
+1080,Northern,สุโขทัย,เมืองสุโขทัย,บ้านหลุม,Sukhothai,Northern/สุโขทัย/เมืองสุโขทัย/บ้านหลุม/Sukhothai,1080
+1081,Eastern,หนองบัวลำภู,เมืองหนองบัวลำภู,หนองบัว,Nong Bua Lam Phu,Eastern/หนองบัวลำภู/เมืองหนองบัวลำภู/หนองบัว/Nong Bua Lam Phu,1081
+1082,Eastern,หนองบัวลำภู,เมืองหนองบัวลำภู,ลำภู,Nong Bua Lam Phu,Eastern/หนองบัวลำภู/เมืองหนองบัวลำภู/ลำภู/Nong Bua Lam Phu,1082
+1083,Eastern,หนองบัวลำภู,เมืองหนองบัวลำภู,โพธิ์ชัย,Nong Bua Lam Phu,Eastern/หนองบัวลำภู/เมืองหนองบัวลำภู/โพธิ์ชัย/Nong Bua Lam Phu,1083
+1084,Eastern,สกลนคร,เมืองสกลนคร,ธาตุเชิงชุม,Sakon Nakhon,Eastern/สกลนคร/เมืองสกลนคร/ธาตุเชิงชุม/Sakon Nakhon,1084
+1085,Eastern,สกลนคร,เมืองสกลนคร,ธาตุนาเวง,Sakon Nakhon,Eastern/สกลนคร/เมืองสกลนคร/ธาตุนาเวง/Sakon Nakhon,1085
+1086,Eastern,สกลนคร,เมืองสกลนคร,เทศบาลนครสกลนคร,Sakon Nakhon,Eastern/สกลนคร/เมืองสกลนคร/เทศบาลนครสกลนคร/Sakon Nakhon,1086
+1087,Eastern,สกลนคร,เมืองสกลนคร,พังขว้าง,Sakon Nakhon,Eastern/สกลนคร/เมืองสกลนคร/พังขว้าง/Sakon Nakhon,1087
+1088,Eastern,สกลนคร,เมืองสกลนคร,งิ้วด่อน,Sakon Nakhon,Eastern/สกลนคร/เมืองสกลนคร/งิ้วด่อน/Sakon Nakhon,1088
+1089,Eastern,สกลนคร,เมืองสกลนคร,ห้วยยาง,Sakon Nakhon,Eastern/สกลนคร/เมืองสกลนคร/ห้วยยาง/Sakon Nakhon,1089
+1090,Eastern,สกลนคร,เมืองสกลนคร,ฮางโฮง,Sakon Nakhon,Eastern/สกลนคร/เมืองสกลนคร/ฮางโฮง/Sakon Nakhon,1090
+1091,Eastern,สกลนคร,เมืองสกลนคร,ดงมะไฟ,Sakon Nakhon,Eastern/สกลนคร/เมืองสกลนคร/ดงมะไฟ/Sakon Nakhon,1091
+1092,Eastern,นครพนม,เมืองนครพนม,หนองญาติ,Nakhon Phanom,Eastern/นครพนม/เมืองนครพนม/หนองญาติ/Nakhon Phanom,1092
+1093,Northern,ตาก,เมืองตาก,ไม้งาม,Tak,Northern/ตาก/เมืองตาก/ไม้งาม/Tak,1093
+1094,Northern,ตาก,เมืองตาก,วังหิน,Tak,Northern/ตาก/เมืองตาก/วังหิน/Tak,1094
+1095,Northern,ตาก,เมืองตาก,หัวเดียด,Tak,Northern/ตาก/เมืองตาก/หัวเดียด/Tak,1095
+1096,Northern,ตาก,เมืองตาก,เชียงเงิน,Tak,Northern/ตาก/เมืองตาก/เชียงเงิน/Tak,1096
+1097,Northern,ตาก,เมืองตาก,หนองบัวเหนือ,Tak,Northern/ตาก/เมืองตาก/หนองบัวเหนือ/Tak,1097
+1098,Northern,ตาก,เมืองตาก,น้ำรึม,Tak,Northern/ตาก/เมืองตาก/น้ำรึม/Tak,1098
+1099,Northern,ตาก,เมืองตาก,ป่ามะม่วง,Tak,Northern/ตาก/เมืองตาก/ป่ามะม่วง/Tak,1099
+1100,Northern,ตาก,เมืองตาก,หนองบัวใต้,Tak,Northern/ตาก/เมืองตาก/หนองบัวใต้/Tak,1100
+1101,Eastern,อุดรธานี,เมืองอุดรธานี,อุดรธานี,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/อุดรธานี/Udon Thani,1101
+1102,Eastern,อุดรธานี,เมืองอุดรธานี,หนองบัว,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/หนองบัว/Udon Thani,1102
+1103,Eastern,อุดรธานี,เมืองอุดรธานี,บ้านเลื่อม,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/บ้านเลื่อม/Udon Thani,1103
+1104,Eastern,อุดรธานี,เมืองอุดรธานี,เชียงพิณ,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/เชียงพิณ/Udon Thani,1104
+1105,Eastern,อุดรธานี,เมืองอุดรธานี,หนองนาคำ,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/หนองนาคำ/Udon Thani,1105
+1106,Eastern,อุดรธานี,เมืองอุดรธานี,บ้านจั่น,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/บ้านจั่น/Udon Thani,1106
+1107,Eastern,อุดรธานี,พิบูลย์รักษ์,บ้านแดง,Udon Thani,Eastern/อุดรธานี/พิบูลย์รักษ์/บ้านแดง/Udon Thani,1107
+1108,Eastern,อุดรธานี,เมืองอุดรธานี,นาดี,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/นาดี/Udon Thani,1108
+1109,Eastern,อุดรธานี,เมืองอุดรธานี,สามพร้าว,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/สามพร้าว/Udon Thani,1109
+1110,Eastern,อุดรธานี,เมืองอุดรธานี,หมูม่น,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/หมูม่น/Udon Thani,1110
+1111,Eastern,อุดรธานี,เมืองอุดรธานี,Not Sated,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/Not Sated/Udon Thani,1111
+1112,Northern,ตาก,แม่สอด,แม่สอด,Tak,Northern/ตาก/แม่สอด/แม่สอด/Tak,1112
+1113,Northern,ตาก,แม่สอด,แม่ปะ,Tak,Northern/ตาก/แม่สอด/แม่ปะ/Tak,1113
+1114,Northern,ตาก,แม่สอด,ท่าสายลวด,Tak,Northern/ตาก/แม่สอด/ท่าสายลวด/Tak,1114
+1115,Northern,พิษณุโลก,เมืองพิษณุโลก,Not Sated,Phitsanulok,Northern/พิษณุโลก/เมืองพิษณุโลก/Not Sated/Phitsanulok,1115
+1116,Eastern,เลย,เมืองเลย,นาอาน,Loei,Eastern/เลย/เมืองเลย/นาอาน/Loei,1116
+1117,Eastern,หนองบัวลำภู,Not Sated,Not Sated,Nong Bua Lam Phu,Eastern/หนองบัวลำภู/Not Sated/Not Sated/Nong Bua Lam Phu,1117
+1118,Eastern,อุดรธานี,เมืองอุดรธานี,กุดสระ,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/กุดสระ/Udon Thani,1118
+1119,Eastern,อุดรธานี,เมืองอุดรธานี,นาข่า,Udon Thani,Eastern/อุดรธานี/เมืองอุดรธานี/นาข่า/Udon Thani,1119
+1120,Northern,สุโขทัย,เมืองสุโขทัย,บ้านสวน,Sukhothai,Northern/สุโขทัย/เมืองสุโขทัย/บ้านสวน/Sukhothai,1120
+1121,Eastern,เลย,เมืองเลย,เมือง,Loei,Eastern/เลย/เมืองเลย/เมือง/Loei,1121
+1122,Eastern,เลย,เมืองเลย,กุดป่อง,Loei,Eastern/เลย/เมืองเลย/กุดป่อง/Loei,1122
+1123,Eastern,เลย,เมืองเลย,ชัยพฤกษ์,Loei,Eastern/เลย/เมืองเลย/ชัยพฤกษ์/Loei,1123
+1124,Eastern,นครพนม,เมืองนครพนม,ในเมือง,Nakhon Phanom,Eastern/นครพนม/เมืองนครพนม/ในเมือง/Nakhon Phanom,1124
+1125,Eastern,นครพนม,เมืองนครพนม,นาทราย,Nakhon Phanom,Eastern/นครพนม/เมืองนครพนม/นาทราย/Nakhon Phanom,1125
+1126,Eastern,นครพนม,เมืองนครพนม,หนองแสง,Nakhon Phanom,Eastern/นครพนม/เมืองนครพนม/หนองแสง/Nakhon Phanom,1126
+1127,Eastern,นครพนม,Not Sated,Not Sated,Nakhon Phanom,Eastern/นครพนม/Not Sated/Not Sated/Nakhon Phanom,1127
+1128,Northern,เชียงราย,เมืองเชียงราย,รอบเวียง,Chiang Rai,Northern/เชียงราย/เมืองเชียงราย/รอบเวียง/Chiang Rai,1128
+1129,Eastern,อุดรธานี,Not Sated,Not Sated,Udon Thani,Eastern/อุดรธานี/Not Sated/Not Sated/Udon Thani,1129
+1130,Northern,แพร่,สูงเม่น,น้ำชำ,Phrae,Northern/แพร่/สูงเม่น/น้ำชำ/Phrae,1130
+1131,Northern,แพร่,เมืองแพร่,ทุ่งกวาว,Phrae,Northern/แพร่/เมืองแพร่/ทุ่งกวาว/Phrae,1131
+1132,Northern,แพร่,เมืองแพร่,ทุ่งโฮ้ง,Phrae,Northern/แพร่/เมืองแพร่/ทุ่งโฮ้ง/Phrae,1132
+1133,Northern,แพร่,สูงเม่น,เวียงทอง,Phrae,Northern/แพร่/สูงเม่น/เวียงทอง/Phrae,1133
+1134,Northern,แพร่,เมืองแพร่,นาจักร,Phrae,Northern/แพร่/เมืองแพร่/นาจักร/Phrae,1134
+1135,Northern,แพร่,เมืองแพร่,เหมืองหม้อ,Phrae,Northern/แพร่/เมืองแพร่/เหมืองหม้อ/Phrae,1135
+1136,Northern,เชียงใหม่,เมืองเชียงใหม่,สันผีเสื้อ,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/สันผีเสื้อ/Chiang Mai,1136
+1137,Northern,แพร่,เมืองแพร่,ป่าแมต,Phrae,Northern/แพร่/เมืองแพร่/ป่าแมต/Phrae,1137
+1138,Northern,แพร่,สูงเม่น,ร่องกาศ,Phrae,Northern/แพร่/สูงเม่น/ร่องกาศ/Phrae,1138
+1139,Northern,แพร่,เด่นชัย,เด่นชัย,Phrae,Northern/แพร่/เด่นชัย/เด่นชัย/Phrae,1139
+1140,Northern,แพร่,เมืองแพร่,กาญจนา,Phrae,Northern/แพร่/เมืองแพร่/กาญจนา/Phrae,1140
+1141,Northern,แพร่,เมืองแพร่,ร่องฟอง,Phrae,Northern/แพร่/เมืองแพร่/ร่องฟอง/Phrae,1141
+1142,Northern,แพร่,เมืองแพร่,สวนเขื่อน,Phrae,Northern/แพร่/เมืองแพร่/สวนเขื่อน/Phrae,1142
+1143,Northern,แพร่,สูงเม่น,สูงเม่น,Phrae,Northern/แพร่/สูงเม่น/สูงเม่น/Phrae,1143
+1144,Northern,แพร่,เมืองแพร่,ป่าแดง,Phrae,Northern/แพร่/เมืองแพร่/ป่าแดง/Phrae,1144
+1145,Northern,แพร่,สูงเม่น,พระหลวง,Phrae,Northern/แพร่/สูงเม่น/พระหลวง/Phrae,1145
+1146,Northern,แพร่,สูงเม่น,ดอนมูล,Phrae,Northern/แพร่/สูงเม่น/ดอนมูล/Phrae,1146
+1147,Northern,แพร่,สูงเม่น,บ้านเหล่า,Phrae,Northern/แพร่/สูงเม่น/บ้านเหล่า/Phrae,1147
+1148,Eastern,บึงกาฬ,เมืองบึงกาฬ,บึงกาฬ,Bueng Kan,Eastern/บึงกาฬ/เมืองบึงกาฬ/บึงกาฬ/Bueng Kan,1148
+1149,Eastern,บึงกาฬ,เมืองบึงกาฬ,วิศิษฐ์,Bueng Kan,Eastern/บึงกาฬ/เมืองบึงกาฬ/วิศิษฐ์/Bueng Kan,1149
+1150,Northern,เชียงใหม่,หางดง,บ้านแหวน,Chiang Mai,Northern/เชียงใหม่/หางดง/บ้านแหวน/Chiang Mai,1150
+1151,Northern,เชียงใหม่,เมืองเชียงใหม่,ป่าแดด,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/ป่าแดด/Chiang Mai,1151
+1152,Northern,เชียงใหม่,สารภี,หนองผึ้ง,Chiang Mai,Northern/เชียงใหม่/สารภี/หนองผึ้ง/Chiang Mai,1152
+1153,Northern,เชียงใหม่,หางดง,หางดง,Chiang Mai,Northern/เชียงใหม่/หางดง/หางดง/Chiang Mai,1153
+1154,Northern,เชียงใหม่,สารภี,ขัวมุง,Chiang Mai,Northern/เชียงใหม่/สารภี/ขัวมุง/Chiang Mai,1154
+1155,Northern,เชียงใหม่,สารภี,หนองแฝก,Chiang Mai,Northern/เชียงใหม่/สารภี/หนองแฝก/Chiang Mai,1155
+1156,Northern,เชียงใหม่,สารภี,ยางเนิ้ง,Chiang Mai,Northern/เชียงใหม่/สารภี/ยางเนิ้ง/Chiang Mai,1156
+1157,Northern,เชียงใหม่,เมืองเชียงใหม่,ช้างเผือก,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/ช้างเผือก/Chiang Mai,1157
+1158,Northern,เชียงใหม่,สารภี,ดอนแก้ว,Chiang Mai,Northern/เชียงใหม่/สารภี/ดอนแก้ว/Chiang Mai,1158
+1159,Northern,เชียงใหม่,สารภี,ท่าวังตาล,Chiang Mai,Northern/เชียงใหม่/สารภี/ท่าวังตาล/Chiang Mai,1159
+1160,Northern,เชียงใหม่,เมืองเชียงใหม่,ช้างคลาน,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/ช้างคลาน/Chiang Mai,1160
+1161,Northern,เชียงใหม่,หางดง,สบแม่ข่า,Chiang Mai,Northern/เชียงใหม่/หางดง/สบแม่ข่า/Chiang Mai,1161
+1162,Northern,เชียงใหม่,หางดง,สันผักหวาน,Chiang Mai,Northern/เชียงใหม่/หางดง/สันผักหวาน/Chiang Mai,1162
+1163,Northern,เชียงใหม่,สารภี,ชมภู,Chiang Mai,Northern/เชียงใหม่/สารภี/ชมภู/Chiang Mai,1163
+1164,Northern,เชียงใหม่,หางดง,ขุนคง,Chiang Mai,Northern/เชียงใหม่/หางดง/ขุนคง/Chiang Mai,1164
+1165,Northern,เชียงใหม่,เมืองเชียงใหม่,Not Sated,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/Not Sated/Chiang Mai,1165
+1166,Northern,เชียงใหม่,เมืองเชียงใหม่,หายยา,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/หายยา/Chiang Mai,1166
+1167,Northern,เชียงใหม่,สารภี,สารภี,Chiang Mai,Northern/เชียงใหม่/สารภี/สารภี/Chiang Mai,1167
+1168,Northern,เชียงใหม่,หางดง,น้ำแพร่,Chiang Mai,Northern/เชียงใหม่/หางดง/น้ำแพร่/Chiang Mai,1168
+1169,Northern,เชียงใหม่,หางดง,หนองแก๋ว,Chiang Mai,Northern/เชียงใหม่/หางดง/หนองแก๋ว/Chiang Mai,1169
+1170,Northern,เชียงใหม่,เมืองเชียงใหม่,ฟ้าฮ่าม,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/ฟ้าฮ่าม/Chiang Mai,1170
+1171,Northern,เชียงใหม่,สันกำแพง,สันกำแพง,Chiang Mai,Northern/เชียงใหม่/สันกำแพง/สันกำแพง/Chiang Mai,1171
+1172,Northern,เชียงใหม่,เมืองเชียงใหม่,ช้างม่อย,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/ช้างม่อย/Chiang Mai,1172
+1173,Northern,น่าน,เมืองน่าน,ผาสิงห์,Nan,Northern/น่าน/เมืองน่าน/ผาสิงห์/Nan,1173
+1174,Northern,น่าน,ภูเพียง,ม่วงตึ๊ด,Nan,Northern/น่าน/ภูเพียง/ม่วงตึ๊ด/Nan,1174
+1175,Northern,น่าน,ภูเพียง,ฝายแก้ว,Nan,Northern/น่าน/ภูเพียง/ฝายแก้ว/Nan,1175
+1176,Northern,น่าน,เมืองน่าน,ไชยสถาน,Nan,Northern/น่าน/เมืองน่าน/ไชยสถาน/Nan,1176
+1177,Northern,น่าน,เมืองน่าน,ดู่ใต้,Nan,Northern/น่าน/เมืองน่าน/ดู่ใต้/Nan,1177
+1178,Northern,น่าน,ท่าวังผา,ป่าคา,Nan,Northern/น่าน/ท่าวังผา/ป่าคา/Nan,1178
+1179,Northern,น่าน,Not Sated,Not Sated,Nan,Northern/น่าน/Not Sated/Not Sated/Nan,1179
+1180,Northern,เชียงใหม่,เมืองเชียงใหม่,สุเทพ,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/สุเทพ/Chiang Mai,1180
+1181,Northern,เชียงใหม่,เมืองเชียงใหม่,ศรีภูมิ,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/ศรีภูมิ/Chiang Mai,1181
+1182,Northern,เชียงใหม่,เมืองเชียงใหม่,หนองป่าครั่ง,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/หนองป่าครั่ง/Chiang Mai,1182
+1183,Northern,เชียงใหม่,เมืองเชียงใหม่,พระสิงห์,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/พระสิงห์/Chiang Mai,1183
+1184,Northern,เชียงใหม่,เมืองเชียงใหม่,ท่าศาลา,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/ท่าศาลา/Chiang Mai,1184
+1185,Northern,เชียงใหม่,สารภี,ไชยสถาน,Chiang Mai,Northern/เชียงใหม่/สารภี/ไชยสถาน/Chiang Mai,1185
+1186,Northern,เชียงใหม่,เมืองเชียงใหม่,หนองหอย,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/หนองหอย/Chiang Mai,1186
+1187,Northern,เชียงใหม่,หางดง,หนองควาย,Chiang Mai,Northern/เชียงใหม่/หางดง/หนองควาย/Chiang Mai,1187
+1188,Northern,เชียงใหม่,สารภี,Not Sated,Chiang Mai,Northern/เชียงใหม่/สารภี/Not Sated/Chiang Mai,1188
+1189,Northern,เชียงใหม่,สันกำแพง,สันกลาง,Chiang Mai,Northern/เชียงใหม่/สันกำแพง/สันกลาง/Chiang Mai,1189
+1190,Northern,เชียงใหม่,สารภี,ป่าบง,Chiang Mai,Northern/เชียงใหม่/สารภี/ป่าบง/Chiang Mai,1190
+1191,Northern,เชียงใหม่,สันทราย,สันทรายน้อย,Chiang Mai,Northern/เชียงใหม่/สันทราย/สันทรายน้อย/Chiang Mai,1191
+1192,Northern,เชียงใหม่,ดอยสะเก็ด,สันปูเลย,Chiang Mai,Northern/เชียงใหม่/ดอยสะเก็ด/สันปูเลย/Chiang Mai,1192
+1193,Northern,เชียงใหม่,แม่ริม,ริมใต้,Chiang Mai,Northern/เชียงใหม่/แม่ริม/ริมใต้/Chiang Mai,1193
+1194,Northern,เชียงใหม่,จอมทอง,ข่วงเปา,Chiang Mai,Northern/เชียงใหม่/จอมทอง/ข่วงเปา/Chiang Mai,1194
+1195,Northern,เชียงใหม่,แม่ริม,ดอนแก้ว,Chiang Mai,Northern/เชียงใหม่/แม่ริม/ดอนแก้ว/Chiang Mai,1195
+1196,Northern,เชียงใหม่,สันทราย,สันพระเนตร,Chiang Mai,Northern/เชียงใหม่/สันทราย/สันพระเนตร/Chiang Mai,1196
+1197,Northern,เชียงใหม่,สันทราย,สันทราย,Chiang Mai,Northern/เชียงใหม่/สันทราย/สันทราย/Chiang Mai,1197
+1198,Northern,เชียงใหม่,สันทราย,สันนาเม็ง,Chiang Mai,Northern/เชียงใหม่/สันทราย/สันนาเม็ง/Chiang Mai,1198
+1199,Northern,เชียงใหม่,ดอยสะเก็ด,แม่คือ,Chiang Mai,Northern/เชียงใหม่/ดอยสะเก็ด/แม่คือ/Chiang Mai,1199
+1200,Northern,เชียงใหม่,สันทราย,หนองจ๊อม,Chiang Mai,Northern/เชียงใหม่/สันทราย/หนองจ๊อม/Chiang Mai,1200
+1201,Northern,เชียงใหม่,ดอยสะเก็ด,เชิงดอย,Chiang Mai,Northern/เชียงใหม่/ดอยสะเก็ด/เชิงดอย/Chiang Mai,1201
+1202,Northern,เชียงใหม่,สันกำแพง,แม่ปูคา,Chiang Mai,Northern/เชียงใหม่/สันกำแพง/แม่ปูคา/Chiang Mai,1202
+1203,Northern,เชียงใหม่,สันกำแพง,Not Sated,Chiang Mai,Northern/เชียงใหม่/สันกำแพง/Not Sated/Chiang Mai,1203
+1204,Northern,เชียงใหม่,ดอยสะเก็ด,ตลาดขวัญ,Chiang Mai,Northern/เชียงใหม่/ดอยสะเก็ด/ตลาดขวัญ/Chiang Mai,1204
+1205,Northern,เชียงใหม่,ดอยสะเก็ด,สำราญราษฎร์,Chiang Mai,Northern/เชียงใหม่/ดอยสะเก็ด/สำราญราษฎร์/Chiang Mai,1205
+1206,Northern,เชียงใหม่,ดอยสะเก็ด,Not Sated,Chiang Mai,Northern/เชียงใหม่/ดอยสะเก็ด/Not Sated/Chiang Mai,1206
+1207,Central,จันทบุรี,ขลุง,ขลุง,Chanthaburi,Central/จันทบุรี/ขลุง/ขลุง/Chanthaburi,1207
+1208,Northern,เชียงใหม่,สันทราย,หนองหาร,Chiang Mai,Northern/เชียงใหม่/สันทราย/หนองหาร/Chiang Mai,1208
+1209,Northern,เชียงใหม่,สันทราย,ป่าไผ่,Chiang Mai,Northern/เชียงใหม่/สันทราย/ป่าไผ่/Chiang Mai,1209
+1210,Northern,เชียงใหม่,แม่ริม,แม่สา,Chiang Mai,Northern/เชียงใหม่/แม่ริม/แม่สา/Chiang Mai,1210
+1211,Northern,เชียงใหม่,แม่ริม,เหมืองแก้ว,Chiang Mai,Northern/เชียงใหม่/แม่ริม/เหมืองแก้ว/Chiang Mai,1211
+1212,Northern,เชียงใหม่,เมืองเชียงใหม่,ป่าตัน,Chiang Mai,Northern/เชียงใหม่/เมืองเชียงใหม่/ป่าตัน/Chiang Mai,1212
+1213,Northern,เชียงราย,เวียงป่าเป้า,ป่างิ้ว,Chiang Rai,Northern/เชียงราย/เวียงป่าเป้า/ป่างิ้ว/Chiang Rai,1213
+1214,Northern,เชียงใหม่,แม่ริม,ริมเหนือ,Chiang Mai,Northern/เชียงใหม่/แม่ริม/ริมเหนือ/Chiang Mai,1214
+1215,Northern,เชียงใหม่,แม่แตง,Not Sated,Chiang Mai,Northern/เชียงใหม่/แม่แตง/Not Sated/Chiang Mai,1215
+1216,Northern,เชียงใหม่,สันทราย,หนองแหย่ง,Chiang Mai,Northern/เชียงใหม่/สันทราย/หนองแหย่ง/Chiang Mai,1216
+1217,Northern,เชียงใหม่,สันทราย,เมืองเล็น,Chiang Mai,Northern/เชียงใหม่/สันทราย/เมืองเล็น/Chiang Mai,1217
+1218,Northern,เชียงใหม่,แม่ริม,แม่แรม,Chiang Mai,Northern/เชียงใหม่/แม่ริม/แม่แรม/Chiang Mai,1218
+1219,Northern,เชียงใหม่,สันทราย,แม่แฝก,Chiang Mai,Northern/เชียงใหม่/สันทราย/แม่แฝก/Chiang Mai,1219
+1220,Northern,เชียงใหม่,หางดง,บ้านปง,Chiang Mai,Northern/เชียงใหม่/หางดง/บ้านปง/Chiang Mai,1220
+1221,Northern,เชียงใหม่,ดอยสะเก็ด,ลวงเหนือ,Chiang Mai,Northern/เชียงใหม่/ดอยสะเก็ด/ลวงเหนือ/Chiang Mai,1221
+1222,Northern,เชียงใหม่,สันทราย,สันป่าเปา,Chiang Mai,Northern/เชียงใหม่/สันทราย/สันป่าเปา/Chiang Mai,1222
+1223,Northern,เชียงใหม่,เชียงดาว,เชียงดาว,Chiang Mai,Northern/เชียงใหม่/เชียงดาว/เชียงดาว/Chiang Mai,1223
+1224,Northern,เชียงใหม่,แม่ริม,Not Sated,Chiang Mai,Northern/เชียงใหม่/แม่ริม/Not Sated/Chiang Mai,1224
+1225,Northern,เชียงใหม่,แม่แตง,สันป่ายาง,Chiang Mai,Northern/เชียงใหม่/แม่แตง/สันป่ายาง/Chiang Mai,1225
+1226,Northern,เชียงใหม่,แม่ริม,สันโป่ง,Chiang Mai,Northern/เชียงใหม่/แม่ริม/สันโป่ง/Chiang Mai,1226
+1227,Central,สมุทรปราการ,พระสมุทรเจดีย์,นาเกลือ,Samut Prakan,Central/สมุทรปราการ/พระสมุทรเจดีย์/นาเกลือ/Samut Prakan,1227
+1228,Eastern,สุรินทร์,เมืองสุรินทร์,คอโค,Surin,Eastern/สุรินทร์/เมืองสุรินทร์/คอโค/Surin,1228
+1229,Central,พระนครศรีอยุธยา,บางปะหัน,พุทเลา,Phra Nakhon Si Ayutthaya,Central/พระนครศรีอยุธยา/บางปะหัน/พุทเลา/Phra Nakhon Si Ayutthaya,1229
+1230,Eastern,นครพนม,ธาตุพนม,ธาตุพนม,Nakhon Phanom,Eastern/นครพนม/ธาตุพนม/ธาตุพนม/Nakhon Phanom,1230
+1231,Northern,แพร่,ลอง,บ้านปิน,Phrae,Northern/แพร่/ลอง/บ้านปิน/Phrae,1231
+1232,Eastern,อุบลราชธานี,วารินชำราบ,เมืองศรีไค,Ubon Ratchathani,Eastern/อุบลราชธานี/วารินชำราบ/เมืองศรีไค/Ubon Ratchathani,1232
+1233,Bangkok,กรุงเทพมหานคร,Pathum Wan,Pathum Wan,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/Pathum Wan/Pathum Wan/Bangkok Metropolis,1233
+1234,Central,นนทบุรี,บางกรวย,Not Sated,Nonthaburi,Central/นนทบุรี/บางกรวย/Not Sated/Nonthaburi,1234
+1235,Central,นครนายก,เมืองนครนายก,สาริกา,Nakhon Nayok,Central/นครนายก/เมืองนครนายก/สาริกา/Nakhon Nayok,1235
+1236,Bangkok,กรุงเทพมหานคร,บางซื่อ,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/บางซื่อ/Not Sated/Bangkok Metropolis,1236
+1237,Bangkok,กรุงเทพมหานคร,วังทองหลาง,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/วังทองหลาง/Not Sated/Bangkok Metropolis,1237
+1238,Central,ราชบุรี,เมืองราชบุรี,พงสวาย,Ratchaburi,Central/ราชบุรี/เมืองราชบุรี/พงสวาย/Ratchaburi,1238
+1239,Central,ราชบุรี,เมืองราชบุรี,โคกหม้อ,Ratchaburi,Central/ราชบุรี/เมืองราชบุรี/โคกหม้อ/Ratchaburi,1239
+1240,Central,ราชบุรี,เมืองราชบุรี,บ้านไร่,Ratchaburi,Central/ราชบุรี/เมืองราชบุรี/บ้านไร่/Ratchaburi,1240
+1241,Central,ราชบุรี,เมืองราชบุรี,Not Sated,Ratchaburi,Central/ราชบุรี/เมืองราชบุรี/Not Sated/Ratchaburi,1241
+1242,Northern,ลำพูน,เมืองลำพูน,เหมืองง่า,Lamphun,Northern/ลำพูน/เมืองลำพูน/เหมืองง่า/Lamphun,1242
+1243,Northern,ลำพูน,เมืองลำพูน,บ้านกลาง,Lamphun,Northern/ลำพูน/เมืองลำพูน/บ้านกลาง/Lamphun,1243
+1244,Northern,ลำพูน,เมืองลำพูน,ริมปิง,Lamphun,Northern/ลำพูน/เมืองลำพูน/ริมปิง/Lamphun,1244
+1245,Northern,ลำพูน,เมืองลำพูน,ต้นธง,Lamphun,Northern/ลำพูน/เมืองลำพูน/ต้นธง/Lamphun,1245
+1246,Northern,ลำพูน,เมืองลำพูน,เวียงยอง,Lamphun,Northern/ลำพูน/เมืองลำพูน/เวียงยอง/Lamphun,1246
+1247,Bangkok,กรุงเทพมหานคร,คลองเตย,Not Sated,Bangkok Metropolis,Bangkok/กรุงเทพมหานคร/คลองเตย/Not Sated/Bangkok Metropolis,1247
+1248,Southern,สตูล,เมืองสตูล,บ้านควน,Satun,Southern/สตูล/เมืองสตูล/บ้านควน/Satun,1248
+1249,Southern,สตูล,เมืองสตูล,คลองขุด,Satun,Southern/สตูล/เมืองสตูล/คลองขุด/Satun,1249
+1250,Southern,สตูล,เมืองสตูล,ควนขัน,Satun,Southern/สตูล/เมืองสตูล/ควนขัน/Satun,1250
+1251,Southern,สตูล,เมืองสตูล,พิมาน,Satun,Southern/สตูล/เมืองสตูล/พิมาน/Satun,1251
+1252,Central,กาญจนบุรี,เมืองกาญจนบุรี,บ้านใต้,Kanchanaburi,Central/กาญจนบุรี/เมืองกาญจนบุรี/บ้านใต้/Kanchanaburi,1252
+1253,Central,กาญจนบุรี,เมืองกาญจนบุรี,ปากแพรก,Kanchanaburi,Central/กาญจนบุรี/เมืองกาญจนบุรี/ปากแพรก/Kanchanaburi,1253
+1254,Central,กาญจนบุรี,เมืองกาญจนบุรี,ท่ามะขาม,Kanchanaburi,Central/กาญจนบุรี/เมืองกาญจนบุรี/ท่ามะขาม/Kanchanaburi,1254
+1255,Central,กาญจนบุรี,เมืองกาญจนบุรี,บ้านเหนือ,Kanchanaburi,Central/กาญจนบุรี/เมืองกาญจนบุรี/บ้านเหนือ/Kanchanaburi,1255
+1256,Central,กาญจนบุรี,ท่าม่วง,ท่าล้อ,Kanchanaburi,Central/กาญจนบุรี/ท่าม่วง/ท่าล้อ/Kanchanaburi,1256
+1257,Central,กาญจนบุรี,Not Sated,Not Sated,Kanchanaburi,Central/กาญจนบุรี/Not Sated/Not Sated/Kanchanaburi,1257
+1258,Central,ราชบุรี,เมืองราชบุรี,หลุมดิน,Ratchaburi,Central/ราชบุรี/เมืองราชบุรี/หลุมดิน/Ratchaburi,1258
+1259,Central,ราชบุรี,เมืองราชบุรี,เจดีย์หัก,Ratchaburi,Central/ราชบุรี/เมืองราชบุรี/เจดีย์หัก/Ratchaburi,1259
+1260,Central,ราชบุรี,เมืองราชบุรี,ดอนตะโก,Ratchaburi,Central/ราชบุรี/เมืองราชบุรี/ดอนตะโก/Ratchaburi,1260
+1261,Eastern,สุรินทร์,เมืองสุรินทร์,ท่าสว่าง,Surin,Eastern/สุรินทร์/เมืองสุรินทร์/ท่าสว่าง/Surin,1261

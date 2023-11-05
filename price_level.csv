@@ -1,0 +1,6 @@
+,price_level,price_level_id
+0,lower 100 baht,0
+1,101-250 baht,1
+2,251-500 baht,2
+3,501-1000 baht,3
+4,upper 1000 baht,4

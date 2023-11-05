@@ -22,7 +22,7 @@ ORDER By reviews DESC
 LIMIT 100;
 
 -- full sigle table
-CREATE or REPLACE christgett.full_table AS (
+CREATE or REPLACE christget.full_table AS (
     SELECT re.name,
            ca.category,
            pr.price_level,
